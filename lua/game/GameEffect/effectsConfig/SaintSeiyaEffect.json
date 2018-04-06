@@ -1,0 +1,29 @@
+{
+"views1_delay64":[
+  {"id":"Circle_Hue130_12","type":"image","resPath":"effects/effectsRes/Circle_Hue130.png",
+     "ax":0.5,"ay":0.5,"x":21,"y":32,"z":-1,"scaleX":0.3,"scaleY":0.225,"blend":[1,1],"opacity":0,"action":[]},
+ ],
+"views1_delay55":[
+  {"id":"Circle_Hue130_9","type":"image","resPath":"effects/effectsRes/Glow_09.png",
+     "ax":0.5,"ay":0.5,"x":21,"y":32,"z":-2,"scaleX":1,"scaleY":0.75,"blend":[1,771],"opacity":0,"action":[]},
+ ],
+ "views1_delay55_up":[
+  {"id":"Shield_00000_5","type":"animate","frames":6,"time":0.417,"name":"Saint_Shield_","tab":{"beginNum":0,"plist":"effects/effectsRes/Saint_Shield.plist","isRepeat":true},
+     "ax":0.5,"ay":0.5,"x":19,"y":68,"z":1,"scaleX":2.33,"scaleY":2.33,"blend":[1,771],"opacity":0,"action":[]},
+  {"id":"Shield_00000_5_0","type":"animate","frames":6,"time":0.417,"name":"Saint_Shield_","tab":{"beginNum":0,"plist":"effects/effectsRes/Saint_Shield.plist","isRepeat":true},
+     "ax":0.5,"ay":0.5,"x":19,"y":68,"z":2,"scaleX":2.33,"scaleY":2.33,"blend":[770,1],"opacity":0,"action":[]},
+ ],
+
+"views2_delay26":[
+  {"id":"Flare_1","type":"image","resPath":"effects/effectsRes/Flare.png",
+     "ax":0.5,"ay":0.5,"x":515,"y":706,"z":3,"scaleX":0.75,"scaleY":0.5,"blend":[1,771],"skewX":-117.0624,"skewY":-117.1002,"opacity":0,"action":[]},
+  {"id":"Glow_01_2","type":"image","resPath":"effects/effectsRes/Glow_01.png",
+     "ax":0.5,"ay":0.5,"x":512,"y":703,"z":4,"scaleX":0.2,"scaleY":0.2,"blend":[770,1],"opacity":0,"action":[]},
+ ],
+"views2_delay20":[
+  {"id":"Weapontrail_60_00000_30","type":"animate","frames":6,"time":0.167,"name":"Weapontrail_","tab":{"beginNum":0,"plist":"effects/effectsRes/Weapontrail.plist","isRepeat":false},
+     "ax":0.5,"ay":0.5,"x":24,"y":68,"z":1,"scaleX":3.0,"scaleY":3.0,"blend":[1,771],"skewX":6.6963,"skewY":6.6963,"opacity":0,"action":[]},
+  {"id":"Weapontrail_60_00000_30_0","type":"animate","frames":6,"time":0.167,"name":"Weapontrail_","tab":{"beginNum":0,"plist":"effects/effectsRes/Weapontrail.plist","isRepeat":false},
+     "ax":0.5,"ay":0.5,"x":24,"y":68,"z":2,"scaleX":3.0,"scaleY":3.0,"blend":[774,1],"skewX":6.6963,"skewY":6.6963,"opacity":0,"action":[]},
+ ]
+}

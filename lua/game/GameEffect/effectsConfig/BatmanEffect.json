@@ -1,0 +1,22 @@
+{
+"views1_delay0":[
+  {"id":"Ground_00001_5","type":"animate","frames":9,"time":0.400,"name":"Glow_Ground_","tab":{"beginNum":0,"plist":"effects/effectsRes/Glow_Ground.plist","isRepeat":false},
+     "ax":0.5,"ay":0.5,"x":0,"y":0,"z":1,"scaleX":3.5,"scaleY":2.625,"blend":[1,771],"opacity":0,"action":[]},
+ ],
+"views1_delay14":[
+  {"id":"Glow_02_3","type":"image","resPath":"effects/effectsRes/Glow_02.png",
+     "ax":0.5,"ay":0.5,"x":0,"y":40,"z":3,"scaleX":1.5,"scaleY":1.5,"blend":[770,1],"opacity":0,"color":[255,0,0],"action":[]},
+  {"id":"Sphere_00000_10","type":"animate","frames":6,"time":0.417,"name":"Sphere_","tab":{"beginNum":0,"plist":"effects/effectsRes/Sphere.plist","isRepeat":true},
+     "ax":0.5,"ay":0.4,"x":0,"y":40,"z":1,"scaleX":1.5,"scaleY":1.5,"blend":[770,1],"opacity":0,"color":[255,78,0],"action":[]},
+  {"id":"Sphere_00000_10_0","type":"animate","frames":6,"time":0.417,"name":"Sphere_","tab":{"beginNum":0,"plist":"effects/effectsRes/Sphere.plist","isRepeat":true},
+     "ax":0.5,"ay":0.4,"x":0,"y":40,"z":2,"scaleX":1.5,"scaleY":1.5,"blend":[1,771],"opacity":0,"color":[255,0,0],"action":[]},
+ ],
+"views1_delay14_down":[
+   {"id":"Particle_1","type":"particle","resPath":"particles/battleEffectBatman1.json",
+     "x":0,"y":40,"z":3,"scaleX":1.0,"scaleY":1.0,"blend":[1,1],"action":[]},
+ ],
+ "views1_delay34":[
+  {"id":"Glow_02_6","type":"image","resPath":"effects/effectsRes/Glow_02.png",
+     "ax":0.5,"ay":0.5,"x":0,"y":0,"z":2,"scaleX":1.0,"scaleY":0.75,"blend":[774,1],"opacity":0,"action":[]},
+ ]
+}

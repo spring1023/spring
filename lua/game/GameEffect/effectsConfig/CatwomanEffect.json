@@ -1,0 +1,20 @@
+{
+"views1_delay34":[
+  {"id":"Ground_00001_5","type":"animate","frames":8,"time":0.48,"name":"Glow_Ground_","tab":{"beginNum":0,"plist":"effects/effectsRes/Glow_Ground.plist","isRepeat":true},
+     "ax":0.5,"ay":0.5,"x":0,"y":0,"z":-3,"scaleX":3.5,"scaleY":2.625,"blend":[1,771],"opacity":0,"action":[]},
+  {"id":"UP_Line_C_00001_2","type":"animate","frames":11,"time":0.500,"name":"UP_0_","tab":{"beginNum":0,"plist":"effects/effectsRes/UP_0.plist","isRepeat":false},
+     "ax":0.5,"ay":0.2,"x":0,"y":0,"z":-1,"scaleX":2.0,"scaleY":2.0,"blend":[770,1],"opacity":0,"action":[]},
+ ],
+ "views1_delay34_up":[
+  {"id":"UP_Line_S_00001_1","type":"animate","frames":11,"time":0.500,"name":"UP_1_","tab":{"beginNum":0,"plist":"effects/effectsRes/UP_1.plist","isRepeat":false},
+     "ax":0.5,"ay":0.2,"x":0,"y":0,"z":1,"scaleX":2.0,"scaleY":2.0,"blend":[770,1],"opacity":0,"action":[]},
+ ],
+"views1_delay44":[
+  {"id":"Glow_02_3","type":"image","resPath":"effects/effectsRes/Glow_02.png",
+     "ax":0.5,"ay":0.5,"x":0,"y":0,"z":-2,"scaleX":1.0,"scaleY":0.75,"blend":[774,1],"opacity":0,"action":[]},
+ ],
+"views1_delay46":[
+  {"id":"Particle_1","type":"particle","resPath":"particles/battleEffectCat1.json",
+     "x":0,"y":0,"z":2,"scaleX":1.0,"scaleY":1.0,"blend":[770,1],"action":[]},
+ ]
+}

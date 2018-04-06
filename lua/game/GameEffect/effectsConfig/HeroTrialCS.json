@@ -1,0 +1,8 @@
+{
+"views1_delay0":[
+  {"id":"base_exe_9","type":"image","resPath":"heroTrialBottom2.png",
+     "ax":0.5,"ay":0.5,"x":0,"y":0,"z":31,"scaleX":1.2,"scaleY":1.2,"blend":[772,1],"color":[255,73,0],"action":[]},
+  {"id":"zhaohuan2_1","type":"image","resPath":"heroTrialBottom1.png",
+     "ax":0.5,"ay":0.5,"x":-3,"y":0,"z":32,"scaleX":1.1,"scaleY":1.1,"blend":[772,1],"color":[255,165,0],"action":[]},
+]
+}

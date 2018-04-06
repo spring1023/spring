@@ -1,0 +1,16 @@
+{
+"views1":[
+  {"id":"base_guangci1_8","type":"image","resPath":"effects/effectsRes/guangci1.png",
+     "ax":0.4841,"ay":0.5088,"x":0,"y":0,"z":1,"scaleX":1.0,"scaleY":1.0,"blend":[1,1],"skewX":180.0,"skewY":180.0,"opacity":127,"action":[]},
+ ],
+"views2":[
+  {"id":"Sprite_2","type":"image","resPath":"effects/effectsRes/I_daogua).png",
+     "ax":0.5162,"ay":0.5411,"x":70,"y":100,"z":3,"scaleX":5.0,"scaleY":5.0,"blend":[1,1],"opacity":0,"action":[]},
+  {"id":"arcane_hydra_spiral_4","type":"image","resPath":"effects/effectsRes/arcane_hydra_spiral.png",
+     "ax":0.4787,"ay":0.497,"x":0,"y":0,"z":4,"scaleX":4.0,"scaleY":4.0,"blend":[1,771],"r":0,"action":[]},
+  {"id":"arcane_orb_spiral_5","type":"image","resPath":"effects/effectsRes/arcane_orb_spiral.png",
+     "ax":0.5,"ay":0.5,"x":0,"y":0,"z":5,"scaleX":2.5,"scaleY":2.5,"blend":[1,1],"r":180,"action":[]},
+  {"id":"arcane_orb_spiral_5_0","type":"image","resPath":"effects/effectsRes/arcane_orb_spiral.png",
+     "ax":0.5,"ay":0.5,"x":0,"y":0,"z":6,"scaleX":1.5,"scaleY":1.5,"blend":[1,1],"r":210,"action":[]},
+ ]
+}

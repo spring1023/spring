@@ -1,0 +1,30 @@
+{
+ "firstViews":[
+ 	{"id":"a_1","type":"image","resPath":"effects/equips/battleLightBlue.png",
+     "ax":0.5,"ay":0.5,"x":1,"y":7,"z":0,"scaleX":0.8,"scaleY":0.8,"blend":[1,771],"opacity":127,"action":[]},
+ 	{"id":"a_2","type":"image","resPath":"effects/equips/battleLightBlue.png",
+     "ax":0.5,"ay":0.5,"x":1,"y":7,"z":0,"scaleX":0.8,"scaleY":0.8,"blend":[770,1],"opacity":255,"action":[]},
+  	{"id":"Glow","type":"image","resPath":"effects/effectsRes/Glow_01.png",
+     "ax":0.5,"ay":0.5,"x":3,"y":5,"z":0,"scaleX":0.8,"scaleY":0.8,"blend":[770,1],"opacity":255,"color":[0,53,255],"action":[]}
+ ],
+ "lightViews":[
+ 	  {"id":"Lightning1","type":"animate","time":0.42,"name":"Lightning_","frames":5,"ax":0.5,"ay":0.5,"x":0,"y":0,"z":0,"scaleX":0.5,"scaleY":0.5,
+ 		"tab":{"beginNum":1,"plist":"effects/effectsRes/Lightning.plist","isRepeat":true},"blend":[1,771],"opacity":204,"action":[]},
+ 	  {"id":"Lightning2","type":"animate","time":0.42,"name":"Lightning_","frames":5,"ax":0.5,"ay":0.5,"x":0,"y":0,"z":0,"scaleX":0.5,"scaleY":0.5,
+ 		"tab":{"beginNum":1,"plist":"effects/effectsRes/Lightning.plist","isRepeat":true},"blend":[1,771],"opacity":170,"action":[]}	
+ ],
+ "upViews":[
+ 	 {"id":"Flare1","type":"image","resPath":"effects/effectsRes/Flare_00000.png",
+     	"ax":0.5,"ay":0.5,"x":0,"y":0,"z":0,"scaleX":0.5,"scaleY":0.5,"blend":[1,771],"opacity":0,"action":[]},
+     {"id":"Electricity1","type":"animate","time":0.42,"name":"Electricity_","frames":6,"ax":0.5,"ay":0.5,"x":0,"y":0,"z":0,"scaleX":1.5,"scaleY":1.5,
+ 		"tab":{"beginNum":0,"plist":"effects/effectsRes/Electricity.plist","isRepeat":false},"blend":[1,771],"opacity":127,"action":[]},
+ 	 {"id":"Flare2","type":"image","resPath":"effects/effectsRes/Flare_00000.png",
+     "ax":0.5,"ay":0.5,"x":0,"y":0,"z":0,"scaleX":0.5,"scaleY":0.5,"blend":[1,1],"action":[]},
+     {"id":"Electricity2","type":"animate","time":0.42,"name":"Electricity_","frames":6,"ax":0.5,"ay":0.5,"x":0,"y":0,"z":0,"scaleX":1.5,"scaleY":1.5,
+ 		"tab":{"beginNum":0,"plist":"effects/effectsRes/Electricity.plist","isRepeat":false},"blend":[1,771],"opacity":153,"action":[]},
+ 	 {"id":"Glow1","type":"image","resPath":"effects/effectsRes/Glow_01.png",
+     	"ax":0.5,"ay":0.5,"x":0,"y":0,"z":0,"scaleX":0.8,"scaleY":0.8,"blend":[770,1],"opacity":255,"color":[0,53,255],"action":[]},
+   	 {"id":"Glow2","type":"image","resPath":"effects/effectsRes/Glow_01.png",
+     	"ax":0.5,"ay":0.5,"x":0,"y":0,"z":0,"scaleX":0.8,"scaleY":0.8,"blend":[770,1],"opacity":178,"action":[]}
+ ]
+}

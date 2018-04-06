@@ -1,0 +1,86 @@
+{
+"views1_delay10":[
+  {"id":"Common_G_00000_2_a","type":"animate","frames":12,"time":0.367,"name":"Common_G_","tab":{"beginNum":0,"plist":"effects/effectsRes/Common_G.plist","isRepeat":false},
+     "ax":0.5,"ay":0.5,"x":0,"y":0,"z":6,"scaleX":3.3,"scaleY":3.3,"blend":[1,1],"opacity":0,"action":[]},
+ ],
+"views1_delay15":[
+  {"id":"Glow_01_4_1_a","type":"image","resPath":"effects/effectsRes/Glow_01.png",
+     "ax":0.5,"ay":0.5,"x":0,"y":0,"z":0,"scaleX":0.5,"scaleY":0.5,"blend":[1,771],"opacity":0,"color":[5,108,0],"action":[]},
+  {"id":"Glow_01_4_a","type":"image","resPath":"effects/effectsRes/Glow_01.png",
+     "ax":0.5,"ay":0.5,"x":0,"y":0,"z":3,"scaleX":0.5,"scaleY":0.5,"blend":[1,1],"opacity":0,"color":[0,173,22],"action":[]},
+  {"id":"Glow_01_4_0_a","type":"image","resPath":"effects/effectsRes/Glow_01.png",
+     "ax":0.5,"ay":0.5,"x":0,"y":0,"z":4,"scaleX":0.5,"scaleY":0.5,"blend":[1,1],"opacity":0,"action":[]},
+ ],
+"views1_delay16":[
+  {"id":"Sparkless_00000_8_a","type":"animate","frames":7,"time":0.400,"name":"Sparkless_03_","tab":{"beginNum":0,"plist":"effects/effectsRes/Sparkless_03.plist","isRepeat":false},
+     "ax":0.5,"ay":0.5,"x":0,"y":0,"z":5,"scaleX":2.67,"scaleY":2.67,"blend":[1,1],"opacity":0,"action":[]},
+ ],
+"views1_delay20":[
+  {"id":"guang1_00000_3_a","type":"animate","frames":9,"time":0.300,"name":"Guang2_","tab":{"beginNum":0,"plist":"effects/effectsRes/Guang2.plist","isRepeat":false},
+     "ax":0.5,"ay":0.25,"x":0,"y":0,"z":1,"scaleX":1.2,"scaleY":1.8,"blend":[1,771],"opacity":0,"action":[]},
+  {"id":"guang1_00000_3_0_a","type":"animate","frames":9,"time":0.300,"name":"Guang2_","tab":{"beginNum":0,"plist":"effects/effectsRes/Guang2.plist","isRepeat":false},
+     "ax":0.5,"ay":0.25,"x":0,"y":0,"z":2,"scaleX":0.77,"scaleY":1.55,"blend":[1,1],"opacity":0,"action":[]},
+ ],
+"views2_delay19":[
+  {"id":"Particle_2_move","type":"particle","resPath":"particles/battleEffectMZ_4.json",
+     "x":0,"y":50,"z":1,"scaleX":-1.2,"scaleY":1.0,"blend":[773,771],"action":[]},
+  {"id":"Particle_1_0_move","type":"particle","resPath":"particles/battleEffectMZ_3.json",
+     "x":0,"y":50,"z":2,"scaleX":1.2834,"scaleY":1.1,"blend":[1,769],"action":[]},
+  {"id":"Poison_4_move","type":"image","resPath":"effects/effectsRes/Poison2.png",
+     "ax":0.5,"ay":0.5,"x":0,"y":0,"z":3,"scaleX":0.2,"scaleY":0.25,"blend":[1,771],"opacity":0,"action":[]},
+  {"id":"Particle_1_move","type":"particle","resPath":"particles/battleEffectMZ_3.json",
+     "x":0,"y":50,"z":4,"scaleX":1.2834,"scaleY":1.1,"blend":[1,769],"action":[]},
+ ],
+ "views3_delay34":[
+  {"id":"Impact_Green_00000_6","type":"animate","frames":11,"time":0.833,"name":"Impact_Green_","tab":{"beginNum":0,"plist":"effects/effectsRes/Impact_Green.plist","isRepeat":false},
+     "ax":0.5,"ay":0.5,"x":0,"y":0,"z":3,"scaleX":5.0,"scaleY":5.0,"blend":[1,1],"opacity":0,"action":[]},
+ ],
+"views3_delay35":[
+  {"id":"putong_00000_5","type":"animate","frames":14,"time":1.083,"name":"Putong_","tab":{"beginNum":0,"plist":"effects/effectsRes/Putong.plist","isRepeat":false},
+     "ax":0.5,"ay":0.5,"x":0,"y":0,"z":2,"scaleX":6.66,"scaleY":6.2,"blend":[1,771],"opacity":0,"action":[]},
+ ],
+"views3_delay40":[
+  {"id":"Shockwave_00000_7","type":"animate","frames":12,"time":0.917,"name":"Shockwave_Green2_","tab":{"beginNum":0,"plist":"effects/effectsRes/Shockwave_Green2.plist","isRepeat":false},
+     "ax":0.5,"ay":0.5,"x":0,"y":0,"z":1,"scaleX":6.67,"scaleY":5.67,"blend":[1,771],"opacity":0,"action":[]},
+ ],
+"views3_delay75":[
+  {"id":"Particle_3_0","type":"particle","resPath":"particles/battleEffectMZ_2.json",
+     "x":0,"y":0,"z":4,"scaleX":1.2,"scaleY":1.2,"blend":[770,1],"action":[]},
+  {"id":"Fire_00000_1_0","type":"animate","frames":15,"time":1.167,"name":"Fire_Green_","tab":{"beginNum":0,"plist":"effects/effectsRes/Fire_Green.plist","isRepeat":true},
+     "ax":0.5,"ay":0.25,"x":0,"y":0,"z":6,"scaleX":2,"scaleY":1.75,"blend":[1,1],"opacity":0,"action":[]},
+ ],
+"views3_delay79":[
+  {"id":"Particle_3_1","type":"particle","resPath":"particles/battleEffectMZ_1.json",
+     "x":0,"y":0,"z":5,"scaleX":1.3,"scaleY":1.3,"blend":[1,1],"action":[]},
+ ],
+ "attack_views1_delay9":[
+  {"id":"Sprite_58","type":"animate","frames":4,"time":0.250,"name":"kaihuo_Yellow_","tab":{"beginNum":0,"plist":"effects/effectsRes/Fire.plist","isRepeat":false},
+     "r":-90,"ax":0.5,"ay":0.7,"x":0,"y":0,"z":5,"scaleX":2,"scaleY":2,"blend":[770,1],"opacity":0,"action":[]},
+  {"id":"Glow_01_60","type":"image","resPath":"effects/effectsRes/Glow_01.png",
+     "ax":0.5,"ay":0.5,"x":0,"y":0,"z":6,"scaleX":1,"scaleY":1,"blend":[770,1],"opacity":0,"color":[255,44,0],"action":[]},
+ ],
+"attack_views1_delay19":[
+  {"id":"Sprite_57","type":"image","resPath":"effects/effectsRes/JinKesimissile_skill_0_0000.png",
+     "ax":0.5,"ay":0.5,"x":0,"y":0,"z":1,"scaleX":2.0,"scaleY":2.0,"blend":[770,771],"opacity":255,"action":[]},
+  {"id":"Particle_16","type":"particle","resPath":"particles/battleEffectTrail1.json",
+     "r":-90,"x":-20,"y":0,"z":2,"scaleX":0.6,"scaleY":0.6,"blend":[1,771],"action":[]},
+  {"id":"Particle_16_0","type":"particle","resPath":"particles/battleEffectTrail1.json",
+     "r":-90,"x":-20,"y":0,"z":3,"scaleX":0.6,"scaleY":0.6,"blend":[770,1],"action":[]},
+  {"id":"Glow_01_59","type":"image","resPath":"effects/effectsRes/Glow_01.png",
+     "ax":0.5,"ay":0.5,"x":-20,"y":0,"z":4,"scaleX":0.4,"scaleY":0.4,"blend":[770,1],"opacity":255,"color":[255,44,0],"action":[]},
+ ],
+"attackBao_views2_delay44":[
+  {"id":"hedangkeng2_62","type":"image","resPath":"effects/effectsRes/hedangkeng2.png",
+     "ax":0.5,"ay":0.5,"x":0,"y":0,"z":1,"scaleX":1.0,"scaleY":0.75,"blend":[770,771],"opacity":0,"action":[]},
+  {"id":"Glow_01_63","type":"image","resPath":"effects/effectsRes/Glow_01.png",
+     "ax":0.5,"ay":0.5,"x":0,"y":0,"z":2,"scaleX":0.5,"scaleY":0.375,"blend":[770,1],"opacity":0,"color":[255,44,0],"action":[]},
+  {"id":"Explosion_00000_61","type":"animate","frames":12,"time":0.550,"name":"Explosion2_","tab":{"beginNum":0,"plist":"effects/effectsRes/Explosion2.plist","isRepeat":false},
+     "ax":0.5,"ay":0.5,"x":0,"y":40,"z":4,"scaleX":1,"scaleY":1,"blend":[1,771],"opacity":0,"action":[]},
+  {"id":"Glow_01_65","type":"image","resPath":"effects/effectsRes/Glow_01.png",
+     "ax":0.5,"ay":0.5,"x":0,"y":0,"z":5,"scaleX":0.6,"scaleY":0.6,"blend":[770,1],"opacity":0,"color":[255,236,191],"action":[]},
+ ],
+"attackBao_views2_delay50":[
+  {"id":"Glow_01_63_0","type":"image","resPath":"effects/effectsRes/Glow_01.png",
+     "ax":0.5,"ay":0.5,"x":0,"y":0,"z":3,"scaleX":0.2,"scaleY":0.15,"blend":[770,1],"opacity":0,"color":[255,255,0],"action":[]},
+ ]
+}

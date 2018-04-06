@@ -1,0 +1,60 @@
+{
+"views1_delay0":[
+  {"id":"dianji_00016_3","type":"animate","frames":6,"time":0.250,"name":"dianji_","tab":{"beginNum":0,"isRepeat":false},
+     "ax":0.2273,"ay":0.5431,"x":0,"y":0,"z":0,"scaleX":2,"scaleY":2,"blend":[775,1],"action":[]},
+ ],
+"views2_delay0":[
+  {"id":"dianji_00016_3_0","type":"animate","frames":6,"time":0.250,"name":"dianji_","tab":{"beginNum":0,"isRepeat":false},
+     "ax":0.2273,"ay":0.5431,"x":0,"y":0,"z":0,"scaleX":2,"scaleY":2,"blend":[775,1],"action":[]},
+  {"id":"dianji_00016_3_0_0","type":"animate","frames":6,"time":0.250,"name":"dianji_","tab":{"beginNum":0,"isRepeat":false},
+     "ax":0.2273,"ay":0.5431,"x":0,"y":0,"z":0,"scaleX":2,"scaleY":2,"blend":[775,1],"action":[]},
+ ],
+"views3_delay0":[
+  {"id":"dianji_00016_3_0_1","type":"animate","frames":6,"time":0.250,"name":"dianji_","tab":{"beginNum":0,"isRepeat":false},
+     "ax":0.2273,"ay":0.5431,"x":0,"y":0,"z":0,"scaleX":2,"scaleY":2,"blend":[775,1],"action":[]},
+  {"id":"dianji_00016_3_0_0_0","type":"animate","frames":6,"time":0.250,"name":"dianji_","tab":{"beginNum":0,"isRepeat":false},
+     "ax":0.2273,"ay":0.5431,"x":0,"y":0,"z":0,"scaleX":2,"scaleY":2,"blend":[775,1],"action":[]},
+  {"id":"dianji_00016_3_0_1_0","type":"animate","frames":6,"time":0.250,"name":"dianji_","tab":{"beginNum":0,"isRepeat":false},
+     "ax":0.2273,"ay":0.5431,"x":0,"y":0,"z":0,"scaleX":2,"scaleY":2,"blend":[775,1],"action":[]},
+ ],
+"views4_delay0":[
+  {"id":"dianji_00016_3_0_2_0","type":"animate","frames":6,"time":0.250,"name":"dianji2_","tab":{"beginNum":0,"isRepeat":false},
+     "ax":0.2273,"ay":0.5431,"x":0,"y":0,"z":0,"scaleX":2,"scaleY":1,"blend":[775,1],"action":[]},
+  {"id":"dianji_00016_3_0_2_1","type":"animate","frames":6,"time":0.250,"name":"dianji2_","tab":{"beginNum":0,"isRepeat":false},
+     "ax":0.2273,"ay":0.5431,"x":0,"y":0,"z":0,"scaleX":2,"scaleY":1,"blend":[775,1],"action":[]},
+  {"id":"dianji_00016_3_0_2_2","type":"animate","frames":6,"time":0.250,"name":"dianji2_","tab":{"beginNum":0,"isRepeat":false},
+     "ax":0.2273,"ay":0.5431,"x":0,"y":0,"z":0,"scaleX":2,"scaleY":1,"blend":[775,1],"action":[]},
+ ],
+"views5_delay0":[
+  {"id":"beiji1_00000_13","type":"animate","frames":11,"time":0.500,"name":"beidaji_","tab":{"beginNum":0,"isRepeat":false},
+     "ax":0.5,"ay":0.5,"x":0,"y":0,"z":0,"scaleX":0.8,"scaleY":0.8,"blend":[775,1],"action":[]}
+ ],
+"views6_delay0":[
+  {"id":"beiji2_00000_21","type":"animate","frames":11,"time":0.500,"name":"beiji2_","tab":{"beginNum":0,"isRepeat":false},
+     "ax":0.5,"ay":0.5,"x":0,"y":0,"z":0,"scaleX":1.6,"scaleY":1.6,"blend":[775,1],"action":[]}
+ ],
+ "views7_delay0":[
+  {"id":"Sprite_10_1","type":"animate","frames":5,"time":0.33,"name":"Effects_Textures1_","tab":{"beginNum":0,"isRepeat":false},
+     "ax":0.5,"ay":0.5,"x":0,"y":0,"z":0,"scaleX":1,"scaleY":1,"blend":[1,771],"action":[]},
+  {"id":"Sprite_10_0","type":"animate","frames":5,"time":0.33,"name":"Effects_Textures1_","tab":{"beginNum":0,"isRepeat":false},
+     "ax":0.5,"ay":0.5,"x":0,"y":0,"z":0,"scaleX":1,"scaleY":1,"blend":[1,771],"action":[]},
+  {"id":"GF_472_4","type":"image","resPath":"partiWhiteDark.png",
+     "ax":0.5,"ay":0.5,"x":0,"y":0,"z":35,"scaleX":1.6,"scaleY":1.6,"blend":[1,1],"opacity":0,"color":[0,72,255],"action":[]},
+  {"id":"dianhuang_00000_13","type":"image","resPath":"partiCircleYellow.png",
+     "ax":0.5,"ay":0.5,"x":0,"y":0,"z":37,"scaleX":0.32,"scaleY":0.36,"blend":[770,1],"opacity":0,"color":[0,165,15],"action":[]},
+  {"id":"Sprite_3_1","type":"image","resPath":"effectWhiteCircle2.png",
+     "ax":0.5,"ay":0.5,"x":0,"y":0,"z":39,"scaleX":0.3,"scaleY":0.3,"blend":[1,1],"color":[0,77,255],"action":[]},
+ ],
+"views8_delay0":[
+  {"id":"Sprite_10_1","type":"animate","frames":5,"time":0.33,"name":"Effects_Textures2_","tab":{"beginNum":0,"isRepeat":false},
+     "ax":0.5,"ay":0.5,"x":0,"y":0,"z":0,"scaleX":1,"scaleY":1,"blend":[1,1],"action":[]},
+  {"id":"Sprite_10_0","type":"animate","frames":5,"time":0.33,"name":"Effects_Textures2_","tab":{"beginNum":0,"isRepeat":false},
+     "ax":0.5,"ay":0.5,"x":0,"y":0,"z":0,"scaleX":1,"scaleY":1,"blend":[1,1],"action":[]},
+  {"id":"GF_472_4","type":"image","resPath":"partiWhiteDark.png",
+     "ax":0.5,"ay":0.5,"x":0,"y":0,"z":35,"scaleX":1.6,"scaleY":1.6,"blend":[1,1],"opacity":0,"color":[255,99,0],"action":[]},
+  {"id":"dianhuang_00000_13","type":"image","resPath":"partiCircleYellow.png",
+     "ax":0.5,"ay":0.5,"x":0,"y":0,"z":37,"scaleX":0.32,"scaleY":0.36,"blend":[770,1],"opacity":0,"color":[255,140,9],"action":[]},
+  {"id":"Sprite_3_1","type":"image","resPath":"effectWhiteCircle2.png",
+     "ax":0.5,"ay":0.5,"x":0,"y":0,"z":39,"scaleX":0.3,"scaleY":0.3,"blend":[1,1],"color":[255,153,0],"action":[]},
+ ],
+}

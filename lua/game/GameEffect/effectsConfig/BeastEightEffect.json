@@ -1,0 +1,118 @@
+{
+"views1_delay19":[
+  {"id":"Glow_01_4_a","type":"image","resPath":"effects/effectsRes/Glow_01.png",
+     "ax":0.5,"ay":0.5,"x":-548,"y":-4,"z":-6,"scaleX":3.5,"scaleY":2.625,"blend":[770,771],"opacity":0,"color":[122,35,0],"action":[]},
+  {"id":"Sparkless_00000_12_a","type":"animate","frames":7,"time":0.500,"name":"Sparkless_03_","tab":{"beginNum":0,"plist":"effects/effectsRes/Sparkless_03.plist","isRepeat":false},
+     "ax":0.5,"ay":0.5,"x":-552,"y":5,"z":-5,"scaleX":3.3,"scaleY":3.3,"blend":[1,771],"opacity":0,"action":[]},
+  {"id":"Sparkless_00000_12_0_a","type":"animate","frames":7,"time":0.500,"name":"Sparkless_03_","tab":{"beginNum":0,"plist":"effects/effectsRes/Sparkless_03.plist","isRepeat":false},
+     "ax":0.5,"ay":0.5,"x":-552,"y":5,"z":-4,"scaleX":3.3,"scaleY":3.3,"blend":[770,1],"opacity":0,"action":[]},
+  {"id":"Sparkless_00000_14_a","type":"animate","frames":6,"time":0.500,"name":"Sparkless_04_","tab":{"beginNum":0,"plist":"effects/effectsRes/Sparkless_04.plist","isRepeat":false},
+     "ax":0.5,"ay":0.5,"x":-537,"y":8,"z":-3,"scaleX":2.0,"scaleY":2.0,"blend":[1,771],"opacity":0,"action":[]},
+  {"id":"Sparkless_00000_14_0_a","type":"animate","frames":6,"time":0.500,"name":"Sparkless_04_","tab":{"beginNum":0,"plist":"effects/effectsRes/Sparkless_04.plist","isRepeat":false},
+     "ax":0.5,"ay":0.5,"x":-537,"y":8,"z":-2,"scaleX":2.0,"scaleY":2.0,"blend":[770,1],"opacity":0,"action":[]},
+  {"id":"Glow_01_9_a","type":"image","resPath":"effects/effectsRes/Glow_01.png",
+     "ax":0.5,"ay":0.5,"x":-547,"y":-5,"z":-1,"scaleX":1.2,"scaleY":0.9,"blend":[770,1],"opacity":0,"color":[255,0,0],"action":[]},
+  {"id":"Glow_01_9_0_a","type":"image","resPath":"effects/effectsRes/Glow_01.png",
+     "ax":0.5,"ay":0.5,"x":-547,"y":-5,"z":0,"scaleX":0.8,"scaleY":0.6,"blend":[770,1],"opacity":0,"color":[255,69,0],"action":[]},
+  {"id":"Glow_01_9_0_0_a","type":"image","resPath":"effects/effectsRes/Glow_01.png",
+     "ax":0.5,"ay":0.5,"x":-547,"y":-5,"z":1,"scaleX":0.3,"scaleY":0.225,"blend":[770,1],"opacity":0,"action":[]},
+ ],
+"views2_delay0":[
+  {"id":"Common_00000_6","type":"animate","frames":12,"time":0.550,"name":"Common_0_","tab":{"beginNum":0,"plist":"effects/effectsRes/Common_0.plist","isRepeat":false},
+     "ax":0.5,"ay":0.5,"x":-44,"y":153,"z":-2,"scaleX":3.3,"scaleY":3.3,"blend":[1,771],"action":[]},
+  {"id":"Common_00000_6_0","type":"animate","frames":12,"time":0.550,"name":"Common_0_","tab":{"beginNum":0,"plist":"effects/effectsRes/Common_0.plist","isRepeat":false},
+     "ax":0.5,"ay":0.5,"x":-44,"y":154,"z":-1,"scaleX":3.3,"scaleY":3.3,"blend":[770,1],"opacity":127,"action":[]},
+ ],
+"views2_delay20":[
+  {"id":"Glow_16_23","type":"image","resPath":"partiPointBlue2.png",
+     "ax":0.5,"ay":0.5,"x":-37,"y":140,"z":0,"scaleX":4,"scaleY":4,"blend":[770,1],"opacity":0,"action":[]},
+ ],
+"views2_delay49":[
+   {"id":"Shockwave_8","type":"image","resPath":"effects/effectsRes/Shockwave.png",
+     "ax":0.5,"ay":0.5,"x":0,"y":0,"z":-11,"scaleX":0.3,"scaleY":0.255,"blend":[770,771],"opacity":0,"action":[]},
+  {"id":"Glow_01_4","type":"image","resPath":"effects/effectsRes/Glow_01.png",
+     "ax":0.5,"ay":0.5,"x":-1,"y":-2,"z":1,"scaleX":3.5,"scaleY":2.625,"blend":[770,771],"opacity":0,"color":[122,35,0],"action":[]},
+  {"id":"Glow_01_4_0","type":"image","resPath":"effects/effectsRes/Glow_01.png",
+     "ax":0.5,"ay":0.5,"x":-1,"y":-2,"z":2,"scaleX":3.5,"scaleY":2.625,"blend":[770,1],"opacity":0,"color":[107,18,0],"action":[]},
+  {"id":"Sparkless_00000_12","type":"animate","frames":7,"time":0.500,"name":"Sparkless_03_","tab":{"beginNum":0,"plist":"effects/effectsRes/Sparkless_03.plist","isRepeat":false},
+     "ax":0.5,"ay":0.5,"x":-4,"y":8,"z":5,"scaleX":3.3,"scaleY":3.3,"blend":[1,771],"opacity":0,"action":[]},
+  {"id":"Sparkless_00000_12_0","type":"animate","frames":7,"time":0.500,"name":"Sparkless_03_","tab":{"beginNum":0,"plist":"effects/effectsRes/Sparkless_03.plist","isRepeat":false},
+     "ax":0.5,"ay":0.5,"x":-4,"y":8,"z":6,"scaleX":3.3,"scaleY":3.3,"blend":[770,1],"opacity":0,"action":[]},
+  {"id":"Sparkless_00000_14","type":"animate","frames":6,"time":0.500,"name":"Sparkless_04_","tab":{"beginNum":0,"plist":"effects/effectsRes/Sparkless_04.plist","isRepeat":false},
+     "ax":0.5,"ay":0.5,"x":11,"y":11,"z":7,"scaleX":2.0,"scaleY":2.0,"blend":[1,771],"opacity":0,"action":[]},
+  {"id":"Sparkless_00000_14_0","type":"animate","frames":6,"time":0.500,"name":"Sparkless_04_","tab":{"beginNum":0,"plist":"effects/effectsRes/Sparkless_04.plist","isRepeat":false},
+     "ax":0.5,"ay":0.5,"x":11,"y":11,"z":8,"scaleX":2.0,"scaleY":2.0,"blend":[770,1],"opacity":0,"action":[]},
+  
+  {"id":"Shockwave_00000_7","type":"animate","frames":5,"time":0.467,"name":"Shockwave_03_","tab":{"beginNum":0,"plist":"effects/effectsRes/Shockwave_03.plist","isRepeat":false},
+    "ax":0.5,"ay":0.5,"x":-212,"y":-107,"z":8,"scaleX":2.0,"scaleY":1.6,"blend":[1,1],"opacity":0,"color":[255,127,0],"action":[]},
+
+  {"id":"SDA_00_2","type":"animate","frames":5,"time":0.600,"name":"8083_SDA_","tab":{"beginNum":0,"plist":"effects/effectsRes/8083_SDA.plist","isRepeat":false},
+     "ax":0.5,"ay":0.5,"x":-155,"y":-181,"z":9,"scaleX":2.5,"scaleY":2.0,"blend":[770,1],"opacity":0,"action":[]},
+
+  {"id":"Stone_00000_1","type":"animate","frames":11,"time":0.500,"name":"Stone_","tab":{"beginNum":0,"plist":"effects/effectsRes/Stone.plist","isRepeat":false},
+     "ax":0.5,"ay":0.5,"x":-22,"y":-6,"z":9,"scaleX":2.5,"scaleY":2.5,"blend":[1,771],"opacity":0,"action":[]},
+  
+  {"id":"Glow_01_9_0_0","type":"image","resPath":"effects/effectsRes/Glow_01.png",
+     "ax":0.5,"ay":0.5,"x":0,"y":-3,"z":12,"scaleX":0.3,"scaleY":0.225,"blend":[770,1],"opacity":0,"action":[]},
+  
+  {"id":"Boom_6_0","type":"image","resPath":"effects/effectsRes/Boom_Green.png",
+     "ax":0.5,"ay":0.5,"x":0,"y":-2,"z":14,"scaleX":0.5,"scaleY":0.5,"blend":[770,1],"opacity":0,"action":[]},
+ {"id":"BaoZa_00_1","type":"animate","frames":8,"time":0.467,"name":"8083_BaoZa_","tab":{"beginNum":0,"plist":"effects/effectsRes/8083_BaoZa_.plist","isRepeat":false},
+     "ax":0.5,"ay":0.5,"x":-154,"y":-170,"z":39,"scaleX":2.0,"scaleY":2.0,"blend":[1,1],"opacity":0,"action":[]},
+ ],
+
+"views2_delay54":[
+  {"id":"Crack_2","type":"image","resPath":"effects/effectsRes/barbarian_earthquake_cracks_add (00000).png",
+     "ax":0.5,"ay":0.5,"x":-1,"y":-2,"z":3,"scaleX":2.0,"scaleY":1.5,"blend":[1,771],"opacity":0,"action":[]},
+  {"id":"Crack_2_0","type":"image","resPath":"effects/effectsRes/barbarian_earthquake_cracks_add (00000).png",
+     "ax":0.5,"ay":0.5,"x":-1,"y":-2,"z":4,"scaleX":2.0,"scaleY":1.5,"blend":[770,1],"opacity":0,"action":[]},
+  {"id":"Particle_1","type":"particle","resPath":"particles/battleEffectTurtle1.json",
+     "x":1,"y":-5,"z":15,"scaleX":0.4,"scaleY":0.4,"blend":[1,1],"action":[]},
+  {"id":"base_Crack_2_1","type":"image","resPath":"effects/effectsRes/barbarian_earthquake_cracks_add (00000).png",
+     "ax":0.5,"ay":0.5,"x":-210,"y":-95,"z":19,"scaleX":2.6,"scaleY":1.95,"blend":[1,771],"opacity":0,"color":[112,0,0],"action":[]},
+ ],
+"views2_delay59":[
+  {"id":"Circle_16","type":"image","resPath":"effects/effectsRes/Circle.png",
+     "ax":0.5,"ay":0.5,"x":-56,"y":102,"z":-10,"scaleX":0.5,"scaleY":0.375,"blend":[770,1],"opacity":0,"action":[]},
+ ],
+"views2_delay60":[
+  {"id":"Glow_01_18","type":"image","resPath":"effects/effectsRes/Glow_01.png",
+     "ax":0.5,"ay":0.5,"x":-56,"y":98,"z":-8,"scaleX":1.0,"scaleY":0.75,"blend":[1,771],"opacity":0,"color":[255,255,0],"action":[]},
+  {"id":"Glow_01_18_0","type":"image","resPath":"effects/effectsRes/Glow_01.png",
+     "ax":0.5,"ay":0.5,"x":-56,"y":98,"z":-7,"scaleX":1.8,"scaleY":1.35,"blend":[1,771],"opacity":0,"color":[255,165,0],"action":[]},
+ ],
+"views2_delay69":[
+  {"id":"Circle_16_0","type":"image","resPath":"effects/effectsRes/Circle.png",
+     "ax":0.5,"ay":0.5,"x":-56,"y":102,"z":-9,"scaleX":0.5,"scaleY":0.375,"blend":[770,1],"opacity":0,"action":[]},
+ ],
+ "views2_delay69_up":[
+  {"id":"Fire_00000_3","type":"animate","frames":15,"time":1.167,"name":"8083_Fire_Green_","tab":{"beginNum":0,"plist":"effects/effectsRes/Fire_Green.plist","isRepeat":true},
+     "ax":0.5,"ay":0.25,"x":-56,"y":281,"z":-4,"scaleX":5.0,"scaleY":5.0,"blend":[1,771],"opacity":0,"action":[]},
+  {"id":"Fire_00000_3_0","type":"animate","frames":15,"time":1.167,"name":"8083_Fire_Green_","tab":{"beginNum":0,"plist":"effects/effectsRes/Fire_Green.plist","isRepeat":true},
+     "ax":0.5,"ay":0.25,"x":-56,"y":282,"z":-3,"scaleX":5.0,"scaleY":5.0,"blend":[770,1],"opacity":0,"action":[]},
+ ],
+"views2_delay70":[
+  {"id":"Ground_00000_20","type":"animate","frames":12,"time":0.550,"name":"GroundGlow_","tab":{"beginNum":0,"plist":"effects/effectsRes/GroundGlow.plist","isRepeat":true},
+     "ax":0.5,"ay":0.5,"x":-56,"y":86,"z":-6,"scaleX":3.3,"scaleY":2.5,"blend":[770,1],"opacity":0,"color":[255,255,0],"action":[]},
+ ],
+"views2_delay84":[
+  {"id":"Particle_2","type":"particle","resPath":"particles/battleEffectBeast8_1.json",
+     "x":-53,"y":93,"z":16,"scaleX":2.0,"scaleY":2.0,"blend":[1,1],"action":[]},
+ ],
+"views3_delay114":[
+  {"id":"Impact_Green_00000_1_0","type":"animate","frames":11,"time":0.667,"name":"Impact_Green_","tab":{"beginNum":0,"plist":"effects/effectsRes/Impact_Green.plist","isRepeat":false},
+     "ax":0.5,"ay":0.5,"x":321,"y":-197,"z":-1,"scaleX":2.5,"scaleY":2.5,"blend":[770,1],"opacity":0,"action":[]},
+  {"id":"Impact_Green_00000_1","type":"animate","frames":11,"time":0.667,"name":"Impact_Green_","tab":{"beginNum":0,"plist":"effects/effectsRes/Impact_Green.plist","isRepeat":false},
+     "ax":0.5,"ay":0.5,"x":321,"y":-197,"z":0,"scaleX":2.5,"scaleY":2.5,"blend":[1,771],"opacity":0,"action":[]},
+ ],
+"views4_delay59":[
+  {"id":"Blood_00000_1","type":"animate","frames":8,"time":0.350,"name":"Blood_Down_","tab":{"beginNum":0,"plist":"effects/effectsRes/Blood_Down.plist","isRepeat":true},
+     "ax":0.5,"ay":0.3,"x":293,"y":166,"z":1,"scaleX":1.8,"scaleY":1.2,"blend":[1,771],"opacity":0,"action":[]},
+  {"id":"Blood_00000_1_0","type":"animate","frames":8,"time":0.350,"name":"Blood_Down_","tab":{"beginNum":0,"plist":"effects/effectsRes/Blood_Down.plist","isRepeat":true},
+     "ax":0.5,"ay":0.3,"x":336,"y":174,"z":2,"scaleX":1.8,"scaleY":1.2,"blend":[1,771],"opacity":0,"action":[]},
+ ],
+ "views4_delay65":[
+  {"id":"Person_Panda_Stand_60_0000_5","type":"image","resPath":"effects/effectsRes/Panda_Stand_60_0000.png",
+     "ax":0.5,"ay":0.5,"x":309,"y":126,"z":0,"scaleX":1.0,"scaleY":1.0,"blend":[1,771],"action":[]},
+ ]
+}

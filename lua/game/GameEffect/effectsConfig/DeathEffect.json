@@ -1,0 +1,30 @@
+{
+    "normalDeath":[
+        {"type":"animate","frames":6,"time":0.78,"name":"deadAction_","tab":{"beginNum":0,"isRepeat":false},
+            "ay":0,"action":["sequence",[["delay",0.78],"remove"]]},
+        {"type":"image","resPath":"deadAction_1.png",
+            "ay":0,"visible":false,"action":["sequence",[["delay",0.26],"show",["animate",0.81,"deadAction_",[1,2,3,4,5,6,7,8,9]],"remove"]]}
+    ],
+    "zombieDeath":[
+        {"type":"animate","frames":7,"time":0.500,"name":"zombieputong_","tab":{"beginNum":0,"isRepeat":false},
+            "ax":0.5,"ay":0.5,"x":0,"y":0,"z":2,"scaleX":5,"scaleY":5,"blend":[1,771],"opacity":0,"action":["sequence",[["spawn",[["scaleTo",0.167,2.5,2.5],["fadeTo",0.167,255]]],["delay",0.25],["fadeTo",0.117,0],"remove"]]},
+        {"type":"animate","frames":7,"time":0.500,"name":"poisonBomb_","tab":{"beginNum":0,"isRepeat":false},
+            "ax":0.5,"ay":0.5,"x":0,"y":0,"z":3,"scaleX":1.25,"scaleY":1.25,"blend":[773,771],"opacity":0,"action":["sequence",[["spawn",[["sequence",[["scaleTo",0.167,1.5,1.5],["scaleTo",0.333,1.7,1.7]]],["sequence",[["fadeTo",0.083,255],["delay",0.317],["fadeTo",0.1,0]]]]],"remove"]]},
+        {"type":"animate","frames":7,"time":0.500,"name":"poisonBomb_","tab":{"beginNum":0,"isRepeat":false},
+            "ax":0.5,"ay":0.5,"x":0,"y":0,"z":4,"scaleX":1.25,"scaleY":1.25,"blend":[1,1],"opacity":0,"action":["sequence",[["spawn",[["sequence",[["scaleTo",0.167,1.5,1.5],["scaleTo",0.333,1.7,1.7]]],["sequence",[["fadeTo",0.083,127],["delay",0.317],["fadeTo",0.1,0]]]]],"remove"]]},
+        {"type":"animate","frames":11,"time":0.500,"name":"Impact_Green_","tab":{"beginNum":0,"isRepeat":false},
+            "ax":0.5,"ay":0.5,"x":0,"y":0,"z":5,"scaleX":0.3,"scaleY":0.3,"blend":[1,1],"opacity":0,"action":["sequence",[["spawn",[["sequence",[["scaleTo",0.117,0.7,0.7],["scaleTo",0.383,0.8,0.8]]],["sequence",[["fadeTo",0.083,127],["delay",0.317],["fadeTo",0.1,0]]]]],"remove"]]},
+        {"type":"animate","frames":7,"time":0.500,"name":"zombieLU_","tab":{"beginNum":0,"isRepeat":false},
+            "ax":0.5076,"ay":0.614,"x":0,"y":0,"z":6,"scaleX":1.1,"scaleY":1.1,"blend":[1,1],"opacity":0,"action":["sequence",[["fadeTo",0.083,255],["delay",0.25],["fadeTo",0.167,0],"remove"]]},
+        {"type":"animate","frames":11,"time":0.500,"name":"Impact_Green_","tab":{"beginNum":0,"isRepeat":false},
+            "ax":0.5,"ay":0.5,"x":0,"y":0,"z":7,"scaleX":1.5,"scaleY":1.5,"blend":[1,771],"opacity":0,"action":["sequence",[["spawn",[["sequence",[["scaleTo",0.117,0.7,0.7],["scaleTo",0.383,0.8,0.8]]],["sequence",[["fadeTo",0.083,114],["fadeTo",0.317,127],["fadeTo",0.1,0]]]]],"remove"]]},
+        {"type":"animate","frames":7,"time":0.500,"name":"zombieXue_","tab":{"beginNum":0,"isRepeat":false},
+            "ax":0.5,"ay":0.5,"x":0,"y":0,"z":8,"scaleX":2.0,"scaleY":2.0,"blend":[1,771],"opacity":0,"action":["sequence",[["fadeTo",0.167,255],["delay",0.25],["fadeTo",0.083,0],"remove"]]},
+        {"type":"animate","frames":7,"time":0.500,"name":"zombieXue_","tab":{"beginNum":0,"isRepeat":false},
+            "ax":0.5,"ay":0.5,"x":0,"y":0,"z":9,"scaleX":2.0,"scaleY":2.0,"blend":[1,1],"opacity":0,"action":["sequence",[["fadeTo",0.167,140],["delay",0.25],["fadeTo",0.083,0],"remove"]]},
+    ],
+    "godDeath":[
+        {"type":"animate","frames":11,"time":0.833,"name":"Fire_Impact_","tab":{"beginNum":0,"plist":"effects/effectsRes/Fire_Impact.plist","isRepeat":false},
+            "ax":0.5,"ay":0.5,"x":0,"y":60,"z":0,"scaleX":3,"scaleY":3,"blend":[1,1],"opacity":0,"action":["sequence",[["fadeTo",0.1,255],["delay",0.75],["fadeTo",0.017,0],"remove"]]},
+    ]
+}

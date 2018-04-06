@@ -1,0 +1,8 @@
+{
+"views1_delay0":[
+  {"id":"base_GuangYun01_2","type":"image","resPath":"effects/effectsRes/GuangYun01.png",
+     "ax":0.5,"ay":0.5,"x":0,"y":0,"z":1,"scaleX":1.0,"scaleY":1.0,"blend":[1,1],"opacity":0,"action":[]},
+  {"id":"GuangYun01_2_0","type":"image","resPath":"effects/effectsRes/GuangYun01.png",
+     "ax":0.5,"ay":0.5,"x":0,"y":0,"z":2,"scaleX":1.0,"scaleY":1.0,"blend":[1,1],"opacity":0,"action":[]},
+ ]
+}

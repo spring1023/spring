@@ -1,0 +1,82 @@
+{
+"views1_delay64":[
+  {"id":"Circle_25_0_1","type":"image","resPath":"effects/effectsRes/Circle.png",
+     "ax":0.5,"ay":0.5,"x":12,"y":-16,"z":-2,"scaleX":0.2,"scaleY":0.15,"blend":[770,1],"opacity":0,"action":[]},
+ ],
+"views1_delay49":[
+  {"id":"Trail_00000_18","type":"animate","frames":6,"time":0.417,"name":"4005_Trail_","tab":{"beginNum":0,"plist":"effects/effectsRes/Trail.plist","isRepeat":false},
+     "ax":0.5,"ay":0.5,"x":19,"y":17,"z":1,"scaleX":1.0,"scaleY":2,"hvalue":-100,"blend":[1,771],"opacity":0,"action":[]},
+ ],
+"views1_delay45":[
+  {"id":"Magic_Circle_9_1","type":"image","resPath":"effects/effectsRes/Magic_Circle.png",
+     "ax":0.5,"ay":0.5,"x":15,"y":61,"z":-1,"scaleX":1.5,"scaleY":1.5,"blend":[1,771],"opacity":0,"action":[]},
+  {"id":"Glow_01_10","type":"image","resPath":"effects/effectsRes/Glow_01.png",
+     "ax":0.5,"ay":0.5,"x":15,"y":-15,"z":2,"scaleX":2.0,"scaleY":1.5,"blend":[770,1],"opacity":0,"color":[0,158,12],"action":[]},
+  {"id":"Glow_01_10_0","type":"image","resPath":"effects/effectsRes/Glow_01.png",
+     "ax":0.5,"ay":0.5,"x":15,"y":-15,"z":3,"scaleX":0.8,"scaleY":0.6,"blend":[770,1],"opacity":0,"color":[255,218,0],"action":[]},
+ ],
+"views1_delay54":[
+  {"id":"Circle_25_2","type":"image","resPath":"effects/effectsRes/Circle.png",
+     "ax":0.5,"ay":0.5,"x":12,"y":-16,"z":-3,"scaleX":0.2,"scaleY":0.15,"blend":[770,1],"opacity":0,"action":[]},
+  {"id":"Particle_2","type":"particle","resPath":"particles/battleEffectColorPoints.json",
+     "x":17,"y":-10,"z":4,"scaleX":1.0,"scaleY":1.0,"blend":[1,1],"action":[]}
+ ],
+ "Sprite_15":[
+    {"id":"Sprite_15","type":"image","resPath":"ministerLightGreen.png",
+     "ax":0.5,"ay":0.5,"x":82,"y":-37,"z":5,"scaleX":0.7,"scaleY":0.7,"blend":[770,1],"opacity":0,"action":[]}
+ ],
+"views2_delay67":[
+  {"id":"Glow_01_16","type":"image","resPath":"effects/effectsRes/Glow_01.png",
+     "ax":0.5,"ay":0.5,"x":3,"y":37,"z":6,"scaleX":1.6,"scaleY":1.6,"blend":[770,1],"opacity":0,"color":[152,255,113],"action":[]},
+  {"id":"Glow_01_16_0","type":"image","resPath":"effects/effectsRes/Glow_01.png",
+     "ax":0.5,"ay":0.5,"x":-1,"y":37,"z":7,"scaleX":0.5,"scaleY":0.5,"blend":[770,1],"opacity":0,"color":[255,218,0],"action":[]},
+  {"id":"Glow_01_22","type":"image","resPath":"effects/effectsRes/Glow_01.png",
+     "ax":0.5,"ay":0.5,"x":0,"y":-8,"z":10,"scaleX":1.2,"scaleY":0.9,"blend":[770,1],"opacity":0,"color":[255,52,0],"action":[]},
+ ],
+"views2_delay70":[
+  {"id":"Circle_25","type":"image","resPath":"effects/effectsRes/Circle.png",
+     "ax":0.5,"ay":0.5,"x":0,"y":-8,"z":-3,"scaleX":0.2,"scaleY":0.15,"blend":[770,1],"opacity":0,"action":[]},
+  {"id":"Line_PRT","type":"particle","resPath":"particles/battleEffectLineUpYellow.json",
+     "x":-3,"y":-21,"z":8,"scaleX":1.5,"scaleY":1.5,"blend":[770,1],"action":[]},
+  {"id":"Star_PRT","type":"particle","resPath":"particles/battleEffectColorPoints.json",
+     "x":-5,"y":45,"z":9,"scaleX":1.0,"scaleY":1.0,"blend":[1,1],"action":[]},
+ ],
+"views2_delay71":[
+  {"id":"Magic_Circle_9","type":"image","resPath":"effects/effectsRes/Magic_Circle.png",
+     "ax":0.5,"ay":0.5,"x":-1,"y":66,"z":-1,"scaleX":1.5,"scaleY":1.5,"blend":[1,771],"opacity":0,"action":[]},
+ ],
+"views2_delay80":[
+  {"id":"Circle_25_0","type":"image","resPath":"effects/effectsRes/Circle.png",
+     "ax":0.5,"ay":0.5,"x":0,"y":-8,"z":-2,"scaleX":0.2,"scaleY":0.15,"blend":[770,1],"opacity":0,"action":[]},
+ ],
+"views2_delay54":[
+  {"id":"Trail_00000_9","type":"animate","frames":7,"time":0.400,"name":"Heal_Trail_1_","tab":{"beginNum":0,"plist":"effects/effectsRes/Heal_Trail_1.plist","isRepeat":false},
+     "ax":0,"ay":0.5,"x":-180,"y":127,"z":3,"scaleX":1.0,"scaleY":2.0,"blend":[1,771],"opacity":0,"action":[]},
+  {"id":"Trail_00000_9_1","type":"animate","frames":7,"time":0.400,"name":"Heal_Trail_1_","tab":{"beginNum":0,"plist":"effects/effectsRes/Heal_Trail_1.plist","isRepeat":false},
+     "ax":0,"ay":0.5,"x":-180,"y":127,"z":4,"scaleX":1.0,"scaleY":2.0,"blend":[770,1],"opacity":0,"action":[]},
+  {"id":"Particle_1","type":"particle","resPath":"particles/battleEffectMinister1.json",
+     "x":-348,"y":202,"z":5,"scaleX":0.8,"scaleY":1.2,"blend":[770,1],"action":[]},
+ ],
+"views3_delay19":[
+  {"id":"Glow_01_23","type":"image","resPath":"effects/effectsRes/Glow_01.png",
+     "ax":0.5,"ay":0.5,"x":123,"y":-62,"z":1,"scaleX":0.5,"scaleY":0.5,"blend":[1,771],"opacity":0,"color":[90,254,80],"action":[]},
+  {"id":"Particle_3","type":"particle","resPath":"particles/battleEffectMinister2.json",
+     "x":123,"y":-62,"z":3,"scaleX":0.6,"scaleY":0.6,"blend":[1,1],"action":[]},
+  {"id":"Particle_3_0","type":"particle","resPath":"particles/battleEffectMinister3.json",
+     "x":123,"y":-62,"z":4,"scaleX":0.7,"scaleY":0.7,"blend":[775,1],"action":[]},
+  {"id":"Particle_7","type":"particle","resPath":"particles/battleEffectMinister4.json",
+     "x":123,"y":-62,"z":5,"scaleX":0.5,"scaleY":0.5,"blend":[775,1],"action":[]}
+ ],
+"views3_delay61":[
+  {"id":"Circle_26_0","type":"image","resPath":"effects/effectsRes/Circle.png",
+     "ax":0.5,"ay":0.5,"x":434,"y":-268,"z":7,"scaleX":0.15,"scaleY":0.15,"blend":[1,1],"opacity":0,"action":[]}
+ ],
+"views3_delay54":[
+  {"id":"Circle_26","type":"image","resPath":"effects/effectsRes/Circle.png",
+     "ax":0.5,"ay":0.5,"x":434,"y":-268,"z":6,"scaleX":0.15,"scaleY":0.15,"blend":[1,1],"opacity":0,"action":[]},
+  {"id":"Glow_01_27","type":"image","resPath":"effects/effectsRes/Glow_01.png",
+     "ax":0.5,"ay":0.5,"x":434,"y":-266,"z":8,"scaleX":2,"scaleY":2,"blend":[770,1],"opacity":0,"color":[90,254,80],"action":[]},
+  {"id":"Glow_01_27_0","type":"image","resPath":"effects/effectsRes/Glow_01.png",
+     "ax":0.5,"ay":0.5,"x":434,"y":-266,"z":9,"scaleX":0.75,"scaleY":0.75,"blend":[1,1],"opacity":0,"color":[255,255,0],"action":[]}
+ ]
+}

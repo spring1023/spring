@@ -1,0 +1,24 @@
+{
+"views1_delay0":[
+  {"id":"Glow_02_16","type":"image","resPath":"effects/effectsRes/Glow_02.png",
+     "ax":0.5,"ay":0.5,"x":0,"y":0,"z":-5,"scaleX":0.2,"scaleY":0.1,"blend":[1,771],"opacity":0,"color":[0,0,0],"action":[]},
+  {"id":"Glow_02_16_0","type":"image","resPath":"effects/effectsRes/Glow_02.png",
+     "ax":0.5,"ay":0.5,"x":0,"y":0,"z":-4,"scaleX":0.2,"scaleY":0.1,"blend":[1,1],"opacity":0,"color":[114,49,0],"action":[]},
+  {"id":"Shockwave_18","type":"image","resPath":"effects/effectsRes/Shockwave.png",
+     "ax":0.5,"ay":0.5,"x":0,"y":0,"z":-3,"scaleX":0.01,"scaleY":0.01,"blend":[1,1],"opacity":0,"action":[]},
+ ],
+ "views1_delay0_up":[
+  {"id":"Gundam_Shield_3","type":"image","resPath":"effects/effectsRes/Gundam_Shield2.png",
+     "ax":0.5,"ay":0.35,"x":0,"y":0,"z":0,"scaleX":0.75,"scaleY":0.75,"blend":[1,771],"opacity":0,"action":[]},
+  {"id":"Gundam_Shield_3_0","type":"image","resPath":"effects/effectsRes/Gundam_Shield2.png",
+     "ax":0.5,"ay":0.35,"x":0,"y":0,"z":1,"scaleX":0.75,"scaleY":0.75,"blend":[1,1],"opacity":0,"action":[]},
+ ],
+"views1_delay30":[
+  {"id":"Shockwave_18_0","type":"image","resPath":"effects/effectsRes/Shockwave.png",
+     "ax":0.5,"ay":0.5,"x":0,"y":0,"z":-2,"scaleX":0.01,"scaleY":0.01,"blend":[1,1],"opacity":0,"action":[]},
+ ],
+"views1_delay60":[
+  {"id":"Shockwave_18_0_0","type":"image","resPath":"effects/effectsRes/Shockwave.png",
+     "ax":0.5,"ay":0.5,"x":0,"y":0,"z":-1,"scaleX":0.01,"scaleY":0.01,"blend":[1,1],"opacity":0,"action":[]},
+ ]
+}

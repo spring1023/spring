@@ -1,0 +1,16 @@
+{
+"views1_delay25":[
+  {"id":"Glow_02_14","type":"image","resPath":"effects/effectsRes/Glow_02.png",
+     "ax":0.5,"ay":0.5,"x":0,"y":0,"z":0,"scaleX":0.2,"scaleY":0.2,"blend":[1,1],"opacity":0,"color":[255,80,0],"action":[]},
+  {"id":"Impact_00000_11","type":"animate","frames":11,"time":0.833,"name":"Cat_Impact_","tab":{"beginNum":0,"plist":"effects/effectsRes/Cat_Impact.plist","isRepeat":false},
+     "ax":0.5,"ay":0.5,"x":0,"y":0,"z":2,"scaleX":5,"scaleY":5,"blend":[1,771],"opacity":0,"color":[255,135,0],"action":[]},
+  {"id":"Impact_00000_11_0","type":"animate","frames":11,"time":0.833,"name":"Cat_Impact_","tab":{"beginNum":0,"plist":"effects/effectsRes/Cat_Impact.plist","isRepeat":false},
+     "ax":0.5,"ay":0.5,"x":0,"y":0,"z":3,"scaleX":5,"scaleY":5,"blend":[1,1],"opacity":0,"action":[]},
+  {"id":"Shockwave_15","type":"image","resPath":"effects/effectsRes/Shockwave.png",
+     "ax":0.5,"ay":0.5,"x":0,"y":0,"z":4,"scaleX":0.2,"scaleY":0.2,"blend":[1,1],"opacity":0,"action":[]},
+ ],
+"views1_delay29":[
+  {"id":"Sparkless_00000_13","type":"animate","frames":5,"time":0.333,"name":"Sparkless22_","tab":{"beginNum":0,"plist":"effects/effectsRes/Sparkless22.plist","isRepeat":false},
+     "ax":0.5,"ay":0.5,"x":0,"y":0,"z":1,"scaleX":4,"scaleY":4,"blend":[1,1],"opacity":0,"color":[255,66,0],"action":[]},
+ ]
+}

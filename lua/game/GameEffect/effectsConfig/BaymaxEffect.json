@@ -1,0 +1,52 @@
+{
+"views1_delay35":[
+  {"id":"Glow_01_6","type":"image","resPath":"effects/effectsRes/Glow_01.png",
+     "ax":0.5,"ay":0.5,"x":11,"y":23,"z":2,"scaleX":3.0,"scaleY":2.25,"blend":[770,1],"opacity":0,"color":[255,0,0],"action":[]},
+  {"id":"Glow_01_6_0","type":"image","resPath":"effects/effectsRes/Glow_01.png",
+     "ax":0.5,"ay":0.5,"x":11,"y":23,"z":3,"scaleX":1.0,"scaleY":0.75,"blend":[770,1],"opacity":0,"color":[255,255,0],"action":[]},
+ ],
+"views1_delay39":[
+  {"id":"Ground_00002_4","type":"animate","frames":9,"time":1.000,"name":"Glow_Ground_","tab":{"beginNum":0,"plist":"effects/effectsRes/Glow_Ground.plist","isRepeat":false},
+     "ax":0.5,"ay":0.5,"x":17,"y":26,"z":-2,"scaleX":4.5,"scaleY":3.375,"blend":[1,771],"opacity":0,"action":[]},
+ ],
+"views1_delay49":[
+  {"id":"UP_Line_C_00001_2","type":"animate","frames":11,"time":0.833,"name":"UP_Line_","tab":{"beginNum":0,"plist":"effects/effectsRes/UP_Line.plist","isRepeat":false},
+     "ax":0.5,"ay":0.5,"x":23,"y":241,"z":-1,"scaleX":4.0,"scaleY":4.0,"blend":[1,771],"opacity":0,"action":[]},
+],
+"views1_delay49_up":[
+  {"id":"UP_Line_S_00001_3","type":"animate","frames":11,"time":0.833,"name":"UP_Line_","tab":{"beginNum":0,"plist":"effects/effectsRes/UP_Line.plist","isRepeat":false},
+     "ax":0.5,"ay":0.5,"x":23,"y":241,"z":1,"scaleX":4.0,"scaleY":4.0,"blend":[1,771],"opacity":0,"action":[]},
+  {"id":"Particle_1","type":"particle","resPath":"particles/battleEffectBaymax1.json",
+     "x":9,"y":-4,"z":4,"scaleX":2.0,"scaleY":2.0,"blend":[1,1],"action":[]},
+ ],
+"views1_delay50":[
+  {"id":"Light_00_10_0","type":"image","resPath":"effects/effectsRes/Baymax_Light.png",
+     "ax":0.5018,"ay":0.1036,"x":11,"y":-44,"z":5,"scaleX":1.5,"scaleY":1.0,"blend":[1,1],"opacity":0,"action":[]},
+  {"id":"Light_00_10_0_0","type":"image","resPath":"effects/effectsRes/Baymax_Light.png",
+     "ax":0.5018,"ay":0.1036,"x":11,"y":-44,"z":6,"scaleX":1.5,"scaleY":1.0,"blend":[1,1],"opacity":0,"color":[255,255,0],"action":[]},
+  {"id":"Light_00_10","type":"image","resPath":"effects/effectsRes/Baymax_Light.png",
+     "ax":0.5018,"ay":0.1036,"x":11,"y":-44,"z":7,"scaleX":1.5,"scaleY":1.0,"blend":[1,1],"opacity":0,"color":[255,0,0],"action":[]},
+ ],
+
+"views1_delay95":[
+  {"id":"Glow_01_33","type":"image","resPath":"effects/effectsRes/Glow_01.png",
+     "ax":0.5,"ay":0.5,"x":2,"y":152,"z":8,"scaleX":0.4,"scaleY":0.4,"blend":[770,1],"opacity":0,"color":[0,50,255],"action":[]},
+  {"id":"Glow_01_33_0","type":"image","resPath":"effects/effectsRes/Glow_01.png",
+     "ax":0.5,"ay":0.5,"x":2,"y":152,"z":9,"scaleX":0.1,"scaleY":0.1,"blend":[770,772],"opacity":0,"color":[223,239,255],"action":[]},
+  {"id":"Shoe_32","type":"image","resPath":"effects/effectsRes/Baymax_Shoe.png",
+     "ax":0.5,"ay":0.5,"x":-2,"y":150,"z":10,"scaleX":0.1,"scaleY":0.1,"blend":[1,771],"opacity":0,"action":[]},
+ ],
+
+"views2_delay24":[
+  {"id":"Strike_00000_16_222","type":"animate","frames":5,"time":0.200,"name":"Strike_0_","tab":{"beginNum":0,"plist":"effects/effectsRes/Strike_0.plist","isRepeat":false},
+     "ax":0.5,"ay":0.5,"x":371,"y":30,"z":1,"scaleX":0.7,"scaleY":0.7,"blend":[1,771],"skewX":43.1301,"skewY":43.1256,"opacity":0,"action":[]},
+ ],
+"views2_delay19":[
+  {"id":"Sprite_19_222","type":"image","resPath":"effects/effectsRes/hulk_fireBlack.png",
+     "ax":0.5,"ay":0.5,"x":357,"y":49,"z":2,"scaleX":0.7,"scaleY":0.7,"blend":[770,771],"skewX":82.6294,"skewY":82.6326,"opacity":0,"action":[]},
+  {"id":"Glow_01_17_222","type":"image","resPath":"effects/effectsRes/Glow_01.png",
+     "ax":0.5,"ay":0.5,"x":334,"y":70,"z":3,"scaleX":1.5,"scaleY":1.5,"blend":[770,1],"opacity":0,"color":[0,50,255],"action":[]},
+  {"id":"Glow_01_17_0_222","type":"image","resPath":"effects/effectsRes/Glow_01.png",
+     "ax":0.5,"ay":0.5,"x":334,"y":70,"z":4,"scaleX":0.5,"scaleY":0.5,"blend":[770,1],"opacity":0,"action":[]},
+ ]
+}

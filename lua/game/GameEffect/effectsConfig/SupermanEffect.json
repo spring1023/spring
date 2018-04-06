@@ -1,0 +1,62 @@
+{
+"views1_delay59":[
+  {"id":"Glow_01_10_0","type":"image","resPath":"effects/effectsRes/Glow_01.png",
+     "ax":0.5,"ay":0.5,"x":-88,"y":74,"z":1,"scaleX":3.5,"scaleY":3.5,"blend":[770,1],"opacity":0,"color":[0,50,255],"action":[]},
+  {"id":"Glow_01_10","type":"image","resPath":"effects/effectsRes/Glow_01.png",
+     "ax":0.5,"ay":0.5,"x":-88,"y":74,"z":2,"scaleX":2.5,"scaleY":2.5,"blend":[1,771],"opacity":0,"color":[0,50,255],"action":[]}
+ ],
+"views1_delay59_Particle":[
+  {"id":"Particle_1","type":"particle","resPath":"particles/battleEffectSuperman1.json",
+     "x":-208,"y":196,"z":3,"scaleX":1.5,"scaleY":1.5,"blend":[770,1],"action":[]},
+  {"id":"Particle_1_0","type":"particle","resPath":"particles/battleEffectSuperman2.json",
+     "x":-208,"y":196,"z":4,"scaleX":1.5,"scaleY":1.5,"blend":[770,1],"action":[]},
+  {"id":"Particle_1_0_0","type":"particle","resPath":"particles/battleEffectSuperman3.json",
+     "x":-208,"y":196,"z":5,"scaleX":1.5,"scaleY":1.5,"blend":[770,1],"action":[]},
+ ],
+"views1_delay55":[
+  {"id":"Glow_01_2","type":"image","resPath":"effects/effectsRes/Glow_01.png",
+     "ax":0.5,"ay":0.5,"x":-213,"y":212,"z":6,"scaleX":0.5,"scaleY":0.5,"blend":[770,1],"opacity":0,"color":[0,0,255],"action":[]},
+  {"id":"Glow_01_2_0","type":"image","resPath":"effects/effectsRes/Glow_01.png",
+     "ax":0.5,"ay":0.5,"x":-213,"y":212,"z":7,"scaleX":0.5,"scaleY":0.5,"blend":[770,1],"opacity":0,"color":[30,144,255],"action":[]},
+ ],
+"views2_delay64":[
+  {"id":"Ice_Particle_00000_5","type":"animate","frames":5,"time":0.333,"name":"Ice_PRT_","tab":{"beginNum":0,"plist":"effects/effectsRes/Ice_PRT.plist","isRepeat":false},
+     "ax":0.5,"ay":0.5,"x":239,"y":-139,"z":5,"scaleX":2.5,"scaleY":2.5,"blend":[1,771],"opacity":0,"action":[]},
+ ],
+"views2_delay65":[
+  {"id":"Weapon_Broken_00000_21","type":"animate","frames":5,"time":0.333,"name":"Weapon_Broken_","tab":{"beginNum":0,"plist":"effects/effectsRes/Weapon_Broken.plist","isRepeat":true},
+     "ax":0.5,"ay":0.5,"x":235,"y":-41,"z":1,"scaleX":0.6,"scaleY":0.6,"blend":[1,771],"opacity":0,"action":[]},
+  {"id":"Weapon_Broken_Glow","type":"image","resPath":"effects/effectsRes/Glow_01.png",
+     "ax":0.5,"ay":0.5,"x":236,"y":-42,"z":2,"scaleX":1.0,"scaleY":1.0,"blend":[770,1],"opacity":0,"color":[0,50,255],"action":[]},
+  {"id":"Weapon_Broken_Glow_0","type":"image","resPath":"effects/effectsRes/Glow_01.png",
+     "ax":0.5,"ay":0.5,"x":236,"y":-42,"z":3,"scaleX":1.5,"scaleY":1.5,"blend":[770,1],"opacity":0,"color":[0,0,255],"action":[]},
+ ],
+"views2_delay60":[
+  {"id":"Glow_01_6","type":"image","resPath":"effects/effectsRes/Glow_01.png",
+     "ax":0.5,"ay":0.5,"x":238,"y":-139,"z":6,"scaleX":1.2,"scaleY":1.5,"blend":[770,1],"opacity":0,"color":[0,0,255],"action":[]},
+ ],
+"views2_delay55":[
+  {"id":"Glow_01_8","type":"image","resPath":"effects/effectsRes/Glow_01.png",
+     "ax":0.5,"ay":0.5,"x":241,"y":-206,"z":4,"scaleX":1.5,"scaleY":1.125,"blend":[770,1],"opacity":0,"color":[0,57,255],"action":[]},
+  {"id":"Glow_01_9","type":"image","resPath":"effects/effectsRes/Glow_01.png",
+     "ax":0.5,"ay":0.5,"x":241,"y":-154,"z":7,"scaleX":1.5,"scaleY":1.5,"blend":[770,1],"opacity":0,"color":[0,50,255],"action":[]},
+ ],
+"views3_delay0":[
+  {"id":"Glow_01_15","type":"image","resPath":"effects/effectsRes/Glow_01.png",
+     "ax":0.5,"ay":0.5,"x":-248,"y":218,"z":2,"scaleX":0.3,"scaleY":0.3,"blend":[770,1],"opacity":0,"color":[255,0,0],"action":[]},
+  {"id":"Glow_01_15_0","type":"image","resPath":"effects/effectsRes/Glow_01.png",
+     "ax":0.5,"ay":0.5,"x":-248,"y":218,"z":3,"scaleX":0.15,"scaleY":0.15,"blend":[770,1],"opacity":0,"action":[]},
+ ],
+"views3_delay4":[
+  {"id":"Lightning_00000_14","type":"animate","frames":8,"time":0.583,"name":"Lightning_Superman_","tab":{"beginNum":0,"plist":"effects/effectsRes/Lightning_Superman.plist","isRepeat":true},
+     "ax":0.09,"ay":0.58,"x":-249,"y":219,"z":1,"scaleX":0.05,"scaleY":0.32,"blend":[770,1],"skewX":34.5475,"skewY":34.3941,"opacity":0,"action":[]},
+ ],
+"views4_delay9":[
+  {"id":"Glow_01_17","type":"image","resPath":"effects/effectsRes/Glow_01.png",
+     "ax":0.5,"ay":0.5,"x":275,"y":-76,"z":1,"scaleX":0.6,"scaleY":0.6,"blend":[770,1],"opacity":0,"color":[255,0,0],"action":[]},
+  {"id":"Glow_01_17_0","type":"image","resPath":"effects/effectsRes/Glow_01.png",
+     "ax":0.5,"ay":0.5,"x":275,"y":-76,"z":2,"scaleX":0.5,"scaleY":0.5,"blend":[770,1],"opacity":0,"color":[255,165,0],"action":[]},
+  {"id":"Particle_5","type":"particle","resPath":"particles/battleEffectSuperman4.json",
+     "x":276,"y":-74,"z":3,"scaleX":0.7,"scaleY":0.7,"blend":[770,1],"action":[]},
+ ]
+}

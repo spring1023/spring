@@ -1,0 +1,156 @@
+{
+"views1_delay44":[
+  {"type":"image","resPath":"smallGlow.png",
+     "ax":0.5,"ay":0.5,"x":0,"y":90,"z":6,"scaleX":2,"scaleY":2,"blend":[770,1],"opacity":0,"color":[84,142,255],"action":["sequence",[["fadeTo",0.017,255],["scaleTo",0.167,2.4,2.4],["spawn",[["sequence",[["delay",0.416],["fadeTo",0.167,0]]],["scaleTo",0.583,1.2,1.2]]],"remove"]]},
+  {"type":"animate","frames":3,"time":0.3,"name":"Wing_","tab":{"beginNum":0,"plist":"effects/effectsRes/Wing.plist","isRepeat":false},
+     "ax":0.5,"ay":0.5,"x":70,"y":130,"z":7,"scaleX":-1,"scaleY":1,"blend":[1,771],"opacity":0,"action":["sequence",[["fadeTo",0.017,255],["fadeTo",0.083,204],["fadeTo",0.5,255],["fadeTo",0.167,0],"remove"]]},
+  {"type":"animate","frames":3,"time":0.3,"name":"Wing_","tab":{"beginNum":0,"plist":"effects/effectsRes/Wing.plist","isRepeat":false},
+     "ax":0.5,"ay":0.5,"x":70,"y":130,"z":8,"scaleX":-1,"scaleY":1,"blend":[770,1],"opacity":0,"action":["sequence",[["fadeTo",0.017,89],["fadeTo",0.083,0],["fadeTo",0.083,89],"remove"]]},
+  {"type":"animate","frames":3,"time":0.3,"name":"Wing_","tab":{"beginNum":0,"plist":"effects/effectsRes/Wing.plist","isRepeat":false},
+     "ax":0.5,"ay":0.5,"x":-70,"y":130,"z":8,"scaleX":1,"scaleY":1,"blend":[1,771],"opacity":0,"action":["sequence",[["fadeTo",0.017,255],["delay",0.583],["fadeTo",0.167,0],"remove"]]},
+  {"type":"animate","frames":3,"time":0.3,"name":"Wing_","tab":{"beginNum":0,"plist":"effects/effectsRes/Wing.plist","isRepeat":false},
+     "ax":0.5,"ay":0.5,"x":-70,"y":130,"z":9,"scaleX":1,"scaleY":1,"blend":[770,1],"opacity":0,"action":["sequence",[["fadeTo",0.017,89],["fadeTo",0.083,0],["fadeTo",0.083,89],"remove"]]}
+ ],
+"views1_delay45":[
+  {"type":"image","resPath":"effects/effectsRes/Glow_02.png",
+     "ax":0.5,"ay":0.5,"x":0,"y":0,"z":10,"scaleX":1.1,"scaleY":0.7,"blend":[770,1],"opacity":0,"color":[255,77,27],"action":["sequence",[["spawn",[["scaleTo",0.167,1.76,1.32],["fadeTo",0.167,255]]],["delay",1.166],["fadeTo",0.167,0]]]}
+ ],
+"views1_delay49":[
+  {"type":"animate","frames":7,"time":0.500,"name":"Athena_Cast_","tab":{"beginNum":0,"plist":"effects/effectsRes/Athena_Cast.plist","isRepeat":false},
+     "ax":0.5,"ay":0.5,"x":0,"y":120,"z":5,"scaleX":1,"scaleY":1,"blend":[1,771],"opacity":0,"action":["sequence",[["fadeTo",0.017,255],["fadeTo",0.583,0],"remove"]]}
+ ],
+"views1_delay84":[
+  {"type":"image","resPath":"effects/effectsRes/Circle.png",
+     "ax":0.5,"ay":0.5,"x":0,"y":0,"z":-1,"scaleX":0.22,"scaleY":0.165,"blend":[770,1],"opacity":0,"color":[255,69,35],"action":["sequence",[["fadeTo",0.017,255],["spawn",[["sequence",[["delay",0.583],["fadeTo",0.25,0]]],["scaleTo",0.833,0.66,0.495]]],"remove"]]}
+  ],
+"views1_delay54":[
+  {"type":"image","resPath":"effects/effectsRes/Circle.png",
+     "ax":0.5,"ay":0.5,"x":0,"y":0,"z":-2,"scaleX":0.22,"scaleY":0.165,"blend":[770,1],"opacity":0,"color":[255,69,35],"action":["sequence",[["fadeTo",0.017,255],["spawn",[["sequence",[["delay",0.583],["fadeTo",0.25,0]]],["scaleTo",0.833,0.66,0.495]]],"remove"]]}
+  ],
+"views1_delay54_up":[
+  {"type":"image","resPath":"smallGlow.png",
+     "ax":0.5,"ay":0.5,"x":0,"y":130,"z":1,"scaleX":9.2,"scaleY":5.52,"blend":[770,1],"opacity":0,"color":[0,35,255],"action":["sequence",[["fadeTo",0.017,255],["fadeTo",0.333,0],"remove"]]},
+  {"id":"Particle_1_1","type":"particle","resPath":"particles/battleEffectLineUpYellow.json",
+     "x":0,"y":-2,"z":8,"scaleX":2.0,"scaleY":2.0,"blend":[770,1],"params":{"d":1.2}},
+  {"id":"Particle_1_0_1","type":"particle","resPath":"particles/battleEffectColorPoints.json",
+     "x":0,"y":33,"z":9,"scaleX":1.4,"scaleY":1.4,"blend":[1,1],"params":{"d":1.2}}
+ ],
+"views1_delay34":[
+  {"id":"Particle_4","type":"particle","resPath":"particles/battleEffectAthena3.json",
+     "ax":0.5,"ay":0.5,"x":0,"y":0,"z":10,"scaleX":0.7,"scaleY":0.7,"blend":[1,1],"params":{"d":0.6}}
+],
+"views2_delay49":[
+  {"type":"image","resPath":"effects/effectsRes/light.png",
+     "ax":0.5,"ay":0.5,"x":0,"y":0,"z":1,"scaleX":0.6,"scaleY":0.6,"blend":[1,771],"opacity":0,"action":["sequence",[["fadeTo",0.017,127],["scaleTo",0.833,1.2,1.2],["fadeTo",0.017,0]]]},
+  {"type":"image","resPath":"effects/effectsRes/Moon_1.png",
+     "ax":0.5,"ay":0.3,"x":0,"y":0,"z":2,"scaleX":0.6,"scaleY":0.6,"blend":[1,771],"opacity":0,"action":["sequence",[["fadeTo",0.017,255],["scaleTo",0.833,1.2,1.2],["fadeTo",0.017,0]]]},
+  {"type":"image","resPath":"effects/effectsRes/Moon_1.png",
+     "ax":0.5,"ay":0.3,"x":0,"y":0,"z":3,"scaleX":0.6,"scaleY":0.6,"blend":[775,1],"opacity":0,"action":["sequence",[["fadeTo",0.017,127],["spawn",[["scaleTo",0.833,1.2,1.2],["fadeTo",0.833,255]]],["fadeTo",0.017,0]]]},
+  {"type":"image","resPath":"effects/effectsRes/light.png",
+     "ax":0.5,"ay":0.5,"x":0,"y":0,"z":4,"scaleX":0.6,"scaleY":0.6,"blend":[770,1],"opacity":0,"action":["sequence",[["fadeTo",0.017,178],["scaleTo",0.833,1.2,1.2],["fadeTo",0.017,0]]]},
+  {"type":"image","resPath":"effects/effectsRes/Glow_01.png",
+     "ax":0.5,"ay":0.5,"x":0,"y":0,"z":5,"scaleX":0.5,"scaleY":0.5,"blend":[770,1],"opacity":0,"color":[0,50,255],"action":["sequence",[["fadeTo",0.017,255],["scaleTo",0.833,1.0,1.0],["fadeTo",0.017,0]]]}
+ ],
+"views2_delay44":[
+  {"type":"animate","frames":7,"time":0.300,"name":"Athena_Cast_","tab":{"beginNum":0,"plist":"effects/effectsRes/Athena_Cast.plist","isRepeat":false},
+     "ax":0.5,"ay":0.5,"x":45,"y":15,"z":6,"scaleX":1,"scaleY":1,"blend":[1,771],"opacity":0,"action":["sequence",[["fadeTo",0.017,255],["fadeTo",0.333,0],"remove"]]}
+ ],
+
+"views2_delay39":[
+  {"type":"image","resPath":"smallGlow.png",
+     "ax":0.5,"ay":0.5,"x":47,"y":12,"z":7,"scaleX":4.0,"scaleY":4.0,"blend":[770,1],"opacity":0,"color":[38,0,255],"action":["sequence",[["fadeTo",0.017,255],["delay",0.417],["fadeTo",0.083,0],"remove"]]},
+  {"type":"image","resPath":"smallGlow.png",
+     "ax":0.5,"ay":0.5,"x":45,"y":12,"z":8,"scaleX":1.2,"scaleY":1.2,"blend":[770,1],"opacity":0,"color":[84,142,255],"action":["sequence",[["fadeTo",0.017,255],["scaleTo",0.167,2,2],["spawn",[["scaleTo",0.333,0.8,0.8],["sequence",[["delay",0.166],["fadeTo",0.167,0]]]]],"remove"]]}
+ ],
+
+"godSkill_views1_delay0":[
+  {"id":"godNodeAthena","type":"animate","frames":8,"time":0.583,"name":"shengui_","tab":{"beginNum":0,"plist":"effects/effectsRes/shengui.plist","isRepeat":false},
+     "ax":0.5,"ay":0.5,"x":0,"y":0,"z":-3,"scaleX":2,"scaleY":2,"blend":[1,1],"opacity":0,"action":["sequence",[["fadeTo",0.083,255],["delay",0.417],["fadeTo",0.1,0]]]}
+ ],
+
+"godSkill_views2_delay59":[
+  {"type":"animate","frames":5,"time":0.333,"name":"Gundam_Shield_1_","tab":{"beginNum":0,"plist":"effects/effectsRes/Gundam_Shield_1.plist","isRepeat":true},
+     "ax":0.5,"ay":0.5,"x":0,"y":0,"z":4,"scaleX":2.5,"scaleY":2.5,"blend":[1,769],"opacity":0,"action":["sequence",[["fadeTo",0.033,255],["delay",0.65],["fadeTo",0.1,0],"remove"]]}
+ ],
+"godSkill_views2_delay49":[
+  {"type":"image","resPath":"effects/effectsRes/Glow_02.png",
+     "ax":0.5,"ay":0.5,"x":0,"y":140,"z":2,"scaleX":0.2,"scaleY":0.2,"blend":[1,771],"opacity":0,"action":["sequence",[["spawn",[["scaleTo",0.1,1.2,1.2],["fadeTo",0.033,255]]],["delay",0.083],["fadeTo",0.167,0],"remove"]]},
+  {"type":"animate","frames":4,"time":0.250,"name":"Impact_1_","tab":{"beginNum":0,"plist":"effects/effectsRes/Impact_1.plist","isRepeat":false},
+   "ax":0.5,"ay":0.5,"x":0,"y":140,"z":3,"scaleX":1.0,"scaleY":1.0,"blend":[1,1],"opacity":0,"action":["sequence",[["spawn",[["sequence",[["delay",0.017],["scaleTo",0.25,3,3]]],["sequence",[["fadeTo",0.033,255],["fadeTo",0.25,0]]]]],"remove"]]},
+  
+  {"type":"particle","resPath":"particles/battleEffectAthena2.json",
+     "x":0,"y":0,"z":5,"scaleX":1.3142,"scaleY":-1.2006,"blend":[1,1],"params":{"d":0.833}},
+  {"type":"animate","frames":6,"time":0.417,"name":"Sharingan_blue_","tab":{"beginNum":0,"plist":"effects/effectsRes/Sharingan_blue.plist","isRepeat":true},
+     "ax":0.5,"ay":0.22,"x":0,"y":0,"z":6,"scaleX":4,"scaleY":4.5,"blend":[1,1],"opacity":0,"action":["sequence",[["fadeTo",0.1,255],["delay",0.5],["fadeTo",0.333,0],"remove"]]},
+  {"type":"animate","frames":6,"time":0.417,"name":"Sharingan_blue_","tab":{"beginNum":0,"plist":"effects/effectsRes/Sharingan_blue.plist","isRepeat":true},
+     "ax":0.5,"ay":0.22,"x":0,"y":0,"z":7,"scaleX":2.25,"scaleY":5,"blend":[1,1],"opacity":0,"action":["sequence",[["fadeTo",0.1,255],["delay",0.5],["fadeTo",0.333,0],"remove"]]}
+ ],
+ "godSkill_views2_delay49_down":[
+  {"type":"image","resPath":"partiPointBlue2.png",
+     "ax":0.5,"ay":0.5,"x":0,"y":0,"z":-5,"scaleX":1.6,"scaleY":0.8,"blend":[1,771],"opacity":0,"action":["sequence",[["spawn",[["scaleTo",0.117,10.4,7.2],["fadeTo",0.117,127]]],["spawn",[["scaleTo",0.317,12.8,10.4],["fadeTo",0.317,0]]],"remove"]]},
+  {"type":"image","resPath":"partiPointBlue2.png",
+     "ax":0.5,"ay":0.5,"x":0,"y":0,"z":-4,"scaleX":1.6,"scaleY":0.8,"blend":[1,1],"opacity":0,"action":["sequence",[["spawn",[["scaleTo",0.117,10.4,7.2],["fadeTo",0.117,255]]],["spawn",[["scaleTo",0.317,12.8,10.4],["fadeTo",0.317,0]]],"remove"]]},
+  {"type":"animate","frames":10,"time":0.750,"name":"Bing_","tab":{"beginNum":0,"plist":"effects/effectsRes/Bing.plist","isRepeat":false},
+     "ax":0.5,"ay":0.4,"x":0,"y":85,"z":-2,"scaleX":3.3,"scaleY":3.3,"blend":[1,771],"opacity":0,"action":["sequence",[["fadeTo",0.1,255],["delay",0.55],["fadeTo",0.133,0],"remove"]]},
+  {"type":"animate","frames":10,"time":0.750,"name":"Bing_","tab":{"beginNum":0,"plist":"effects/effectsRes/Bing.plist","isRepeat":false},
+     "ax":0.5,"ay":0.4,"x":0,"y":85,"z":-1,"scaleX":3.3,"scaleY":3.3,"blend":[1,769],"opacity":0,"action":["sequence",[["fadeTo",0.1,255],["delay",0.55],["fadeTo",0.133,0],"remove"]]}
+ ],
+"godSkill_views2_delay50":[
+  {"type":"animate","frames":8,"time":0.583,"name":"Shockwave_Blue_","tab":{"beginNum":0,"plist":"effects/effectsRes/Shockwave_Blue.plist","isRepeat":false},
+     "ax":0.5,"ay":0.5,"x":0,"y":0,"z":-3,"scaleX":0.4,"scaleY":0.2,"blend":[1,769],"opacity":0,"action":["sequence",[["spawn",[["scaleTo",0.583,2,1.7],["sequence",[["fadeTo",0.167,204],["fadeTo",0.166,184],["fadeTo",0.25,0]]]]],"remove"]]}
+ ],
+ "godSkill_views2_delay40":[
+  {"type":"image","resPath":"effects/effectsRes/DaBia.png",
+     "ax":0.5,"ay":0.5,"x":0,"y":0,"z":1,"scaleX":1,"scaleY":0.8,"blend":[1,771],"opacity":0,"action":["spawn",[["scaleTo",1.833,30,24],["sequence",[["fadeTo",0.167,128],["fadeTo",1.666,178],["fadeTo",1.167,0]]]]]}
+ ],
+"godSkill_views3_delay55":[
+  {"type":"animate","frames":12,"time":0.733,"name":"Smoke_","tab":{"beginNum":0,"plist":"effects/effectsRes/Smoke.plist","isRepeat":false},
+     "ax":0.5,"ay":0.5,"x":0,"y":0,"z":3,"scaleX":5.57,"scaleY":5.57,"blend":[1,1],"opacity":0,"color":[225,225,225],"action":["sequence",[["fadeTo",0.267,217],["fadeTo",0.317,175],["fadeTo",0.15,0],"remove"]]},
+  {"type":"animate","frames":12,"time":0.733,"name":"Smoke_","tab":{"beginNum":0,"plist":"effects/effectsRes/Smoke.plist","isRepeat":false},
+     "ax":0.5,"ay":0.5,"x":0,"y":0,"z":11,"scaleX":5.57,"scaleY":5.57,"blend":[1,1],"opacity":0,"color":[0,149,255],"action":["sequence",[["fadeTo",0.267,255],["delay",0.317],["fadeTo",0.15,0],"remove"]]}
+ ],
+"godSkill_views3_delay65":[
+  {"type":"image","resPath":"effects/effectsRes/Snowflake.png",
+     "ax":0.5,"ay":0.5,"x":0,"y":0,"z":1,"scaleX":1.49,"scaleY":1.1633,"blend":[1,771],"opacity":0,"color":[0,167,255],"action":["sequence",[["fadeTo",0.167,255],["delay",1.5],["fadeTo",0.133,0],"remove"]]},
+  {"type":"image","resPath":"effects/effectsRes/Snowflake.png",
+     "ax":0.5,"ay":0.5,"x":0,"y":0,"z":2,"scaleX":1.49,"scaleY":1.1633,"blend":[1,1],"opacity":0,"color":[0,53,255],"action":["sequence",[["fadeTo",0.167,255],["delay",1.5],["fadeTo",0.133,0],"remove"]]},
+  {"type":"image","resPath":"effects/effectsRes/Snowflake.png",
+     "ax":0.5,"ay":0.5,"x":0,"y":0,"z":10,"scaleX":1.49,"scaleY":1.1633,"blend":[1,1],"opacity":0,"color":[0,53,255],"action":["sequence",[["fadeTo",0.167,255],["delay",1.5],["fadeTo",0.1,0],"remove"]]}
+ ],
+"godSkill_views3_delay70":[
+  {"type":"image","resPath":"effects/effectsRes/wdr.png",
+     "ax":0.5,"ay":0.5,"x":0,"y":0,"z":8,"scaleX":1.4394,"scaleY":1.5088,"blend":[1,1],"opacity":0,"action":["sequence",[["fadeTo",0.083,255],["fadeTo",0.2,45],["fadeTo",1.3,48],["fadeTo",1.167,0],"remove"]]},
+  {"type":"image","resPath":"effects/effectsRes/wdr.png",
+     "ax":0.486,"ay":0.1524,"x":0,"y":0,"z":9,"scaleX":1.4394,"scaleY":1.5088,"blend":[1,1],"opacity":0,"action":["sequence",[["spawn",[["fadeTo",0.083,255],["scaleTo",0.083,2,2]]],["spawn",[["fadeTo",0.25,0],["scaleTo",0.25,2.2,2.2]]],"remove"]]},
+  {"type":"animate","frames":5,"time":0.267,"name":"Ice_PRT_","tab":{"beginNum":0,"plist":"effects/effectsRes/Ice_PRT.plist","isRepeat":false},
+     "ax":0.5,"ay":0.5,"x":0,"y":0,"z":12,"scaleX":2.0,"scaleY":2.0,"blend":[1,1],"opacity":0,"color":[0,110,255],"action":["sequence",[["spawn",[["sequence",[["fadeTo",0.017,255],["delay",0.183],["fadeTo",0.083,0]]],["scaleTo",0.083,3,3]]],"remove"]]}
+ ],
+"godSkill_views3_delay74":[
+  {"type":"animate","frames":10,"time":0.750,"name":"Smoke_","tab":{"beginNum":0,"plist":"effects/effectsRes/Smoke.plist","isRepeat":false},
+     "ax":0.5,"ay":0.5,"x":0,"y":0,"z":4,"scaleX":3.3,"scaleY":3.3,"blend":[1,1],"opacity":0,"color":[0,153,255],"action":["sequence",[["fadeTo",0.1,76],["delay",0.583],["fadeTo",0.167,0],"remove"]]}
+ ],
+"godSkill_views3_delay75":[
+  {"type":"animate","frames":10,"time":0.750,"name":"Smoke_","tab":{"beginNum":0,"plist":"effects/effectsRes/Smoke.plist","isRepeat":false},
+     "ax":0.5,"ay":0.5,"x":0,"y":0,"z":5,"scaleX":3.3,"scaleY":3.3,"blend":[1,1],"opacity":0,"color":[0,153,255],"action":["sequence",[["delay",0.567],["fadeTo",0.2,76],["delay",0.483],["fadeTo",0.167,0],"remove"]]}
+ ],
+"godSkill_views3_delay80":[
+  {"type":"image","resPath":"effects/effectsRes/wdr.png",
+     "ax":0.5,"ay":0.5,"x":0,"y":0,"z":7,"scaleX":1.4394,"scaleY":1.5088,"blend":[1,771],"opacity":0,"action":["sequence",[["fadeTo",0.167,255],["delay",0.083],["fadeTo",0.133,180],["delay",1.033],["fadeTo",0.1,0],"remove"]]}
+ ],
+"godSkill_views3_delay144":[
+  {"type":"animate","frames":8,"time":0.583,"name":"Smoke_","tab":{"beginNum":0,"plist":"effects/effectsRes/Smoke.plist","isRepeat":false},
+     "ax":0.5,"ay":0.5,"x":0,"y":0,"z":6,"scaleX":3.3,"scaleY":3.3,"blend":[1,1],"opacity":0,"color":[0,153,255],"action":["sequence",[["fadeTo",0.2,76],["delay",0.283],["fadeTo",0.167,0],"remove"]]}
+ ],
+"godSkill_views3_delay159":[
+  {"type":"animate","frames":7,"time":0.400,"name":"BaoDian2_","tab":{"beginNum":0,"plist":"effects/effectsRes/BaoDian2.plist","isRepeat":false},
+     "ax":0.5,"ay":0.5,"x":0,"y":0,"z":13,"scaleX":5,"scaleY":5,"blend":[1,1],"opacity":0,"action":["sequence",[["fadeTo",0.083,255],["delay",0.267],["fadeTo",0.083,0],"remove"]]}
+ ],
+"godSkill_views3_delay175":[
+  {"type":"image","resPath":"effects/effectsRes/Bingbiao.png",
+     "ax":0.5,"ay":0.5,"x":0,"y":140,"z":14,"scaleX":0.5,"scaleY":0.5,"blend":[1,771]},
+  {"type":"particle","resPath":"particles/battleEffectAthena1.json",
+     "x":0,"y":140,"z":15,"scaleX":1.0,"scaleY":1.0,"blend":[1,1]},
+  {"type":"image","resPath":"effects/effectsRes/Bingbiao.png",
+     "ax":0.5,"ay":0.5,"x":0,"y":140,"z":16,"scaleX":0.5,"scaleY":0.5,"blend":[1,1]}
+ ]
+}

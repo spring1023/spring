@@ -1,0 +1,26 @@
+{
+"views1_delay0":[
+  {"id":"Glow_02_15","type":"image","resPath":"effects/effectsRes/Glow_02.png",
+     "ax":0.5,"ay":0.5,"x":0,"y":0,"z":1,"scaleX":0.3,"scaleY":0.2,"blend":[1,771],"opacity":0,"color":[0,0,0],"action":[]},
+  {"id":"Glow_16_10_0","type":"image","resPath":"partiPointBlue2.png",
+     "ax":0.5,"ay":0.5,"x":0,"y":0,"z":2,"scaleX":0.8,"scaleY":0.4,"blend":[1,771],"opacity":0,"action":[]},
+  {"id":"Glow_16_10","type":"image","resPath":"partiPointBlue2.png",
+     "ax":0.5,"ay":0.5,"x":0,"y":0,"z":3,"scaleX":0.8,"scaleY":0.4,"blend":[1,1],"opacity":0,"action":[]},
+  {"id":"DIanqn_00000_8","type":"animate","frames":7,"time":0.500,"name":"Dian_","tab":{"beginNum":0,"plist":"effects/effectsRes/Dian.plist","isRepeat":false},
+     "ax":0.5,"ay":0.5,"x":0,"y":0,"z":4,"scaleX":0.4,"scaleY":0.4,"blend":[1,769],"opacity":0,"color":[0,124,255],"action":[]},
+  {"id":"DIanqn_00000_8_0","type":"animate","frames":7,"time":0.500,"name":"Dian_","tab":{"beginNum":0,"plist":"effects/effectsRes/Dian.plist","isRepeat":false},
+     "ax":0.5,"ay":0.5,"x":0,"y":0,"z":5,"scaleX":0.4,"scaleY":0.4,"blend":[1,1],"opacity":0,"action":[]},
+  {"id":"DIan_00000_12","type":"animate","frames":4,"time":0.250,"name":"Dian2_","tab":{"beginNum":0,"plist":"effects/effectsRes/Dian2.plist","isRepeat":true},
+     "ax":0.5,"ay":0.5,"x":0,"y":0,"z":8,"scaleX":1.2,"scaleY":1.2,"blend":[1,1],"opacity":0,"action":[]},
+ ],
+"views1_delay2":[
+  {"id":"Glow_01_17","type":"image","resPath":"effects/effectsRes/Glow_01.png",
+     "ax":0.5,"ay":0.5,"x":0,"y":0,"z":9,"scaleX":0.5,"scaleY":0.5,"blend":[1,1],"opacity":0,"action":[]},
+ ],
+"views1_delay15":[
+  {"id":"DIanqn_00000_8_1","type":"animate","frames":7,"time":0.500,"name":"Dian_","tab":{"beginNum":0,"plist":"effects/effectsRes/Dian.plist","isRepeat":false},
+     "ax":0.5,"ay":0.5,"x":0,"y":0,"z":6,"scaleX":0.4,"scaleY":0.4,"blend":[1,769],"opacity":0,"color":[0,124,255],"action":[]},
+  {"id":"DIanqn_00000_8_0_0","type":"animate","frames":7,"time":0.500,"name":"Dian_","tab":{"beginNum":0,"plist":"effects/effectsRes/Dian.plist","isRepeat":false},
+     "ax":0.5,"ay":0.5,"x":0,"y":0,"z":7,"scaleX":0.4,"scaleY":0.4,"blend":[1,1],"opacity":0,"action":[]},
+ ]
+}

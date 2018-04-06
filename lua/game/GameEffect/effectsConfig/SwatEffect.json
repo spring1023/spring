@@ -1,0 +1,10 @@
+{
+"views1_delay30":[
+  {"id":"Shield_00000_7","type":"animate","frames":4,"time":0.2,"name":"Shield_police_","tab":{"beginNum":0,"plist":"effects/effectsRes/Shield_police.plist","isRepeat":true},
+     "ax":0.5,"ay":0.5,"x":0,"y":0,"z":-1,"scaleX":2.5,"scaleY":2.5,"blend":[770,1],"opacity":0,"action":[]},
+ ],
+ "views1_delay50":[
+  {"id":"Shield_00003_1","type":"image","resPath":"effects/effectsRes/Shield_police_3.png",
+     "ax":0.5,"ay":0.5,"x":0,"y":0,"z":1,"scaleX":1.75,"scaleY":1.75,"blend":[770,1],"opacity":127,"action":[]}
+ ]
+}

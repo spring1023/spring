@@ -1,0 +1,18 @@
+{
+"views1_delay48":[
+  {"id":"Sprite_4","type":"animate","frames":4,"time":0.200,"name":"Pawtrail_","tab":{"beginNum":0,"plist":"effects/effectsRes/Pawtrail.plist","isRepeat":false},
+     "r":-32,"ax":0.5,"ay":0.5,"x":0,"y":0,"z":0,"scaleX":1.0,"scaleY":1.0,"blend":[1,771],"opacity":0,"action":[]},
+ ],
+"views1_delay56":[
+  {"id":"Sprite_7","type":"image","resPath":"effects/effectsRes/Flare_Wolverine.png",
+     "r":-53,"ax":0.5,"ay":0.5,"x":67,"y":-107,"z":2,"scaleX":0.05,"scaleY":0.05,"blend":[1,771],"opacity":0,"action":[]},
+ ],
+"views1_delay68":[
+  {"id":"Sprite_4_0","type":"animate","frames":4,"time":0.200,"name":"Pawtrail_","tab":{"beginNum":0,"plist":"effects/effectsRes/Pawtrail.plist","isRepeat":false},
+     "r":-23,"ax":0.5,"ay":0.5,"x":0,"y":0,"z":1,"scaleX":-1.0,"scaleY":1.0,"blend":[1,771],"action":[]},
+ ],
+"views1_delay76":[
+  {"id":"Sprite_7_0","type":"image","resPath":"effects/effectsRes/Flare_Wolverine.png",
+     "r":8,"ax":0.5,"ay":0.5,"x":52,"y":-112,"z":3,"scaleX":0.625,"scaleY":0.5,"blend":[1,771],"action":[]},
+ ]
+}

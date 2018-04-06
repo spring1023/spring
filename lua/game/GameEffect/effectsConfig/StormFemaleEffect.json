@@ -1,0 +1,14 @@
+{
+"views1_delay49":[
+  {"id":"Wind_Ball_00000_9_0","type":"animate","frames":8,"time":0.583,"name":"Windball_","tab":{"beginNum":0,"plist":"effects/effectsRes/Windball.plist","isRepeat":true},
+     "ax":0.5,"ay":0.5,"x":0,"y":0,"z":0,"scaleX":1.4,"scaleY":1.4,"blend":[1,1],"opacity":0,"action":[]},
+ ],
+"views2_delay50":[
+  {"id":"Tornado_00001_3_0","type":"animate","frames":11,"time":0.5,"name":"Tornado_","tab":{"beginNum":0,"plist":"effects/effectsRes/Tornado.plist","isRepeat":true},
+     "ax":0.5,"ay":0.2,"x":0,"y":0,"z":2,"scaleX":1.6,"scaleY":1.6,"blend":[1,771],"opacity":0,"action":[]},
+  {"id":"Particle_1","type":"particle","resPath":"particles/battleEffectStorm2.json",
+     "r":-90,"x":0,"y":0,"z":0,"scaleX":1.5,"scaleY":1.5,"blend":[770,771],"action":[]},
+  {"id":"Particle_1_1","type":"particle","resPath":"particles/battleEffectStorm1.json",
+     "r":-5,"x":0,"y":0,"z":1,"scaleX":1.0,"scaleY":1.0,"blend":[770,1],"action":[]},
+ ]
+}

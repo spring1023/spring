@@ -1,0 +1,105 @@
+{
+"views1_delay64":[
+  {"id":"Smoke_00000_6","type":"animate","frames":12,"time":0.750,"name":"Smoke_","tab":{"beginNum":0,"plist":"effects/effectsRes/Smoke.plist","isRepeat":false},
+     "ax":0.5,"ay":0.5,"x":5,"y":44,"z":1,"scaleX":4.33,"scaleY":4.33,"blend":[1,771],"opacity":0,"action":[]},
+ ],
+"views1_delay65":[
+  {"id":"Ground_Glow_00000_31","type":"animate","frames":7,"time":0.500,"name":"Ground_Glow_","tab":{"beginNum":0,"plist":"effects/effectsRes/Ground_Glow.plist","isRepeat":true},
+     "ax":0.5,"ay":0.5,"x":0,"y":14,"z":-4,"scaleX":5,"scaleY":3.75,"blend":[1,771],"opacity":0,"action":[]},
+  {"id":"Ground_Glow_00000_31_0","type":"animate","frames":7,"time":0.500,"name":"Ground_Glow_","tab":{"beginNum":0,"plist":"effects/effectsRes/Ground_Glow.plist","isRepeat":true},
+     "ax":0.5,"ay":0.5,"x":1,"y":14,"z":-3,"scaleX":5,"scaleY":3.75,"blend":[770,1],"opacity":0,"action":[]},
+ ],
+"views1_delay75":[
+  {"id":"Glow_01_14_1_0_1","type":"image","resPath":"effects/effectsRes/Glow_01.png",
+     "ax":0.5,"ay":0.5,"x":-4,"y":7,"z":-2,"scaleX":1.5,"scaleY":1.125,"blend":[770,1],"opacity":0,"color":[5,0,255],"action":[]},
+  {"id":"Glow_01_14_1_0_0_0","type":"image","resPath":"effects/effectsRes/Glow_01.png",
+     "ax":0.5,"ay":0.5,"x":-4,"y":7,"z":-1,"scaleX":0.2,"scaleY":0.15,"blend":[770,1],"opacity":0,"action":[]},
+ ],
+
+"views2_delay18":[
+  {"id":"Sparkless_00000_40_111","type":"animate","frames":13,"time":0.200,"name":"Sparkless_Blue_","tab":{"beginNum":0,"plist":"effects/effectsRes/Sparkless_Blue.plist","isRepeat":false},
+     "ax":0.5,"ay":0.5,"x":-453,"y":-125,"z":3,"scaleX":1.67,"scaleY":1.67,"blend":[1,771],"opacity":0,"action":[]},
+  {"id":"Glow_01_41_111","type":"image","resPath":"effects/effectsRes/Glow_01.png",
+     "ax":0.5,"ay":0.5,"x":-455,"y":-121,"z":4,"scaleX":0.5,"scaleY":0.5,"blend":[1,1],"opacity":0,"color":[0,26,255],"action":[]},
+  {"id":"Glow_01_41_0_111","type":"image","resPath":"effects/effectsRes/Glow_01.png",
+     "ax":0.5,"ay":0.5,"x":-455,"y":-121,"z":5,"scaleX":0.1,"scaleY":0.1,"blend":[1,1],"opacity":0,"color":[157,214,255],"action":[]},
+ ],
+"views2_delay14":[
+  {"id":"Weapontrail_00000_36_111","type":"animate","frames":6,"time":0.167,"name":"Weapontrail_","tab":{"beginNum":0,"plist":"effects/effectsRes/Weapontrail.plist","isRepeat":false},
+     "ax":0.5,"ay":0.5,"x":-500,"y":-80,"z":1,"scaleX":1.2,"scaleY":1.2,"blend":[1,771],"skewX":-17.5082,"skewY":-17.5082,"opacity":0,"action":[]},
+  {"id":"Weapontrail_00000_36_0_111","type":"animate","frames":6,"time":0.167,"name":"Weapontrail_","tab":{"beginNum":0,"plist":"effects/effectsRes/Weapontrail.plist","isRepeat":false},
+     "ax":0.5,"ay":0.5,"x":-500,"y":-80,"z":2,"scaleX":1.2,"scaleY":1.2,"blend":[770,1],"skewX":-17.5082,"skewY":-17.5082,"opacity":0,"action":[]},
+ ],
+"views3_delay75":[
+  {"id":"Glow_01_14","type":"image","resPath":"effects/effectsRes/Glow_01.png",
+     "ax":0.5,"ay":0.5,"x":506,"y":126,"z":2,"scaleX":1.2,"scaleY":1.2,"blend":[770,1],"opacity":0,"color":[11,0,255],"action":[]},
+  {"id":"Glow_01_14_2","type":"image","resPath":"effects/effectsRes/Glow_01.png",
+     "ax":0.5,"ay":0.5,"x":506,"y":126,"z":3,"scaleX":0.5,"scaleY":0.5,"blend":[770,1],"opacity":0,"color":[0,180,255],"action":[]},
+  {"id":"Glow_01_14_2_0","type":"image","resPath":"effects/effectsRes/Glow_01.png",
+     "ax":0.5,"ay":0.5,"x":506,"y":126,"z":4,"scaleX":0.2,"scaleY":0.2,"blend":[770,1],"opacity":0,"action":[]},
+ ],
+"views3_delay149":[
+  {"id":"Smoke_00000_6_0","type":"animate","frames":12,"time":0.750,"name":"Smoke_","tab":{"beginNum":0,"plist":"effects/effectsRes/Smoke.plist","isRepeat":false},
+     "ax":0.5,"ay":0.5,"x":507,"y":128,"z":5,"scaleX":2,"scaleY":2,"blend":[1,771],"opacity":0,"action":[]},
+ ],
+
+"god_views4_delay20":[
+  {"id":"FengQiu_15_0_0","type":"image","resPath":"effects/effectsRes/FengQiu.png",
+     "ax":0.5,"ay":0.5,"x":0,"y":0,"z":12,"scaleX":1.0,"scaleY":1.0,"blend":[1,771],"opacity":0,"color":[0,197,255],"action":[]},
+  {"id":"FengQiu_15_1","type":"image","resPath":"effects/effectsRes/FengQiu.png",
+     "ax":0.5,"ay":0.5,"x":0,"y":0,"z":13,"scaleX":0.8,"scaleY":0.8,"blend":[1,1],"opacity":0,"color":[0,139,255],"action":[]},
+  {"id":"Quang_0_3","type":"animate","frames":6,"time":0.417,"name":"Quang_","tab":{"beginNum":0,"plist":"effects/effectsRes/Quan.plist","isRepeat":true},
+     "ax":0.5,"ay":0.5,"x":0,"y":0,"z":14,"scaleX":0.5,"scaleY":0.5,"blend":[1,1],"opacity":0,"action":[]},
+ ],
+"god_views4_delay50":[
+  {"id":"arcane_25","type":"image","resPath":"effects/effectsRes/4014_arcane.png",
+     "ax":0.5,"ay":0.5,"x":0,"y":0,"z":4,"scaleX":3.0,"scaleY":3.0,"blend":[1,771],"opacity":0,"color":[0,204,255],"action":[]},
+
+    {"id":"arcane_orb_spirl_26","type":"image","resPath":"effects/effectsRes/4014_arcane_orb_spirl.png",
+     "ax":0.5,"ay":0.5,"x":0,"y":0,"z":8,"scaleX":3.0,"scaleY":3.0,"blend":[1,1],"opacity":0,"action":[]},  
+
+  {"id":"GF_472_23","type":"image","resPath":"effects/effectsRes/GF_472_222.png",
+     "ax":0.5,"ay":0.5,"x":0,"y":0,"z":15,"scaleX":0.8,"scaleY":0.8,"blend":[1,1],"opacity":0,"color":[0,183,255],"action":[]},
+  {"id":"GF_472_23_0","type":"image","resPath":"effects/effectsRes/GF_472_222.png",
+     "ax":0.5,"ay":0.5,"x":0,"y":0,"z":16,"scaleX":0.8,"scaleY":0.8,"blend":[1,1],"opacity":0,"color":[0,171,255],"action":[]},
+  {"id":"GF_472_31","type":"image","resPath":"effects/effectsRes/GF_472_222.png",
+     "ax":0.5,"ay":0.5,"x":0,"y":0,"z":17,"scaleX":2.0,"scaleY":2.0,"blend":[1,1],"opacity":0,"color":[0,117,255],"action":[]},
+  {"id":"GF_472_31_0","type":"image","resPath":"effects/effectsRes/GF_472_222.png",
+     "ax":0.5,"ay":0.5,"x":0,"y":0,"z":18,"scaleX":2.0,"scaleY":2.0,"blend":[1,1],"opacity":0,"color":[0,86,255],"action":[]},
+],
+"god_views4_delay55":[
+  {"id":"Sprite_33","type":"image","resPath":"effects/effectsRes/4014_Circle_R_00000.png",
+     "ax":0.5,"ay":0.5,"x":0,"y":0,"z":7,"scaleX":1,"scaleY":1,"blend":[1,1],"opacity":0,"color":[0,128,255],"action":[]},
+],
+"god_views4_delay60":[
+  {"id":"arcane_orb_spirl_26_0","type":"image","resPath":"effects/effectsRes/4014_arcane_orb_spirl.png",
+     "ax":0.5,"ay":0.5,"x":0,"y":0,"z":9,"scaleX":3.0,"scaleY":3.0,"blend":[1,1],"opacity":0,"action":[]},
+],
+"god_views4_delay70":[
+  {"id":"Sprite_33_0","type":"image","resPath":"effects/effectsRes/4014_Circle_R_00000.png",
+     "ax":0.5,"ay":0.5,"x":0,"y":0,"z":6,"scaleX":1,"scaleY":1,"blend":[1,1],"opacity":0,"color":[0,204,255],"action":[]},
+  {"id":"arcane_orb_spirl_26_0_0","type":"image","resPath":"effects/effectsRes/4014_arcane_orb_spirl.png",
+     "ax":0.5,"ay":0.5,"x":0,"y":0,"z":10,"scaleX":3.0,"scaleY":3.0,"blend":[1,1],"opacity":0,"action":[]},
+],
+"god_views4_delay80":[
+  {"id":"arcane_orb_spirl_26_0_0_0","type":"image","resPath":"effects/effectsRes/4014_arcane_orb_spirl.png",
+     "ax":0.5,"ay":0.5,"x":0,"y":0,"z":11,"scaleX":3.0,"scaleY":3.0,"blend":[1,1],"opacity":0,"action":[]},
+],
+"god_views4_delay85":[
+    {"id":"Sprite_33_0_0","type":"image","resPath":"effects/effectsRes/4014_Circle_R_00000.png",
+     "ax":0.5,"ay":0.5,"x":0,"y":0,"z":5,"scaleX":1,"scaleY":1,"blend":[1,1],"opacity":0,"color":[0,140,255],"action":[]},
+],
+"god_views4_delay100":[
+  {"id":"GF_472_3","type":"image","resPath":"effects/effectsRes/GF_472_222.png",
+     "ax":0.5,"ay":0.5,"x":0,"y":0,"z":19,"scaleX":2.0,"scaleY":2.0,"blend":[773,771],"opacity":0,"action":[]},
+  {"id":"Sprite_4","type":"animate","frames":6,"time":0.417,"name":"4014_NewFolder2_","tab":{"beginNum":0,"plist":"effects/effectsRes/4014_NewFolder2.plist","isRepeat":false},
+     "ax":0.4958,"ay":0.5298,"x":0,"y":0,"z":20,"scaleX":2.0,"scaleY":2.0,"blend":[1,1],"opacity":0,"color":[0,79,255],"action":[]},
+  {"id":"SDA_00_1","type":"animate","frames":5,"time":0.333,"name":"4014_SDA_","tab":{"beginNum":0,"plist":"effects/effectsRes/4014_SDA.plist","isRepeat":false},
+     "ax":0.5,"ay":0.5,"x":0,"y":0,"z":21,"scaleX":5.0,"scaleY":4.0,"blend":[1,1],"opacity":0,"action":[]},
+  {"id":"BaoZa_00_37_0","type":"animate","frames":9,"time":0.667,"name":"4014_BaoZa_","tab":{"beginNum":0,"plist":"effects/effectsRes/4014_BaoZa.plist","isRepeat":false},
+     "ax":0.5,"ay":0.5,"x":0,"y":0,"z":22,"scaleX":2.0,"scaleY":2.0,"blend":[1,1],"opacity":0,"action":[]},
+  {"id":"BaoZa_00_37_0_0","type":"animate","frames":9,"time":0.667,"name":"4014_BaoZa_","tab":{"beginNum":0,"plist":"effects/effectsRes/4014_BaoZa.plist","isRepeat":false},
+     "ax":0.5,"ay":0.5,"x":0,"y":0,"z":23,"scaleX":2.0,"scaleY":2.0,"blend":[1,1],"opacity":0,"action":[]},
+ ],
+
+}

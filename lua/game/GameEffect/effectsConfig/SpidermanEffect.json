@@ -1,0 +1,42 @@
+{
+"views1_delay44":[
+  {"id":"Bullet_5","type":"image","resPath":"effects/effectsRes/Bullet_Spiderman.png",
+     "ax":0.5,"ay":0.5,"x":0,"y":0,"z":1,"scaleX":0.5,"scaleY":0.5,"blend":[1,771],"opacity":0,"action":[]},
+  ],
+"views1_delay46":[
+  {"id":"Line_00001_1","type":"animate","frames":9,"time":0.42,"name":"Swordwoman_Line_","tab":{"beginNum":0,"plist":"effects/effectsRes/Swordwoman_Line.plist","isRepeat":false},
+     "r":-40,"ax":0.684,"ay":0.37,"x":0,"y":0,"z":2,"scaleX":0.6,"scaleY":0.6,"blend":[770,1],"opacity":0,"action":[]},
+ ],
+"views2_delay80":[
+  {"id":"Net0001_1_p","type":"animate","frames":3,"time":0.250,"name":"Net_","tab":{"beginNum":0,"plist":"effects/effectsRes/Net.plist","isRepeat":false},
+     "ax":0.5,"ay":0.5,"x":0,"y":42,"z":2,"scaleX":2,"scaleY":2,"blend":[774,1],"opacity":0,"action":[]},
+  {"id":"Glow_01_3_p","type":"image","resPath":"effects/effectsRes/Glow_01.png",
+     "ax":0.5,"ay":0.5,"x":0,"y":0,"z":1,"scaleX":0.5,"scaleY":0.375,"blend":[1,771],"opacity":0,"color":[0,99,255],"action":[]},
+  {"id":"Glow_01_3_0_p","type":"image","resPath":"effects/effectsRes/Glow_01.png",
+     "ax":0.5,"ay":0.5,"x":0,"y":0,"z":3,"scaleX":0.5,"scaleY":0.375,"blend":[1,1],"opacity":0,"color":[0,27,255],"action":[]},
+ ],
+"views3_delay44":[
+  {"id":"Bullet_5","type":"image","resPath":"effects/effectsRes/Bullet_Spiderman.png",
+     "ax":0.5,"ay":0.5,"x":0,"y":0,"z":1,"scaleX":0.5,"scaleY":0.5,"blend":[1,771],"opacity":0,"action":[]},
+  ],
+ "views3_delay44_line":[ 
+  {"id":"Glow_08_2","type":"image","resPath":"effects/effectsRes/Glow_08.png",
+     "ax":0,"ay":0.5,"x":0,"y":0,"z":3,"scaleX":0.0775,"scaleY":0.0775,"blend":[1,771],"opacity":0,"action":[]},
+  {"id":"Glow_08_2_0","type":"image","resPath":"effects/effectsRes/Glow_08.png",
+     "ax":0,"ay":0.5,"x":0,"y":0,"z":4,"scaleX":0.0775,"scaleY":0.0775,"blend":[770,1],"opacity":0,"action":[]},
+ ],
+"views3_delay46":[
+  {"id":"Line_00001_1","type":"animate","frames":9,"time":0.42,"name":"Swordwoman_Line_","tab":{"beginNum":0,"plist":"effects/effectsRes/Swordwoman_Line.plist","isRepeat":false},
+     "r":-40,"ax":0.684,"ay":0.37,"x":0,"y":0,"z":2,"scaleX":0.6,"scaleY":0.6,"blend":[770,1],"opacity":0,"action":[]},
+ ],
+"views4_delay69":[
+  {"id":"Net0001_1","type":"animate","frames":3,"time":0.25,"name":"Net_","tab":{"beginNum":0,"plist":"effects/effectsRes/Net.plist","isRepeat":false},
+     "ax":0.5,"ay":0.5,"x":0,"y":42,"z":2,"scaleX":0.8,"scaleY":0.8,"blend":[774,1],"opacity":0,"action":[]},
+  {"id":"Particle_1","type":"particle","resPath":"particles/battleEffectSpider1.json",
+     "x":0,"y":0,"z":4,"scaleX":1.0,"scaleY":1.0,"blend":[770,1],"action":[]},
+  {"id":"Glow_01_3","type":"image","resPath":"effects/effectsRes/Glow_01.png",
+     "ax":0.5,"ay":0.5,"x":0,"y":0,"z":1,"scaleX":0.5,"scaleY":0.375,"blend":[1,771],"opacity":0,"color":[0,99,255],"action":[]},
+  {"id":"Glow_01_3_0","type":"image","resPath":"effects/effectsRes/Glow_01.png",
+     "ax":0.5,"ay":0.5,"x":0,"y":0,"z":3,"scaleX":0.5,"scaleY":0.375,"blend":[1,1],"opacity":0,"color":[0,27,255],"action":[]},
+ ]
+}

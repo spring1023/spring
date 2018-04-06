@@ -1,0 +1,20 @@
+{
+"downViews":[
+ {"id":"shield","type":"animate","time":0.5,"name":"Shield_","frames":6,"ax":0.5,"ay":0.5,"x":-18,"y":52,"scale":3.3,"color":[160,0,0],"blend":[1,771],
+ 	"tab":{"beginNum":0,"plist":"effects/effectsRes/Shield.plist","isRepeat":true},"opacity":0,"action":[]},
+ {"id":"Shield_00000_4_0","type":"animate","time":0.5,"name":"Shield_","frames":6,"ax":0.5,"ay":0.5,"x":-18,"y":52,"scale":2.9,"blend":[1,771],
+ 	"tab":{"beginNum":0,"plist":"effects/effectsRes/Shield.plist","isRepeat":true},"opacity":0,"action":[]},
+ {"id":"Shield_00000_4_0_0","type":"animate","time":0.5,"name":"Shield_","frames":6,"ax":0.5,"ay":0.5,"x":-18,"y":52,"scale":2.9,"blend":[1,1],
+ 	"tab":{"beginNum":0,"plist":"effects/effectsRes/Shield.plist","isRepeat":true},"opacity":0,"action":[]},
+ {"id":"Glow1","type":"image","resPath":"effects/effectsRes/Glow_01.png",
+     "ax":0.5,"ay":0.5,"x":-6,"y":11,"z":0,"scaleX":1.5,"scaleY":1.125,"blend":[770,1],"opacity":0,"color":[255,71,71],"action":[]},
+ {"id":"Glow2","type":"image","resPath":"effects/effectsRes/Glow_01.png",
+     "ax":0.5,"ay":0.5,"x":-5,"y":12,"z":0,"scaleX":0.5,"scaleY":0.375,"blend":[1,1],"opacity":0,"action":[]}
+ ],
+ "upViews":[
+ {"id":"loop","type":"animate","time":0.5,"name":"Loop_","frames":6,"ax":0.5,"ay":0.5,"x":-18,"y":52,"scale":3.3,"blend":[1,771],
+ 	"tab":{"beginNum":0,"plist":"effects/effectsRes/Loop.plist","isRepeat":true},"opacity":0,"action":[]},
+ {"id":"Loop_00000_5_0","type":"animate","time":0.5,"name":"Loop_","frames":6,"ax":0.5,"ay":0.5,"x":-18,"y":52,"scale":3.3,"blend":[1,1],
+ 	"tab":{"beginNum":0,"plist":"effects/effectsRes/Loop.plist","isRepeat":true},"opacity":0,"action":[]}
+ ]
+}

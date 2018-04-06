@@ -1,0 +1,28 @@
+{
+"views1_delay0":[
+  {"id":"Glow_01_2_0_0","type":"image","resPath":"effects/effectsRes/Glow_01.png",
+     "ax":0.5,"ay":0.5,"x":0,"y":0,"z":2,"scaleX":4.0,"scaleY":4.0,"blend":[1,771],"opacity":0,"color":[0,10,255],"action":[]},
+  {"id":"Glow_01_2_0","type":"image","resPath":"effects/effectsRes/Glow_01.png",
+     "ax":0.5,"ay":0.5,"x":0,"y":0,"z":3,"scaleX":3.0,"scaleY":3.0,"blend":[1,771],"opacity":0,"action":[]},
+  {"id":"Glow_01_2","type":"image","resPath":"effects/effectsRes/Glow_01.png",
+     "ax":0.5,"ay":0.5,"x":0,"y":0,"z":4,"scaleX":3.5,"scaleY":3.5,"blend":[1,1],"opacity":0,"color":[0,89,255],"action":[]},
+  {"id":"guanghuad_6","type":"image","resPath":"effects/effectsRes/guanghuad.png",
+     "ax":0.5,"ay":0.5,"x":0,"y":0,"z":5,"scaleX":2.0,"scaleY":1.6,"blend":[1,771],"opacity":0,"color":[0,57,255],"action":[]},
+  {"id":"guanghuad_6_0","type":"image","resPath":"effects/effectsRes/guanghuad.png",
+     "ax":0.5,"ay":0.5,"x":0,"y":0,"z":6,"scaleX":2.0,"scaleY":1.6,"blend":[1,1],"opacity":0,"action":[]},
+  {"id":"Spark_00000_8","type":"animate","frames":6,"time":0.417,"name":"Magneto_Spark_","tab":{"beginNum":0,"plist":"effects/effectsRes/Magneto_Spark.plist","isRepeat":false},
+     "ax":0.5,"ay":0.5,"x":0,"y":0,"z":7,"scaleX":5.0,"scaleY":5.0,"blend":[1,771],"opacity":0,"action":[]},
+  {"id":"Spark_00000_8_0","type":"animate","frames":6,"time":0.417,"name":"Magneto_Spark_","tab":{"beginNum":0,"plist":"effects/effectsRes/Magneto_Spark.plist","isRepeat":false},
+     "ax":0.5,"ay":0.5,"x":0,"y":0,"z":8,"scaleX":5.0,"scaleY":5.0,"blend":[1,1],"opacity":0,"action":[]},
+  {"id":"Sprite_10","type":"animate","frames":6,"time":0.483,"name":"Dian02_","tab":{"beginNum":0,"plist":"effects/effectsRes/Dian02.plist","isRepeat":false},
+     "ax":0.5,"ay":0.5,"x":0,"y":0,"z":9,"scaleX":4.0,"scaleY":4.0,"blend":[1,769],"opacity":0,"color":[0,29,255],"action":[]},
+  {"id":"Sprite_10_0","type":"animate","frames":6,"time":0.483,"name":"Dian02_","tab":{"beginNum":0,"plist":"effects/effectsRes/Dian02.plist","isRepeat":false},
+     "ax":0.5,"ay":0.5,"x":0,"y":0,"z":10,"scaleX":5.0,"scaleY":5.0,"blend":[1,1],"opacity":0,"action":[]},
+  {"id":"Glow_01_12","type":"image","resPath":"effects/effectsRes/Glow_01.png",
+     "ax":0.5,"ay":0.5,"x":0,"y":0,"z":11,"scaleX":3.5,"scaleY":3.5,"blend":[1,1],"opacity":0,"color":[40,0,255],"action":[]},
+  {"id":"Glow_01_12_0","type":"image","resPath":"effects/effectsRes/Glow_01.png",
+     "ax":0.5,"ay":0.5,"x":0,"y":0,"z":12,"scaleX":5.0,"scaleY":5.0,"blend":[1,1],"opacity":0,"color":[40,0,255],"action":[]},
+  {"id":"CD_00_1","type":"animate","frames":5,"time":0.333,"name":"CD_","tab":{"beginNum":0,"plist":"effects/effectsRes/CD.plist","isRepeat":false},
+     "ax":0.5,"ay":0.5,"x":0,"y":0,"z":13,"scaleX":2.5,"scaleY":2.5,"blend":[1,1],"opacity":0,"action":[]},
+ ]
+}

@@ -1,0 +1,44 @@
+{
+"views1_delay0_blue":[
+  {"id":"Particle_6","type":"particle","resPath":"particles/battleEffectJakiro1.json",
+     "x":0,"y":0,"z":1,"scaleX":1.5,"scaleY":1.5,"blend":[770,771],"action":[]},
+  {"id":"Particle_3","type":"particle","resPath":"particles/battleEffectJakiro4.json",
+     "x":0,"y":0,"z":2,"scaleX":1.5,"scaleY":1.5,"blend":[770,1],"action":[]},
+  {"id":"Particle_8","type":"particle","resPath":"particles/battleEffectJakiro3.json",
+     "x":0,"y":0,"z":3,"scaleX":1.5,"scaleY":1.5,"blend":[770,1],"action":[]},
+  ],
+"views1_delay0_red":[
+  {"id":"Particle_7","type":"particle","resPath":"particles/battleEffectJakiro1.json",
+     "x":0,"y":0,"z":4,"scaleX":1.5,"scaleY":1.5,"blend":[770,771],"action":[]},
+  {"id":"Particle_1","type":"particle","resPath":"particles/battleEffectJakiro2.json",
+     "x":0,"y":0,"z":5,"scaleX":1.5,"scaleY":1.5,"blend":[770,1],"action":[]},
+ ],
+ "views1_delay0_ranshao":[
+    {"id":"Fire_00000_1","type":"animate","frames":14,"time":1,"name":"3007_ranshao_","tab":{"beginNum":0,"plist":"effects/effectsRes/3007_ranshao.plist","isRepeat":true},
+     "ax":0.55,"ay":0.2,"x":0,"y":0,"z":1,"scaleX":2.5,"scaleY":2.5,"blend":[1,1],"action":[]},
+ ],
+"views2_delay26":[
+  {"id":"Glow_02_5","type":"image","resPath":"effects/effectsRes/Glow_02.png",
+     "ax":0.5,"ay":0.5,"x":0,"y":0,"z":0,"scaleX":0.1,"scaleY":0.1,"blend":[1,1],"opacity":0,"color":[255,105,0],"action":[]},
+  {"id":"Glow_02_5_0","type":"image","resPath":"effects/effectsRes/Glow_02.png",
+     "ax":0.5,"ay":0.5,"x":0,"y":0,"z":1,"scaleX":0.1,"scaleY":0.1,"blend":[1,1],"opacity":0,"action":[]},
+ ],
+"views2_delay29":[
+  {"id":"Strike_00000_4","type":"animate","frames":5,"time":0.200,"name":"Strike_0_Orange_","tab":{"beginNum":0,"plist":"effects/effectsRes/Strike_0_Orange.plist","isRepeat":false},
+     "ax":0.2,"ay":0.5,"x":0,"y":0,"z":1,"scaleX":0.47,"scaleY":0.7,"blend":[1,1],"opacity":0,"action":[]},
+  {"id":"Sprite_7","type":"animate","frames":4,"time":0.200,"name":"kaihuo_Yellow_","tab":{"beginNum":0,"plist":"effects/effectsRes/Fire.plist","isRepeat":false},
+     "r":-90,"ax":0.5,"ay":0.8,"x":0,"y":2,"z":2,"scaleX":1.4,"scaleY":1,"blend":[1,1],"opacity":0,"action":[]},
+ ],
+"views2_delay33":[
+  {"id":"Sprite_8","type":"animate","frames":6,"time":0.417,"name":"HuoQiu_","tab":{"beginNum":0,"plist":"effects/effectsRes/HuoQiu.plist","isRepeat":false},
+     "r":90,"ax":0.4967,"ay":1,"x":100,"y":0,"z":2,"scaleX":2.0,"scaleY":2.0,"blend":[1,771],"opacity":255,"color":[127,84,0],"action":[]},
+  {"id":"Sprite_8_0","type":"animate","frames":6,"time":0.417,"name":"HuoQiu_","tab":{"beginNum":0,"plist":"effects/effectsRes/HuoQiu.plist","isRepeat":false},
+     "r":90,"ax":0.4967,"ay":1,"x":100,"y":0,"z":3,"scaleX":2.0,"scaleY":2.0,"blend":[1,1],"opacity":255,"action":[]},
+ ],
+"views2_delay55":[
+  {"id":"RTD0_00_3","type":"animate","frames":8,"time":0.583,"name":"RTD_","tab":{"beginNum":0,"plist":"effects/effectsRes/RTD.plist","isRepeat":false},
+     "ax":0.5,"ay":0.5,"x":0,"y":0,"z":1,"scaleX":1.0,"scaleY":1.0,"blend":[1,1],"opacity":0,"color":[255,137,0],"action":[]},
+  {"id":"RTD0_00_3_0","type":"animate","frames":8,"time":0.583,"name":"RTD_","tab":{"beginNum":0,"plist":"effects/effectsRes/RTD.plist","isRepeat":false},
+     "ax":0.5,"ay":0.5,"x":0,"y":0,"z":2,"scaleX":1.0,"scaleY":1.0,"blend":[1,1],"opacity":0,"color":[255,202,140],"action":[]},
+ ]
+}

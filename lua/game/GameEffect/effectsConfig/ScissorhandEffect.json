@@ -1,0 +1,27 @@
+{
+
+"views1_delay29":[
+  {"id":"Weapontrail_00000_8","type":"animate","frames":6,"time":0.167,"name":"Weapontrail_sci111_","tab":{"beginNum":0,"plist":"effects/effectsRes/Weapontrail_sci.plist","isRepeat":false},
+     "ax":0.5,"ay":0.5,"x":0,"y":0,"z":1,"scaleX":1.0,"scaleY":1.0,"blend":[1,771],"opacity":0,"action":[]},
+ ],
+"views1_delay31":[
+  {"id":"Paw_Flare_00000_1","type":"animate","frames":6,"time":0.167,"name":"Paw_Flare_","tab":{"beginNum":0,"plist":"effects/effectsRes/Paw_Flare.plist","isRepeat":false},
+     "ax":0.5,"ay":0.5,"x":34,"y":-31,"z":2,"scaleX":0.5,"scaleY":0.5,"blend":[1,771],"opacity":0,"action":[]},
+ ],
+"views1_delay33":[
+  {"id":"Glow_02_3","type":"image","resPath":"effects/effectsRes/Glow_02.png",
+     "ax":0.5,"ay":0.5,"x":34,"y":-31,"z":3,"scaleX":0.6,"scaleY":0.6,"blend":[770,1],"opacity":0,"color":[255,121,254],"action":[]},
+ ],
+"views1_delay44":[
+  {"id":"Weapontrail_00006_10","type":"animate","frames":6,"time":0.167,"name":"Weapontrail_sci222_","tab":{"beginNum":0,"plist":"effects/effectsRes/Weapontrail_sci.plist","isRepeat":false},
+     "ax":0.5,"ay":0.5,"x":0,"y":0,"z":1,"scaleX":1.0,"scaleY":1.0,"blend":[1,771],"opacity":0,"action":[]},
+ ],
+"views1_delay46":[
+  {"id":"Paw_Flare_00000_1_0","type":"animate","frames":6,"time":0.167,"name":"Paw_Flare_","tab":{"beginNum":0,"plist":"effects/effectsRes/Paw_Flare.plist","isRepeat":false},
+     "r":40,"ax":0.5,"ay":0.5,"x":-32,"y":-31,"z":2,"scaleX":0.5,"scaleY":0.5,"blend":[1,771],"opacity":0,"action":[]},
+ ],
+"views1_delay48":[
+  {"id":"Glow_02_3_0","type":"image","resPath":"effects/effectsRes/Glow_02.png",
+     "ax":0.5,"ay":0.5,"x":-32,"y":-31,"z":3,"scaleX":0.6,"scaleY":0.6,"blend":[770,1],"opacity":0,"color":[255,121,254],"action":[]},
+ ],
+}

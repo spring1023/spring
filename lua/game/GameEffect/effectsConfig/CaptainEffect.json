@@ -1,0 +1,18 @@
+{
+"views1_delay14":[
+  {"id":"Particle_1","type":"particle","resPath":"particles/battleEffectCaptain1.json",
+     "x":0,"y":30,"z":2,"scaleX":1.0,"scaleY":1.0,"action":[]},
+ ],
+"views1_delay34":[
+  {"id":"Shield_00000_6","type":"animate","frames":5,"time":0.45,"name":"Shield_captain_","tab":{"beginNum":0,"plist":"effects/effectsRes/Shield_captain.plist","isRepeat":false},
+     "ax":0.5,"ay":0.5,"x":0,"y":30,"z":1,"scaleX":2.33,"scaleY":2.33,"blend":[770,1],"opacity":0,"color":[255,85,85],"action":[]},
+ ],
+"views2_delay54":[
+  {"id":"Particle_2","type":"particle","resPath":"particles/battleEffectCaptain2.json",
+     "x":0,"y":20,"z":3,"scaleX":1.5,"scaleY":1.5,"blend":[770,1],"action":[]},
+ ],
+"views2_delay59":[
+  {"id":"Glow_02_15","type":"image","resPath":"effects/effectsRes/Glow_02.png",
+     "ax":0.5,"ay":0.5,"x":0,"y":0,"z":0,"scaleX":0.5,"scaleY":0.375,"blend":[770,1],"opacity":153,"color":[247,146,181],"action":[]},
+ ]
+}

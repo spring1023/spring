@@ -1,0 +1,60 @@
+{
+"views1_delay9":[
+  {"id":"Sprite_17_0_0_0","type":"animate","frames":4,"time":0.100,"name":"kaihuo_Yellow_","tab":{"beginNum":0,"plist":"effects/effectsRes/Fire.plist","isRepeat":true},
+     "r":-90,"ax":0.5,"ay":0.75,"x":0,"y":0,"z":0,"scaleX":1,"scaleY":1,"blend":[770,1],"opacity":0,"action":[]},
+  {"id":"Glow_02_25","type":"image","resPath":"effects/effectsRes/Glow_02.png",
+     "ax":0.5,"ay":0.5,"x":0,"y":0,"z":1,"scaleX":1.0,"scaleY":1.0,"blend":[770,1],"opacity":0,"color":[255,123,0],"action":[]},
+  {"id":"Particle_6","type":"particle","resPath":"particles/battleEffectFirePoint.json","params":{"d":0.4},
+     "r":-90,"x":0,"y":0,"z":2,"scaleX":0.8,"scaleY":0.8,"blend":[770,1],"action":[]},
+  {"id":"Particle_6_0","type":"particle","resPath":"particles/battleEffectFirePoint.json","params":{"d":0.4},
+     "r":-90,"x":0,"y":0,"z":3,"scaleX":0.8,"scaleY":0.8,"blend":[770,1],"action":[]},
+  {"id":"Particle_6_1","type":"particle","resPath":"particles/battleEffectFirePoint.json","params":{"d":0.4},
+     "r":-90,"x":0,"y":0,"z":4,"scaleX":0.5,"scaleY":0.5,"blend":[770,1],"action":[]},
+  {"id":"Particle_6_1_0","type":"particle","resPath":"particles/battleEffectFirePoint.json","params":{"d":0.4},
+     "r":-90,"x":0,"y":0,"z":5,"scaleX":0.5,"scaleY":0.5,"blend":[770,1],"action":[]},
+ ],
+"views2_delay14":[
+  {"id":"Bullet_1_Y","type":"image","resPath":"effects/effectsRes/Cat_Bullet.png",
+     "r":90,"ax":0.5,"ay":0.5,"x":0,"y":0,"z":1,"scaleX":0.72,"scaleY":0.92,"blend":[1,771],"opacity":255,"action":[]},
+ ],
+"views3_delay37_glow":[
+  {"id":"Glow_02_46","type":"image","resPath":"effects/effectsRes/Glow_02.png",
+     "ax":0.5,"ay":0.5,"x":0,"y":0,"z":-1,"scaleX":0.5,"scaleY":0.5,"blend":[774,1],"opacity":0,"color":[255,162,121],"action":[]},
+ ],
+"views3_delay37":[
+  {"id":"Particle_16","type":"particle","resPath":"particles/battleEffectHit.json",
+     "x":0,"y":0,"z":0,"scaleX":1.0,"scaleY":1.0,"blend":[770,1],"action":[]},
+ ],
+"views4_delay34":[
+  {"id":"Sprite_17_0_0","type":"animate","frames":4,"time":0.18,"name":"kaihuo_Yellow_","tab":{"beginNum":0,"plist":"effects/effectsRes/Fire.plist","isRepeat":false},
+     "r":-90,"ax":0.5,"ay":0.75,"x":0,"y":0,"z":0,"scaleX":1,"scaleY":1,"blend":[770,1],"opacity":0,"action":[]},
+ ],
+"views4_delay37":[
+  {"id":"Glow_02_46_0","type":"image","resPath":"effects/effectsRes/Glow_02.png",
+     "ax":0.5,"ay":0.5,"x":0,"y":0,"z":-1,"scaleX":0.5,"scaleY":0.5,"blend":[774,1],"opacity":0,"color":[255,162,121],"action":[]},
+ ],
+"views5_delay34":[
+  {"id":"Sprite_6","type":"image","resPath":"effects/effectsRes/Rocket.png",
+     "r":-45,"ax":0.5,"ay":0.5,"x":0,"y":0,"z":0,"scaleX":1.7,"scaleY":1.7,"blend":[770,771],"opacity":0,"action":[]},
+  {"id":"Particle_1","type":"particle","resPath":"particles/battleEffectTrail1.json",
+     "r":-90,"x":-5,"y":0,"z":1,"scaleX":0.5,"scaleY":0.5,"blend":[1,771],"action":[]},
+  {"id":"Particle_1_0","type":"particle","resPath":"particles/battleEffectTrail1.json",
+     "r":-90,"x":-5,"y":0,"z":2,"scaleX":0.5,"scaleY":0.5,"blend":[770,1],"action":[]},
+ ],
+"views6_delay54":[
+  {"id":"Circle_1_0","type":"image","resPath":"effects/effectsRes/Circle.png",
+     "ax":0.5,"ay":0.5,"x":0,"y":0,"z":1,"scaleX":0.2,"scaleY":0.15,"blend":[770,1],"opacity":0,"action":[]},
+  {"id":"Circle_1","type":"image","resPath":"effects/effectsRes/Circle.png",
+     "ax":0.5,"ay":0.5,"x":0,"y":0,"z":2,"scaleX":0.2,"scaleY":0.15,"blend":[1,1],"opacity":0,"color":[255,52,0],"action":[]},
+  {"id":"hedangkeng2_13","type":"image","resPath":"effects/effectsRes/3004_hedangkeng2.png",
+     "ax":0.5,"ay":0.5,"x":0,"y":0,"z":3,"scaleX":1.0,"scaleY":0.8,"blend":[770,771],"opacity":0,"action":[]},
+  {"id":"Glow_02_14","type":"image","resPath":"effects/effectsRes/Glow_02.png",
+     "ax":0.5,"ay":0.5,"x":0,"y":0,"z":4,"scaleX":0.4,"scaleY":0.3,"blend":[770,1],"opacity":0,"color":[255,0,0],"action":[]},
+  {"id":"Glow_02_14_0","type":"image","resPath":"effects/effectsRes/Glow_02.png",
+     "ax":0.5,"ay":0.5,"x":0,"y":0,"z":5,"scaleX":0.2,"scaleY":0.15,"blend":[1,1],"opacity":0,"action":[]},
+  {"id":"Explosion_00000_11","type":"animate","frames":12,"time":0.550,"name":"Explosion2_","tab":{"beginNum":0,"plist":"effects/effectsRes/Explosion2.plist","isRepeat":false},
+     "ax":0.5,"ay":0.2,"x":0,"y":0,"z":6,"scaleX":1.67,"scaleY":1.67,"blend":[1,771],"opacity":0,"action":[]},
+  {"id":"Glow_02_2","type":"image","resPath":"effects/effectsRes/Glow_02.png",
+     "ax":0.5,"ay":0.5,"x":0,"y":0,"z":7,"scaleX":0.8,"scaleY":0.8,"blend":[770,1],"opacity":0,"action":[]},
+ ]
+}

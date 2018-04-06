@@ -1,0 +1,46 @@
+{
+ "twoRotaParticle":[
+ {"id":"Particle_2","type":"particle","resPath":"particles/battleEffectEquip3_2.json",
+     "x":105,"y":146,"z":2,"scaleX":1.0,"scaleY":1.0,"blend":[1,771],"action":[]},
+
+ {"id":"Particle_2_Copy","type":"particle","resPath":"particles/battleEffectEquip3_2.json",
+     "x":-123,"y":63,"z":3,"scaleX":1.0,"scaleY":1.0,"blend":[1,771],"action":[]}
+ ],
+ "upViews2":[
+ {"id":"Particle_1","type":"particle","resPath":"particles/battleEffectEquip3_1.json",
+     "x":-8,"y":94,"z":1,"scaleX":0.5,"scaleY":0.5,"blend":[1,771],"action":[]},
+ {"id":"Glow_01_1_0","type":"image","resPath":"effects/effectsRes/Glow_01.png",
+     "ax":0.5,"ay":0.5,"x":-7,"y":112,"z":4,"scaleX":0.1,"scaleY":0.1,"blend":[1,1],"color":[255,255,255],"action":[]},
+ {"id":"Glow_01","type":"image","resPath":"effects/effectsRes/Glow_02.png",
+     "ax":0.5,"ay":0.5,"x":-7,"y":112,"z":5,"scaleX":1,"scaleY":1,"blend":[774,1],"opacity":0,"color":[255,0,0],"action":[]},
+ {"id":"Glow_01_0_0","type":"image","resPath":"effects/effectsRes/Glow_01.png",
+     "ax":0.5,"ay":0.5,"x":-7,"y":112,"z":6,"scaleX":0.5,"scaleY":0.5,"blend":[770,1],"color":[255,0,0],"action":[]},
+ {"id":"Particle_1_0","type":"particle","resPath":"particles/battleEffectEquip3_1.json",
+     "x":-8,"y":102,"z":7,"scaleX":0.75,"scaleY":0.75,"blend":[1,771],"action":[]},
+
+{"id":"Glow_01_2","type":"image","resPath":"effects/effectsRes/Glow_02.png",
+     "ax":0.5,"ay":0.5,"x":-7,"y":112,"z":8,"scaleX":1,"scaleY":1,"blend":[774,1],"opacity":0,"color":[255,0,0],"action":[]},
+{"id":"Glow_01_1_1","type":"image","resPath":"effects/effectsRes/Glow_01.png",
+     "ax":0.5,"ay":0.5,"x":-7,"y":112,"z":8,"scaleX":0.1,"scaleY":0.1,"blend":[1,1],"opacity":0,"color":[255,0,9],"action":[]},
+{"id":"Glow_01_1_0_0","type":"image","resPath":"effects/effectsRes/Glow_01.png",
+     "ax":0.5,"ay":0.5,"x":-7,"y":112,"z":8,"scaleX":0.1,"scaleY":0.1,"blend":[1,1],"opacity":0,"action":[]},
+{"id":"Circle_R_00000_3_1","type":"image","resPath":"effects/effectsRes/Circle_R_00000.png",
+     "ax":0.5,"ay":0.5,"x":-7,"y":112,"z":8,"scaleX":0.1,"scaleY":0.1,"blend":[1,769],"opacity":0,"color":[255,0,0],"action":[]},
+{"id":"Circle_R_00000_3_0_0","type":"image","resPath":"effects/effectsRes/Circle_R_00000.png",
+     "ax":0.5,"ay":0.5,"x":-7,"y":112,"z":8,"scaleX":0.1,"scaleY":0.1,"blend":[1,1],"opacity":0,"color":[255,49,0],"action":[]},
+
+ {"id":"Death0000","type":"image","resPath":"effects/effectsRes/Death0000.png",
+     "ax":0.5,"ay":0.5,"x":-7,"y":112,"z":9,"scaleX":1.2,"scaleY":1.2,"blend":[1,771],"opacity":141,"action":[]},
+ {"id":"Death0000_0","type":"image","resPath":"effects/effectsRes/Death0000.png",
+     "ax":0.5,"ay":0.5,"x":-7,"y":112,"z":10,"scaleX":1.2,"scaleY":1.2,"blend":[1,1],"action":[]},
+ {"id":"Particle_1_0_0","type":"particle","resPath":"particles/battleEffectEquip3_1.json",
+     "x":-7,"y":112,"z":11,"scaleX":0.75,"scaleY":0.75,"blend":[1,1],"action":[]},
+ {"id":"Glow_01_1","type":"image","resPath":"effects/effectsRes/Glow_01.png",
+     "ax":0.5,"ay":0.5,"x":-7,"y":112,"z":12,"scaleX":0.1,"scaleY":0.1,"blend":[1,1],"opacity":0,"color":[255,0,9],"action":[]},
+ {"id":"Circle_R_00000_3","type":"image","resPath":"effects/effectsRes/Circle_R_00000.png",
+     "ax":0.5,"ay":0.5,"x":-7,"y":112,"z":13,"scaleX":0.1,"scaleY":0.1,"blend":[1,769],"opacity":0,"color":[255,0,0],"action":[]},
+ {"id":"Circle_R_00000_3_0","type":"image","resPath":"effects/effectsRes/Circle_R_00000.png",
+     "ax":0.5,"ay":0.5,"x":-7,"y":112,"z":14,"scaleX":0.1,"scaleY":0.1,"blend":[1,1],"opacity":0,"color":[255,49,0],"action":[]},
+
+ ]
+}
