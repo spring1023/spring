@@ -1,0 +1,28 @@
+{
+"allViews":[
+  {"id":"base_Glow_01_9_1","type":"image","resPath":"effects/effectsRes/Glow_01.png",
+     "ax":0.5,"ay":0.5,"x":0,"y":0,"z":2,"scaleX":0.2,"scaleY":0.2,"blend":[1,771],"opacity":0,"color":[0,0,0],"action":[]},
+  {"id":"Attack_00000_6_0_0","type":"image","resPath":"buffIconAtkUp0.png",
+     "ax":0.5,"ay":0.5,"x":0,"y":0,"z":3,"scaleX":1,"scaleY":1,"blend":[1,771],"opacity":0,"color":[255,162,113],"action":[]},
+  {"id":"Attack_00000_6_0_0_0","type":"image","resPath":"buffIconAtkUp0.png",
+     "ax":0.5,"ay":0.5,"x":0,"y":0,"z":4,"scaleX":1,"scaleY":1,"blend":[1,1],"opacity":0,"color":[255,153,153],"action":[]},
+  {"id":"Attack_00000_6_0","type":"image","resPath":"buffIconAtkUp0.png",
+     "ax":0.5,"ay":0.5,"x":0,"y":0,"z":5,"scaleX":1,"scaleY":1,"blend":[1,1],"opacity":0,"color":[255,21,0],"action":[]},
+  {"id":"Attack_00000_6","type":"image","resPath":"buffIconAtkUp0.png",
+     "ax":0.5,"ay":0.5,"x":0,"y":0,"z":6,"scaleX":1,"scaleY":1,"blend":[1,1],"opacity":0,"action":[]},
+  {"id":"Attack_00000_6_1","type":"image","resPath":"buffIconAtkUp0.png",
+     "ax":0.5,"ay":0.5,"x":0,"y":0,"z":7,"scaleX":1,"scaleY":1,"blend":[1,1],"opacity":0,"action":[]},
+  {"id":"Particle_1","type":"particle","resPath":"particles/battleEffectRedPoint.json",
+     "x":0,"y":0,"z":8,"scaleX":1.0,"scaleY":1.0,"blend":[1,1],"action":[]},
+  {"id":"Glow_01_9","type":"image","resPath":"effects/effectsRes/Glow_01.png",
+     "ax":0.5,"ay":0.5,"x":0,"y":0,"z":9,"scaleX":0.2,"scaleY":0.2,"blend":[1,1],"opacity":0,"color":[255,153,0],"action":[]},
+  {"id":"Glow_01_9_0","type":"image","resPath":"effects/effectsRes/Glow_01.png",
+     "ax":0.5,"ay":0.5,"x":0,"y":0,"z":10,"scaleX":0.5,"scaleY":0.5,"blend":[1,1],"opacity":0,"color":[255,119,0],"action":[]},
+  {"id":"Sprite_15","type":"image","resPath":"effects/effectsRes/Circle_R_00000.png",
+     "ax":0.5,"ay":0.5,"x":0,"y":0,"z":11,"scaleX":0.02,"scaleY":0.02,"blend":[1,1],"opacity":0,"action":[]},
+  {"id":"Sprite_15_0","type":"image","resPath":"effects/effectsRes/Circle_R_00000.png",
+     "ax":0.5,"ay":0.5,"x":0,"y":0,"z":12,"scaleX":0.02,"scaleY":0.02,"blend":[1,1],"opacity":0,"action":[]},
+  {"id":"Sprite_15_0_0","type":"image","resPath":"effects/effectsRes/Circle_R_00000.png",
+     "ax":0.5,"ay":0.5,"x":0,"y":0,"z":13,"scaleX":0.02,"scaleY":0.02,"blend":[1,1],"opacity":0,"action":[]},
+ ]
+}

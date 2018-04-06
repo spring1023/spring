@@ -1,0 +1,28 @@
+{
+"allViews":[
+  {"id":"jianguang_2","type":"image","resPath":"sceneArenaEffect1.png",
+     "ax":0.5,"ay":0.5,"x":-1254,"y":-1146,"z":1,"scaleX":2.9,"scaleY":2.9,"blend":[772,1],"opacity":0,"action":[]},
+  {"id":"jianguang_2_0","type":"image","resPath":"sceneArenaEffect1.png",
+     "ax":0.5,"ay":0.5,"x":-1090,"y":-1019,"z":2,"scaleX":2.9,"scaleY":2.9,"blend":[772,1],"opacity":0,"action":[]},
+  {"id":"jianguang_2_0_0","type":"image","resPath":"sceneArenaEffect2.png",
+     "ax":0.5,"ay":0.5,"x":-1427,"y":-1282,"z":3,"scaleX":2.62,"scaleY":2.62,"blend":[772,1],"opacity":0,"action":[]},
+  {"id":"fanguang_11","type":"image","resPath":"sceneArenaEffect3.png",
+     "ax":0.5,"ay":0.5,"x":-134,"y":-1263,"z":4,"scaleX":0.36,"scaleY":0.32,"blend":[772,1],"r":40,"action":[]},
+  {"id":"fanguang_12","type":"image","resPath":"sceneArenaEffect3.png",
+     "ax":0.5,"ay":0.5,"x":1708,"y":142,"z":5,"scaleX":0.36,"scaleY":0.28,"blend":[772,1],"r":38,"action":[]},
+  {"id":"fanguang_13","type":"image","resPath":"sceneArenaEffect3.png",
+     "ax":0.5,"ay":0.5,"x":-1756,"y":-8,"z":6,"scaleX":0.4,"scaleY":0.35,"blend":[772,1],"r":-90,"action":[]},
+  {"id":"fanguang_1","type":"image","resPath":"sceneArenaEffect3.png",
+     "ax":0.5,"ay":0.5,"x":236,"y":1235,"z":7,"scaleX":0.4,"scaleY":0.3,"blend":[772,1],"r":130,"action":[]},
+  {"id":"jianguang_2_1","type":"image","resPath":"sceneArenaEffect1.png",
+     "ax":0.5,"ay":0.5,"x":-1248,"y":-1152,"z":8,"scaleX":2.9,"scaleY":2.9,"blend":[772,1],"opacity":0,"action":[]},
+  {"id":"jianguang_2_0_1","type":"image","resPath":"sceneArenaEffect1.png",
+     "ax":0.5,"ay":0.5,"x":-1090,"y":-1019,"z":9,"scaleX":2.9,"scaleY":2.9,"blend":[772,1],"opacity":0,"action":[]},
+  {"id":"jianguang_2_0_0_0","type":"image","resPath":"sceneArenaEffect2.png",
+     "ax":0.5,"ay":0.5,"x":-1427,"y":-1282,"z":10,"scaleX":2.62,"scaleY":2.62,"blend":[772,1],"opacity":0,"action":[]},
+  {"id":"Sprite_8","type":"animate","frames":5,"time":0.5,"name":"sdian1_","tab":{"beginNum":0,"plist":"effects/UIeffectsRes/sdian1.plist","isRepeat":true},
+     "ax":0.5,"ay":0.5,"x":1523,"y":-511,"z":11,"scaleX":2,"scaleY":2,"blend":[772,1],"opacity":127,"action":[]},
+  {"id":"Particle_1","type":"particle","gz":1,"resPath":"particles/sceneArenaParti1.json",
+     "x":-1022,"y":-881,"z":12,"scaleX":4.0,"scaleY":4.0,"blend":[770,1],"r":-135,"action":[]},
+ ]
+}

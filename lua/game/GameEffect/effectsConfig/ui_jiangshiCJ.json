@@ -1,0 +1,22 @@
+{
+"allViews":[
+  {"id":"Particle_1","type":"particle","gz":1,"resPath":"particles/sceneSmokeParti1.json",
+     "x":-2177,"y":-431,"z":1,"scaleX":6.0,"scaleY":6.0,"blend":[770,771],"action":[]},
+  {"id":"Particle_1_0","type":"particle","gz":1,"resPath":"particles/sceneSmokeParti1.json",
+     "x":-2144,"y":1303,"z":2,"scaleX":6.0,"scaleY":6.0,"blend":[770,771],"action":[]},
+  {"id":"Particle_1_0_0","type":"particle","gz":1,"resPath":"particles/sceneSmokeParti1.json",
+     "x":-444,"y":1657,"z":3,"scaleX":6.0,"scaleY":6.0,"blend":[770,771],"r":90,"action":[]},
+  {"id":"Particle_1_0_0_0_0","type":"particle","gz":1,"resPath":"particles/sceneSmokeParti1.json",
+     "x":1693,"y":1438,"z":4,"scaleX":6.0,"scaleY":6.0,"blend":[770,771],"r":120,"action":[]},
+  {"id":"Particle_1_1","type":"particle","gz":1,"resPath":"particles/sceneSmokeParti1.json",
+     "x":-1654,"y":-1677,"z":5,"scaleX":6.0,"scaleY":6.0,"blend":[770,771],"r":-80,"action":[]},
+  {"id":"Particle_7","type":"particle","gz":1,"resPath":"particles/sceneLightParti1.json",
+     "x":1513,"y":733,"z":6,"scaleX":1.0,"scaleY":1.0,"blend":[770,1],"action":[]},
+  {"id":"Particle_7_0","type":"particle","gz":1,"resPath":"particles/sceneLightParti1.json",
+     "x":-1859,"y":-860,"z":7,"scaleX":2.0,"scaleY":2.0,"blend":[770,1],"r":60,"action":[]},
+  {"id":"Particle_7_0_0","type":"particle","gz":1,"resPath":"particles/sceneLightParti1.json",
+     "x":-1917,"y":1388,"z":8,"scaleX":3.0,"scaleY":3.0,"blend":[770,1],"r":135,"action":[]},
+  {"id":"Particle_2","type":"particle","gz":1,"resPath":"particles/sceneZombieParti1.json",
+     "x":2280,"y":-1971,"z":9,"scaleX":3.0,"scaleY":6.0,"blend":[770,1],"r":-120,"action":[]},
+ ]
+}

@@ -1,0 +1,10 @@
+{
+"allViews":[
+  {"id":"base_rtert_1","type":"image","resPath":"effects/UIeffectsRes/rtert.png",
+     "ax":0.5,"ay":0.5,"x":0,"y":0,"z":1,"scaleX":1.2,"scaleY":1.2,"blend":[1,771],"color":[255,99,0],"action":[]},
+  {"id":"rtert_1_0","type":"image","resPath":"effects/UIeffectsRes/rtert.png",
+     "ax":0.5,"ay":0.5,"x":0,"y":0,"z":2,"scaleX":1.2,"scaleY":1.2,"blend":[1,771],"color":[255,99,0],"action":[]},
+  {"id":"Particle_1","type":"particle","resPath":"particles/uiSkillLevelUp.json",
+     "x":0,"y":40,"z":3,"scaleX":1.8,"scaleY":1.8,"blend":[770,1],"action":[]},
+ ]
+}

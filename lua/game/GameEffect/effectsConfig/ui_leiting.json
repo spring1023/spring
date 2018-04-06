@@ -1,0 +1,14 @@
+{
+"allViews":[
+  {"id":"base_jian_13","type":"image","resPath":"effects/UIeffectsRes/jian.png",
+     "ax":0.5,"ay":0.5,"x":0,"y":0,"z":1,"scaleX":1.0,"scaleY":1.0,"blend":[772,1],"opacity":175,"action":[]},
+  {"id":"Sprite_7","type":"animate","frames":4,"time":0.33,"name":"dian_","tab":{"beginNum":0,"plist":"effects/UIeffectsRes/dian.plist","isRepeat":true},
+     "ax":0.5,"ay":0.5,"x":0,"y":0,"z":2,"scaleX":2.7606,"scaleY":3.6808,"blend":[772,1],"r":137,"action":[]},
+  {"id":"Sprite_7_0","type":"animate","frames":4,"time":0.33,"name":"dian_","tab":{"beginNum":0,"plist":"effects/UIeffectsRes/dian.plist","isRepeat":true},
+     "ax":0.5,"ay":0.5,"x":0,"y":0,"z":3,"scaleX":2.9246,"scaleY":3.8995,"blend":[772,1],"r":42,"action":[]},
+  {"id":"Sprite_7_0_0","type":"animate","frames":4,"time":0.33,"name":"dian_","tab":{"beginNum":0,"plist":"effects/UIeffectsRes/dian.plist","isRepeat":true},
+     "ax":0.5,"ay":0.5,"x":0,"y":0,"z":4,"scaleX":2.0,"scaleY":3.0,"blend":[772,1],"r":110,"action":[]},
+  {"id":"Particle_1","type":"particle","resPath":"particles/equipFeatureParti2.json",
+     "x":0,"y":0,"z":0,"scaleX":3.2,"scaleY":3.2,"blend":[770,1],"r":62,"action":[]},
+ ]
+}

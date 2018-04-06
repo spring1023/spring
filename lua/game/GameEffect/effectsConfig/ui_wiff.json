@@ -1,0 +1,8 @@
+{
+"allViews":[
+  {"id":"Sprite_1","type":"image","resPath":"effects/UIeffectsRes/wiff_back.png",
+     "ax":0.5,"ay":0.5,"x":0,"y":0,"z":1,"scaleX":1.0,"scaleY":1.0,"blend":[1,771],"opacity":89,"action":[]},
+  {"id":"Sprite_2","type":"image","resPath":"effects/UIeffectsRes/wiff.png",
+     "ax":0.5,"ay":0.5,"x":0,"y":0,"z":2,"scaleX":1.0,"scaleY":1.0,"blend":[1,771],"opacity":255,"action":[]}
+]
+}

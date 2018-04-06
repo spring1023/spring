@@ -1,0 +1,31 @@
+{
+"views1_delay0":[
+  {"id":"GF_472_1","type":"image","resPath":"effects/effectsRes/GF_472_222.png",
+     "ax":0.5,"ay":0.5,"x":0,"y":0,"z":0,"scaleX":0.5,"scaleY":0.5,"blend":[1,1],"opacity":0,"color":[0,80,255],"action":[]},
+  {"id":"GF_472_1_0","type":"image","resPath":"effects/effectsRes/GF_472_222.png",
+     "ax":0.5,"ay":0.5,"x":0,"y":0,"z":0,"scaleX":0.5,"scaleY":0.5,"blend":[1,1],"opacity":0,"action":[]},
+  {"id":"Glow_16_5","type":"image","resPath":"partiPointBlue2.png",
+     "ax":0.5,"ay":0.5,"x":0,"y":0,"z":1,"scaleX":2.96,"scaleY":2.96,"blend":[1,1],"action":[]},
+  {"id":"Qiu_00001_3","type":"image","resPath":"effects/effectsRes/Qiu_00001.png",
+     "ax":0.5,"ay":0.5,"x":0,"y":0,"z":2,"scaleX":0.6,"scaleY":0.6,"blend":[1,1],"action":[]},
+  {"id":"FengQiu_2","type":"image","resPath":"effects/effectsRes/FengQiu.png",
+     "ax":0.5,"ay":0.5,"x":0,"y":0,"z":3,"scaleX":0.85,"scaleY":0.85,"blend":[1,1],"color":[0,104,255],"action":[]},
+  {"id":"Glow_16_5_0","type":"image","resPath":"partiPointBlue2.png",
+     "ax":0.5,"ay":0.5,"x":0,"y":0,"z":4,"scaleX":2.96,"scaleY":2.96,"blend":[1,1],"action":[]},
+  
+],
+"views2_delay0":[
+  {"id":"Uif_2","type":"image","resPath":"effects/effectsRes/Uif.png",
+     "ax":0.5,"ay":0.5,"x":0,"y":0,"z":7,"scaleX":0.7,"scaleY":0.7,"blend":[1,771],"action":[]},
+  {"id":"GF_472_3","type":"image","resPath":"effects/effectsRes/GF_472_222.png",
+     "ax":0.5,"ay":0.5,"x":0,"y":0,"z":8,"scaleX":2.0,"scaleY":2.0,"blend":[1,1],"opacity":0,"color":[255,107,0],"action":[]},
+  {"id":"Circle00205_7","type":"image","resPath":"effects/effectsRes/Circle00205.png",
+     "ax":0.5,"ay":0.5,"x":0,"y":0,"z":9,"scaleX":1.0,"scaleY":1.0,"blend":[1,1],"opacity":0,"action":[]},
+],
+"views2_delay20":[
+  {"id":"GF_472_3_0","type":"image","resPath":"effects/effectsRes/GF_472_222.png",
+     "ax":0.5,"ay":0.5,"x":0,"y":0,"z":10,"scaleX":1.5333,"scaleY":1.5333,"blend":[1,1],"opacity":169,"color":[255,107,0],"action":[]},
+  {"id":"Circle00205_7_0","type":"image","resPath":"effects/effectsRes/Circle00205.png",
+     "ax":0.5,"ay":0.5,"x":0,"y":0,"z":11,"scaleX":0.72,"scaleY":0.72,"blend":[1,1],"opacity":118,"action":[]},
+ ]
+}

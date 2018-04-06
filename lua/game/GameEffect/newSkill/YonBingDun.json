@@ -1,0 +1,22 @@
+{
+"views1_delay0":[
+  {"id":"DunPai01_3","type":"image","resPath":"effects/effectsRes/DunPai01.png",
+     "ax":0.5,"ay":0.5,"x":0,"y":0,"z":-5,"scaleX":0.3,"scaleY":0.3,"blend":[1,771],"opacity":0,"action":[]},
+  {"id":"DunPai01_3_0","type":"image","resPath":"effects/effectsRes/DunPai01.png",
+     "ax":0.5,"ay":0.5,"x":0,"y":0,"z":-4,"scaleX":0.2,"scaleY":0.2,"blend":[1,1],"opacity":0,"action":[]},
+  {"id":"DunPai01_3_0_0","type":"image","resPath":"effects/effectsRes/DunPai01.png",
+     "ax":0.5,"ay":0.5,"x":0,"y":0,"z":-1,"scaleX":0.3,"scaleY":0.3,"blend":[1,1],"opacity":0,"action":[]},
+  {"id":"Sprite_11","type":"image","resPath":"effects/effectsRes/Circle_R.png",
+     "ax":0.5,"ay":0.5,"x":0,"y":0,"z":1,"scaleX":0.01,"scaleY":0.01,"blend":[1,1],"opacity":0,"action":[]},
+ ],
+"views1_delay5":[
+  {"id":"DunPai01_3_0_1","type":"image","resPath":"effects/effectsRes/DunPai01.png",
+     "ax":0.5,"ay":0.5,"x":0,"y":0,"z":-3,"scaleX":0.2,"scaleY":0.2,"blend":[1,1],"opacity":0,"action":[]},
+  {"id":"Glow_01_10","type":"image","resPath":"effects/effectsRes/Glow_01.png",
+     "ax":0.5,"ay":0.5,"x":0,"y":0,"z":0,"scaleX":0.1,"scaleY":0.1,"blend":[1,1],"opacity":0,"action":[]},
+ ],
+"views1_delay10":[
+  {"id":"DunPai01_3_0_1_0","type":"image","resPath":"effects/effectsRes/DunPai01.png",
+     "ax":0.5,"ay":0.5,"x":0,"y":0,"z":-2,"scaleX":0.2,"scaleY":0.2,"blend":[1,1],"opacity":0,"action":[]},
+ ]
+}

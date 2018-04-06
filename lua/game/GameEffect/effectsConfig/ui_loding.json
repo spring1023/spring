@@ -1,0 +1,6 @@
+{
+"allViews":[
+	{"id":"loading_00000_2","type":"animate","frames":12,"time":0.8,"name":"loading_","tab":{"beginNum":0,"plist":"effects/UIeffectsRes/loading.plist","isRepeat":true},
+     "ax":0.5,"ay":0.5,"x":0,"y":0,"z":1,"scaleX":1.0,"scaleY":1.0,"blend":[1,771],"opacity":255,"action":[]},
+ ]
+}

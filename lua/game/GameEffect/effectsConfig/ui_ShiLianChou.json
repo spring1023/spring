@@ -1,0 +1,49 @@
+{
+"views_0":[
+  {"id":"Particle_1","type":"particle","resPath":"particles/uiHeroExtract1.json",
+     "x":0,"y":0,"z":12,"scaleX":13.0,"scaleY":15.0,"blend":[1,1],"r":26,"action":[]},
+  {"id":"Particle_1_0","type":"particle","resPath":"particles/uiHeroExtract1.json",
+     "x":0,"y":0,"z":13,"scaleX":13.0,"scaleY":15.0,"blend":[1,1],"r":26,"action":[]},
+],
+"views_1":[
+  {"id":"JiaoS_4","type":"image","resPath":"effects/UIeffectsRes/JiaoS.png",
+     "ax":0.5,"ay":0.5,"x":0,"y":0,"z":2,"scaleX":1.6,"scaleY":1.6,"blend":[1,771],"opacity":0,"action":[]},
+  {"id":"JiaoS_4_0","type":"image","resPath":"effects/UIeffectsRes/JiaoS.png",
+     "ax":0.5,"ay":0.5,"x":0,"y":0,"z":3,"scaleX":1.6,"scaleY":1.6,"blend":[1,1],"opacity":0,"color":[219,0,255],"action":[]},
+],
+"views_2":[
+  {"id":"JiaoS_4_2","type":"image","resPath":"effects/UIeffectsRes/JiaoS.png",
+     "ax":0.5,"ay":0.5,"x":0,"y":0,"z":9,"scaleX":1.6,"scaleY":1.6,"blend":[1,771],"opacity":0,"action":[]},
+  {"id":"JiaoS_4_0_2","type":"image","resPath":"effects/UIeffectsRes/JiaoS.png",
+     "ax":0.5,"ay":0.5,"x":0,"y":0,"z":10,"scaleX":1.6,"scaleY":1.6,"blend":[1,1],"opacity":0,"color":[0,24,255],"action":[]},
+],
+"views_3":[
+  {"id":"GF_472_5","type":"image","resPath":"effects/UIeffectsRes/GF_472.png",
+     "ax":0.5,"ay":0.5,"x":0,"y":0,"z":4,"scaleX":2.0,"scaleY":2.0,"blend":[1,1],"opacity":0,"color":[255,99,0],"action":[]},
+  {"id":"GF_472_5_0","type":"image","resPath":"effects/UIeffectsRes/GF_472.png",
+     "ax":0.5,"ay":0.5,"x":0,"y":0,"z":5,"scaleX":2.0,"scaleY":2.0,"blend":[1,1],"opacity":0,"action":[]},
+  {"id":"JiaoS_4_0_0","type":"image","resPath":"effects/UIeffectsRes/JiaoS.png",
+     "ax":0.5,"ay":0.5,"x":0,"y":0,"z":6,"scaleX":1.6,"scaleY":1.6,"blend":[1,1],"opacity":0,"color":[255,159,0],"action":[]},
+  {"id":"Sprite_10","type":"animate","frames":9,"time":0.52,"name":"shishiBao_","tab":{"beginNum":0,"plist":"effects/UIeffectsRes/shishiBao.plist","isRepeat":false},
+     "ax":0.5,"ay":0.5,"x":0,"y":0,"z":7,"scaleX":2.0,"scaleY":2.0,"blend":[1,1],"opacity":0,"action":[]},
+  {"id":"UIguang_00000_12","type":"animate","frames":16,"time":1.250,"name":"shishiXian_","tab":{"beginNum":0,"plist":"effects/UIeffectsRes/shishiXian.plist","isRepeat":true},
+     "ax":0.5,"ay":0.5,"x":0,"y":0,"z":8,"scaleX":3.0,"scaleY":3.0,"blend":[1,1],"opacity":0,"action":[]},
+],
+
+"views_4":[
+  {"id":"BeiJingGuang_2","type":"image","resPath":"effects/UIeffectsRes/BeiJingGuang.png",
+     "ax":1.95,"ay":2.0532,"x":0,"y":0,"z":14,"scaleX":0.7,"scaleY":0.7,"blend":[1,1],"opacity":0,"color":[255,240,179],"action":[]},
+  {"id":"GF_472_12","type":"image","resPath":"effects/UIeffectsRes/GF_472.png",
+     "ax":0.5,"ay":0.5,"x":0,"y":0,"z":17,"scaleX":3.0,"scaleY":3.0,"blend":[1,1],"opacity":0,"color":[255,146,0],"action":[]},
+  {"id":"GF_472_12_0","type":"image","resPath":"effects/UIeffectsRes/GF_472.png",
+     "ax":0.5,"ay":0.5,"x":0,"y":0,"z":18,"scaleX":2.0,"scaleY":2.0,"blend":[1,1],"opacity":0,"color":[255,86,0],"action":[]},
+  {"id":"GF_472_7_0","type":"image","resPath":"effects/UIeffectsRes/GF_472.png",
+     "ax":0.5,"ay":0.5,"x":0,"y":0,"z":19,"scaleX":4.0,"scaleY":4.0,"blend":[1,1],"opacity":0,"action":[]},
+  {"id":"JiaoS_5","type":"image","resPath":"effects/UIeffectsRes/JiaoS.png",
+     "ax":0.5,"ay":0.5,"x":0,"y":0,"z":20,"scaleX":0.5,"scaleY":0.5,"blend":[1,1],"opacity":0,"action":[]},
+  {"id":"JiaoS_5_0","type":"image","resPath":"effects/UIeffectsRes/JiaoS.png",
+     "ax":0.5,"ay":0.5,"x":0,"y":0,"z":21,"scaleX":0.5,"scaleY":0.5,"blend":[1,1],"opacity":0,"color":[255,178,0],"action":[]},
+  {"id":"GF_472_7","type":"image","resPath":"effects/UIeffectsRes/GF_472.png",
+     "ax":0.5,"ay":0.5,"x":0,"y":0,"z":22,"scaleX":4.0,"scaleY":4.0,"blend":[1,1],"opacity":0,"color":[255,176,0],"action":[]}
+ ]
+}

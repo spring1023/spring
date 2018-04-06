@@ -1,0 +1,18 @@
+{
+"views2_delay65":[
+  {"id":"Circle_Hue130_1","type":"image","resPath":"effects/UIeffectsRes/Circle_Hue130.png",
+     "ax":0.5,"ay":0.5,"x":11,"y":-16,"z":-1,"scaleX":0.6,"scaleY":0.45,"blend":[1,1],"opacity":0,"color":[4,110,255],"action":[]},
+  {"id":"Glow_01_2_0","type":"image","resPath":"effects/UIeffectsRes/Glow_01.png",
+     "ax":0.5,"ay":0.5,"x":30,"y":6,"z":3,"scaleX":2,"scaleY":1.5,"blend":[770,1],"opacity":0,"color":[152,0,255],"action":[]},
+  {"id":"Glow_01_2","type":"image","resPath":"effects/UIeffectsRes/Glow_01.png",
+     "ax":0.5,"ay":0.5,"x":30,"y":6,"z":4,"scaleX":4,"scaleY":3,"blend":[770,1],"opacity":0,"color":[19,0,255],"action":[]},
+ ],
+"views2_delay59":[
+  {"id":"Relive_00000_18","type":"animate","frames":13,"time":0.600,"name":"Relive_","tab":{"beginNum":0,"isRepeat":false},
+     "ax":0.5,"ay":0.5,"x":20,"y":73,"z":1,"scaleX":4,"scaleY":4,"blend":[770,1],"opacity":0,"action":[]},
+ ],
+"views2_delay94":[
+  {"id":"Line_00000_19_0","type":"animate","frames":7,"time":0.500,"name":"Line_","tab":{"beginNum":0,"plist":"effects/effectsRes/Line.plist","isRepeat":true},
+     "ax":0.5,"ay":0.5,"x":16,"y":29,"z":2,"scaleX":6,"scaleY":6,"blend":[1,1],"opacity":0,"action":[]},
+ ]
+}

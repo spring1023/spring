@@ -1,0 +1,32 @@
+{
+"views1_delay40":[
+  {"id":"Swordwoman_Sword_60_0000_5","type":"image","resPath":"effects/effectsRes/Swordwoman_Sword_60_0000.png",
+     "ax":0.5,"ay":0.5,"x":0,"y":0,"z":1,"scaleX":1.0,"scaleY":1.0,"blend":[1,771],"action":[]},
+  {"id":"Line_00001_11","type":"animate","frames":9,"time":0.417,"name":"Swordwoman_Line_","tab":{"beginNum":0,"plist":"effects/effectsRes/Swordwoman_Line.plist","isRepeat":false},
+     "r":5,"ax":0.684,"ay":0.37,"x":0,"y":0,"z":2,"scaleX":1,"scaleY":1,"blend":[1,771],"action":[]},
+ ],
+"views2_delay63":[
+  {"id":"Flare_7","type":"image","resPath":"effects/effectsRes/2004_Flare.png",
+     "ax":0.5,"ay":0.5,"x":0,"y":0,"z":1,"scaleX":0.8562,"scaleY":0.7,"blend":[1,771],"opacity":0,"action":[]},
+  {"id":"Glow_02_9","type":"image","resPath":"effects/effectsRes/Glow_02_b.png",
+     "ax":0.5,"ay":0.5,"x":0,"y":0,"z":2,"scaleX":3.5,"scaleY":3.5,"blend":[1,1],"opacity":0,"color":[11,148,255],"action":[]},
+ ],
+  "views3_delay10":[
+  {"id":"Glow_16_9","type":"image","resPath":"partiPointBlue2.png",
+     "ax":0.5,"ay":0.5,"x":0,"y":0,"z":1,"scaleX":0.8,"scaleY":0.8,"blend":[1,1],"action":[]},
+  {"id":"Glow_16_9_0","type":"image","resPath":"partiPointBlue2.png",
+     "ax":0.5,"ay":0.5,"x":0,"y":0,"z":2,"scaleX":0.8,"scaleY":0.8,"blend":[1,1],"opacity":127,"action":[]},
+ ],
+"views4_delay20":[
+  {"id":"Line_00001_11","type":"animate","frames":9,"time":0.417,"name":"Swordwoman_Line_","tab":{"beginNum":0,"plist":"effects/effectsRes/Swordwoman_Line.plist","isRepeat":false},
+     "r":-40,"ax":0.684,"ay":0.37,"x":80,"y":0,"z":3,"scaleX":0.6,"scaleY":0.6,"blend":[1,771],"action":[]},
+  {"id":"CRDds_01_00_11","type":"animate","frames":4,"time":0.250,"name":"CRD_","tab":{"beginNum":0,"plist":"effects/effectsRes/CRD.plist","isRepeat":true},
+     "r":180,"ax":1.0,"ay":0.5,"x":0,"y":0,"z":0,"scaleX":1,"scaleY":1,"blend":[1,1],"action":[]},
+ ],
+"views5_delay44":[
+  {"id":"Glow_02_9_0","type":"image","resPath":"effects/effectsRes/Glow_02.png",
+     "ax":0.5,"ay":0.5,"x":0,"y":0,"z":1,"scaleX":0.7,"scaleY":0.7,"blend":[1,1],"opacity":0,"color":[11,148,255],"action":[]},
+  {"id":"Sprite_12","type":"animate","frames":4,"time":0.200,"name":"Impact_","tab":{"beginNum":0,"plist":"effects/effectsRes/Impact.plist","isRepeat":false},
+     "ax":0.5,"ay":0.5,"x":0,"y":0,"z":2,"scaleX":1.0,"scaleY":1.0,"blend":[1,1],"opacity":0,"action":[]},
+ ]
+}

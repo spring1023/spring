@@ -1,0 +1,9 @@
+{
+"allViews":[
+  {"id":"Sprite_3","type":"image","resPath":"lightEffect2.png",
+     "ax":0.5,"ay":0.5,"x":16,"y":18,"z":1,"scaleX":1.4,"scaleY":1.4,"blend":[772,1],"opacity":115,"color":[0,255,0],
+     "action":["repeat", ["spawn", [["rotateBy", 2, 360], ["sequence", [["fadeTo", 1, 255], ["fadeTo", 1, 51]]]]]]},
+  {"id":"Particle_1","type":"particle","resPath":"particles/uiActLight.json",
+     "x":4,"y":-14,"z":2,"scaleX":2.0,"scaleY":2.0,"blend":[1,1],"action":[]},
+ ]
+}

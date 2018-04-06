@@ -1,0 +1,10 @@
+{
+"allViews":[
+  {"id":"base_Particle_2","type":"particle","resPath":"particles/fireSmokeParti1.json",
+     "x":0,"y":0,"z":1,"scaleX":0.6,"scaleY":0.6,"blend":[773,771],"action":[]},
+  {"id":"Particle_2_0","type":"particle","resPath":"particles/fireSmokeParti1.json",
+     "x":0,"y":0,"z":2,"scaleX":0.6,"scaleY":0.6,"blend":[773,771],"action":[]},
+  {"id":"Particle_1","type":"particle","resPath":"particles/fireParti1.json",
+     "x":0,"y":0,"z":3,"scaleX":0.65,"scaleY":0.6,"blend":[770,1],"action":[]},
+ ]
+}

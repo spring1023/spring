@@ -1,0 +1,6 @@
+{
+"allViews":[
+  {"type":"particle","resPath":"particles/uiAngerGroup.json",
+     "x":0,"y":0,"z":1,"gz":3,"scaleX":0.8,"scaleY":1.0,"blend":[770,1]},
+ ]
+}

@@ -1,0 +1,28 @@
+{
+"views1_delay4":[
+  {"id":"Particle_3_0","type":"particle","resPath":"particles/battleEffectShield1.json",
+     "x":0,"y":-40,"z":1,"scaleX":1.0,"scaleY":1.0,"blend":[1,1],"action":[]},
+  {"id":"Particle_3","type":"particle","resPath":"particles/battleEffectShield1.json",
+     "x":0,"y":-40,"z":2,"scaleX":1.0,"scaleY":1.0,"blend":[1,1],"action":[]},
+  {"id":"Gundam_Shield_15_1","type":"image","resPath":"effects/effectsRes/Gundam_Shield2.png",
+     "ax":0.5,"ay":0.5,"x":0,"y":0,"z":3,"scaleX":0.8,"scaleY":0.8,"blend":[1,771],"opacity":0,"color":[122,74,0],"action":[]},
+  {"id":"Gundam_Shield_15","type":"image","resPath":"effects/effectsRes/Gundam_Shield2.png",
+     "ax":0.5,"ay":0.5,"x":0,"y":0,"z":4,"scaleX":0.8,"scaleY":0.8,"blend":[1,1],"opacity":0,"action":[]},
+  {"id":"Shield_Glow_00000_16","type":"animate","frames":10,"time":0.750,"name":"Shield_Glow_Yellow_","tab":{"beginNum":0,"plist":"effects/effectsRes/Shield_Glow_Yellow.plist","isRepeat":true},
+     "ax":0.5,"ay":0.5,"x":0,"y":0,"z":5,"scaleX":3.2,"scaleY":3.2,"blend":[1,1],"opacity":0,"action":[]},
+ ],
+"views1_delay10":[
+  {"id":"Glow_01_1","type":"image","resPath":"effects/effectsRes/Glow_01.png",
+     "ax":0.5,"ay":0.5,"x":0,"y":0,"z":0,"scaleX":0.2,"scaleY":0.2,"blend":[1,1],"opacity":0,"action":[]},
+  {"id":"Gundam_Shield_15_0","type":"image","resPath":"effects/effectsRes/Gundam_Shield2.png",
+     "ax":0.5,"ay":0.5,"x":0,"y":0,"z":6,"scaleX":0.8,"scaleY":0.8,"blend":[1,1],"opacity":0,"action":[]},
+ ],
+"views1_delay14":[
+  {"id":"Gundam_Shield_15_0_0","type":"image","resPath":"effects/effectsRes/Gundam_Shield2.png",
+     "ax":0.5,"ay":0.5,"x":0,"y":0,"z":7,"scaleX":0.8,"scaleY":0.8,"blend":[1,1],"opacity":0,"action":[]},
+ ],
+"views1_delay19":[
+  {"id":"Gundam_Shield_15_0_0_0","type":"image","resPath":"effects/effectsRes/Gundam_Shield2.png",
+     "ax":0.5,"ay":0.5,"x":0,"y":0,"z":8,"scaleX":0.8,"scaleY":0.8,"blend":[1,1],"opacity":0,"action":[]},
+ ]
+}

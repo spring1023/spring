@@ -1,0 +1,73 @@
+{
+
+"views1_delay24":[
+  {"id":"Particle_1","type":"particle","resPath":"particles/battleEffectWarlock2.json",
+     "x":165,"y":15,"z":1,"scaleX":0.7,"scaleY":0.7,"blend":[1,771],"skewX":-50.0,"skewY":-49.9947,"action":[]},
+  {"id":"Particle_1_0","type":"particle","resPath":"particles/battleEffectWarlock2.json",
+     "x":165,"y":15,"z":2,"scaleX":0.7,"scaleY":0.7,"blend":[770,1],"skewX":-50.0,"skewY":-49.9956,"action":[]},
+ ],
+"views1_delay20":[
+  {"id":"Glow_01_7","type":"image","resPath":"effects/effectsRes/Glow_01.png",
+     "ax":0.5,"ay":0.5,"x":156,"y":27,"z":3,"scaleX":0.8,"scaleY":0.8,"blend":[770,1],"opacity":0,"color":[79,0,255],"action":[]},
+  {"id":"Glow_01_7_0","type":"image","resPath":"effects/effectsRes/Glow_01.png",
+     "ax":0.5,"ay":0.5,"x":160,"y":20,"z":4,"scaleX":0.75,"scaleY":0.75,"blend":[770,1],"opacity":0,"color":[0,135,255],"action":[]},
+ ],
+"views2_delay0":[
+  {"id":"Particle_3","type":"particle","resPath":"particles/battleEffectWarlock1.json",
+     "x":152,"y":-399,"z":-2,"scaleX":1.0,"scaleY":1.0,"blend":[1,771],"action":[]},
+  {"id":"Particle_3_0","type":"particle","resPath":"particles/battleEffectWarlock1.json",
+     "x":145,"y":-394,"z":-1,"scaleX":1.0,"scaleY":1.0,"blend":[770,1],"action":[]},
+ ],
+"views2_delay54":[
+  {"id":"Glow_01_7_b","type":"image","resPath":"effects/effectsRes/Glow_01.png",
+     "ax":0.5,"ay":0.5,"x":156,"y":27,"z":3,"scaleX":0.8,"scaleY":0.8,"blend":[770,1],"opacity":0,"color":[79,0,255],"action":[]},
+  {"id":"Glow_01_7_0_b","type":"image","resPath":"effects/effectsRes/Glow_01.png",
+     "ax":0.5,"ay":0.5,"x":160,"y":20,"z":4,"scaleX":0.75,"scaleY":0.75,"blend":[770,1],"opacity":0,"color":[0,135,255],"action":[]},
+  {"id":"person_Glow_01_9","type":"image","resPath":"effects/effectsRes/Glow_01.png",
+     "ax":0.5,"ay":0.5,"x":156,"y":-398,"z":0,"scaleX":0.7,"scaleY":0.7,"blend":[770,1],"opacity":0,"color":[78,0,255],"action":[]},
+ ],
+"views3_delay59":[
+  {"id":"Particle_2","type":"particle","resPath":"particles/battleEffectColorPoints.json",
+     "x":-162,"y":436,"z":4,"scaleX":1.0,"scaleY":1.0,"blend":[1,1],"action":[]},
+ ],
+"views3_delay50":[
+  {"id":"Line_00000_23","type":"animate","frames":6,"time":0.417,"name":"Magic_Circle_Line_","tab":{"beginNum":0,"plist":"effects/effectsRes/Magic_Circle_Line.plist","isRepeat":false},
+     "ax":0.5,"ay":0.2,"x":-167,"y":659,"z":1,"scaleX":3,"scaleY":3,"blend":[1,771],"opacity":0,"action":[]},
+ ],
+"views3_delay35":[
+  {"id":"Glow_01_20","type":"image","resPath":"effects/effectsRes/Glow_01.png",
+     "ax":0.5,"ay":0.5,"x":-167,"y":513,"z":-2,"scaleX":1.0,"scaleY":1.0,"blend":[1,771],"opacity":0,"color":[181,0,255],"action":[]},
+  {"id":"Magic_Circle_Hue220_19","type":"image","resPath":"effects/effectsRes/Magic_Circle_Hue220.png",
+     "ax":0.5,"ay":0.5,"x":-167,"y":513,"z":-1,"scaleX":1.5,"scaleY":1.5,"blend":[1,771],"skewX":-36.0,"skewY":-36.0,"opacity":0,"action":[]},
+  {"id":"Glow_01_20_0","type":"image","resPath":"effects/effectsRes/Glow_01.png",
+     "ax":0.5,"ay":0.5,"x":-167,"y":513,"z":2,"scaleX":1.5,"scaleY":1.5,"blend":[770,1],"opacity":0,"color":[0,7,255],"action":[]},
+  {"id":"Glow_01_20_0_0","type":"image","resPath":"effects/effectsRes/Glow_01.png",
+     "ax":0.5,"ay":0.5,"x":-167,"y":513,"z":3,"scaleX":0.7,"scaleY":0.7,"blend":[770,1],"opacity":0,"color":[255,124,244],"action":[]},
+ ],
+"views4_delay0":[
+  {"id":"Particle_5","type":"particle","resPath":"particles/battleEffectWarlock1.json",
+     "x":-12,"y":-49,"z":-1,"scaleX":1.0,"scaleY":0.75,"blend":[770,771],"action":[]},
+ ],
+"views4_delay49":[
+  {"id":"Circle_Hue130_3","type":"image","resPath":"effects/effectsRes/Circle_Hue130.png",
+     "ax":0.5,"ay":0.5,"x":-11,"y":-48,"z":3,"scaleX":0.1,"scaleY":0.075,"blend":[770,1],"opacity":0,"action":[]},
+  {"id":"Glow_01_14_0","type":"image","resPath":"effects/effectsRes/Glow_01.png",
+     "ax":0.5,"ay":0.5,"x":-12,"y":-48,"z":4,"scaleX":1.0,"scaleY":0.75,"blend":[770,1],"opacity":0,"color":[17,0,255],"action":[]},
+  {"id":"Glow_01_14_0_0","type":"image","resPath":"effects/effectsRes/Glow_01.png",
+     "ax":0.5,"ay":0.5,"x":-12,"y":-48,"z":5,"scaleX":0.5,"scaleY":0.375,"blend":[770,1],"opacity":0,"color":[0,174,255],"action":[]},
+ ],
+"views4_delay54":[
+  {"id":"Smoke_00000_2","type":"animate","frames":12,"time":0.550,"name":"Smoke_Purple_","tab":{"beginNum":0,"plist":"effects/effectsRes/Smoke_Purple.plist","isRepeat":false},
+     "ax":0.5,"ay":0.2,"x":-20,"y":69,"z":1,"scaleX":1.6,"scaleY":1.6,"blend":[1,771],"opacity":0,"color":[0,0,0],"action":[]},
+  {"id":"Smoke_00000_2_0","type":"animate","frames":12,"time":0.550,"name":"Smoke_Purple_","tab":{"beginNum":0,"plist":"effects/effectsRes/Smoke_Purple.plist","isRepeat":false},
+     "ax":0.5,"ay":0.2,"x":-20,"y":69,"z":2,"scaleX":1.6,"scaleY":1.6,"blend":[1,771],"opacity":0,"color":[113,113,113],"action":[]},
+ ],
+ "views4_delay139":[
+  {"id":"Impact_Purple_00000_2_a","type":"animate","frames":11,"time":0.417,"name":"Impact_Purple_","tab":{"beginNum":0,"plist":"effects/effectsRes/Impact_Purple.plist","isRepeat":false},
+     "ax":0.5,"ay":0.5,"x":101,"y":-173,"z":6,"scaleX":2.5,"scaleY":2.5,"blend":[1,771],"opacity":0,"action":[]},
+  {"id":"Glow_01_3_a","type":"image","resPath":"effects/effectsRes/Glow_01.png",
+     "ax":0.5,"ay":0.5,"x":100,"y":-172,"z":7,"scaleX":2.3,"scaleY":2.3,"blend":[770,1],"opacity":0,"color":[51,0,255],"action":[]},
+  {"id":"Glow_01_3_0_a","type":"image","resPath":"effects/effectsRes/Glow_01.png",
+     "ax":0.5,"ay":0.5,"x":100,"y":-172,"z":8,"scaleX":0.8,"scaleY":0.8,"blend":[770,1],"opacity":0,"color":[154,174,255],"action":[]},
+ ]
+}

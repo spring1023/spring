@@ -1,0 +1,16 @@
+{
+"allViews1":[
+  {"id":"Particle_2","type":"particle","resPath":"particles/uiStageLight2.json",
+     "x":0,"y":0,"z":1,"scaleX":1.3,"scaleY":1.3,"blend":[1,1],"action":[]},
+  {"id":"GF_472_3","type":"image","resPath":"effects/UIeffectsRes/GF_472.png",
+     "ax":0.5,"ay":0.5,"x":0,"y":0,"z":2,"scaleX":3,"scaleY":3,"blend":[1,1],"opacity":255,"color":[0,88,255],"action":[]},
+],
+"allViews2":[
+  {"id":"Sprite_6","type":"image","resPath":"effects/UIeffectsRes/556_2.png",
+     "ax":0.5,"ay":0.5,"x":0,"y":0,"z":1,"scaleX":3.2,"scaleY":3.2,"blend":[770,1],"opacity":102,"color":[255,0,0],"action":[]},
+  {"id":"Sprite_6_0","type":"image","resPath":"effects/UIeffectsRes/556_2.png",
+     "ax":0.5,"ay":0.5,"x":0,"y":0,"z":2,"scaleX":3.2,"scaleY":3.2,"blend":[770,1],"opacity":102,"color":[255,255,0],"action":[]},
+  {"id":"Particle_1","type":"particle","resPath":"particles/uiStageLight.json",
+     "x":0,"y":0,"z":3,"scaleX":1.2,"scaleY":1.2,"blend":[770,1],"action":[]},
+ ]
+}

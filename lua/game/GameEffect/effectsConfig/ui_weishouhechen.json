@@ -1,0 +1,36 @@
+{
+"views_delay0":[
+  {"id":"base_shiwei_1","type":"image","resPath":"effects/UIeffectsRes/shiwei1.png",
+     "ax":0.5,"ay":0.5,"x":0,"y":0,"z":1,"scaleX":1.0,"scaleY":1.0,"blend":[1,771],"action":[]},
+],
+"views_delay0_par":[
+  {"id":"Particle_1","type":"particle","resPath":"particles/unionPetsMerge1.json",
+     "x":0,"y":0,"z":2,"scaleX":0.5,"scaleY":0.5,"blend":[770,1],"action":[]},
+  {"id":"Particle_2","type":"particle","resPath":"particles/unionPetsMerge2.json",
+     "x":0,"y":0,"z":3,"scaleX":1.0,"scaleY":1.0,"blend":[1,1],"action":[]},
+ ],
+ "views_delay70":[
+  {"id":"guangquan1_1_0_0_0","type":"image","resPath":"effects/effectsRes/guangquan1.png",
+     "ax":0.5,"ay":0.5,"x":2,"y":2,"z":23,"scaleX":13.7772,"scaleY":13.7772,"blend":[1,771],"opacity":0,"color":[208,255,0],"action":[]},
+ ],
+"views_delay80":[
+  {"id":"guangquan1_1_0_0","type":"image","resPath":"effects/effectsRes/guangquan1.png",
+     "ax":0.5,"ay":0.5,"x":2,"y":2,"z":22,"scaleX":13.7772,"scaleY":13.7772,"blend":[1,771],"opacity":0,"color":[255,255,0],"action":[]},
+ ],
+"views_delay90":[
+  {"id":"guangquan1_1_0","type":"image","resPath":"effects/effectsRes/guangquan1.png",
+     "ax":0.5,"ay":0.5,"x":2,"y":2,"z":21,"scaleX":13.7772,"scaleY":13.7772,"blend":[1,771],"opacity":0,"color":[208,255,0],"action":[]},
+ ],
+"views_delay145":[
+  {"id":"Particle_34","type":"particle","resPath":"particles/unionPetsMerge3.json",
+    "x":0,"y":1,"z":24,"scaleX":1.5,"scaleY":1.5,"blend":[1,1],"action":[]},
+ ],
+"views_delay149":[
+    {"id":"guangquan1_1","type":"image","resPath":"effects/effectsRes/guangquan1.png",
+     "ax":0.5,"ay":0.5,"x":2,"y":2,"z":20,"scaleX":1.97,"scaleY":1.97,"blend":[1,771],"color":[255,255,0],"action":[]},
+
+    {"id":"Sprite_5","type":"image","resPath":"effects/UIeffectsRes/animesanpuru19_004.png",
+     "ax":0.5,"ay":0.5,"x":2,"y":7,"z":25,"scaleX":5.25,"scaleY":5.25,"blend":[1,1],"color":[255,110,0],"action":[]},
+ ],
+
+}

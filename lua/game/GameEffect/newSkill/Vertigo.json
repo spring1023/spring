@@ -1,0 +1,43 @@
+{
+"views1_delay0":[
+  {"id":"Glow_16_2","type":"image","resPath":"partiPointBlue2.png",
+     "ax":0.5,"ay":0.5,"x":0,"y":0,"z":1,"scaleX":4,"scaleY":4,"blend":[1,771],"opacity":0,"action":[]},
+  {"id":"Sprite_4_1","type":"image","resPath":"effects/effectsRes/Shockwave2.png",
+     "ax":0.5,"ay":0.5,"x":0,"y":0,"z":2,"scaleX":0.1,"scaleY":0.1,"blend":[1,1],"opacity":0,"action":[]},
+ ],
+"views1_delay20":[
+  {"id":"Sprite_4_0_1","type":"image","resPath":"effects/effectsRes/Shockwave2.png",
+     "ax":0.5,"ay":0.5,"x":0,"y":0,"z":3,"scaleX":0.1,"scaleY":0.1,"blend":[1,1],"opacity":0,"action":[]},
+ ],
+"views1_delay40":[
+  {"id":"Sprite_4_0_0_1","type":"image","resPath":"effects/effectsRes/Shockwave2.png",
+     "ax":0.5,"ay":0.5,"x":0,"y":0,"z":4,"scaleX":0.1,"scaleY":0.1,"blend":[1,1],"opacity":0,"action":[]},
+ ],
+"views1_delay60":[
+  {"id":"Sprite_4_0_0_0_1","type":"image","resPath":"effects/effectsRes/Shockwave2.png",
+     "ax":0.5,"ay":0.5,"x":0,"y":0,"z":5,"scaleX":0.1,"scaleY":0.1,"blend":[1,1],"opacity":0,"action":[]},
+ ],
+"views1_delay80":[
+  {"id":"Sprite_4_0_0_0_0_0","type":"image","resPath":"effects/effectsRes/Shockwave2.png",
+     "ax":0.5,"ay":0.5,"x":0,"y":0,"z":6,"scaleX":0.1,"scaleY":0.1,"blend":[1,1],"opacity":0,"action":[]},
+ ],
+"views2_delay0":[
+  {"id":"Vertigo_00000_3","type":"animate","frames":5,"time":0.333,"name":"buffVertigo_","tab":{"beginNum":0,"plist":"effects/battleEffects.plist","isRepeat":true},
+     "ax":0.5,"ay":0.5,"x":0,"y":120,"z":1,"scaleX":1,"scaleY":1,"blend":[1,1],"action":[]},
+  {"id":"Glow_16_1","type":"image","resPath":"partiPointBlue2.png",
+     "ax":0.5,"ay":0.5,"x":0,"y":0,"z":2,"scaleX":1.6,"scaleY":1.6,"blend":[1,1],"opacity":0,"action":[]},
+ ],
+
+"views2_delay30":[
+  {"id":"Glow_16_1_0","type":"image","resPath":"partiPointBlue2.png",
+     "ax":0.5,"ay":0.5,"x":0,"y":0,"z":3,"scaleX":1.6,"scaleY":1.6,"blend":[1,1],"opacity":0,"action":[]},
+ ],
+"views2_delay60":[
+  {"id":"Glow_16_1_0_0","type":"image","resPath":"partiPointBlue2.png",
+     "ax":0.5,"ay":0.5,"x":0,"y":0,"z":4,"scaleX":1.6,"scaleY":1.6,"blend":[1,1],"opacity":0,"action":[]},
+ ],
+"views2_delay90":[
+  {"id":"Glow_16_1_0_0_0","type":"image","resPath":"partiPointBlue2.png",
+     "ax":0.5,"ay":0.5,"x":0,"y":0,"z":5,"scaleX":1.6,"scaleY":1.6,"blend":[1,1],"opacity":0,"action":[]},
+ ]
+}

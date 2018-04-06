@@ -1,0 +1,12 @@
+{
+"views_up":[
+  {"id":"guangci1025_2","type":"image","resPath":"effects/UIeffectsRes/guangci1025.png",
+     "ax":0.5,"ay":0.5,"x":0,"y":0,"z":1,"scaleX":1.5,"scaleY":1.5,"blend":[1,771],"color":[255,117,0],"opacity":170,"action":[]},
+  {"id":"guangci1025_2_0","type":"image","resPath":"effects/UIeffectsRes/guangci1025.png",
+     "ax":0.5,"ay":0.5,"x":0,"y":0,"z":2,"scaleX":1.2,"scaleY":1.2,"blend":[1,1],"color":[255,160,0],"opacity":127,"action":[]},
+],
+"views_down":[
+  {"id":"Glow_00003_3","type":"image","resPath":"effects/UIeffectsRes/Glow_00003.png",
+     "ax":0.5,"ay":0.5,"x":0,"y":0,"z":4,"scaleX":1.2,"scaleY":1.2,"blend":[1,1],"color":[255,181,0],"action":[]},
+ ]
+}

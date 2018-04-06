@@ -1,0 +1,16 @@
+{
+  "allViews1":[
+  {"id":"xuanzhong_1","type":"image","resPath":"effects/UIeffectsRes/lianjinkuan.png",
+     "ax":0.5,"ay":0.5,"x":0,"y":0,"z":3,"scaleX":1.0,"scaleY":1.0,"blend":[772,1],"action":[]},
+  {"id":"xuanzhong_1_0","type":"image","resPath":"effects/UIeffectsRes/lianjinkuan.png",
+     "ax":0.5,"ay":0.5,"x":0,"y":0,"z":4,"scaleX":1.0,"scaleY":1.0,"blend":[772,1],"action":[]},
+  {"id":"Particle_3","type":"particle","resPath":"particles/uiMeltingGroup.json",
+     "x":0,"y":0,"z":5,"scaleX":1.4,"scaleY":1.4,"blend":[772,1],"action":[]},
+ ],
+"allViews2":[
+  {"id":"kkk_4","type":"image","resPath":"effects/UIeffectsRes/kkk.png",
+     "ax":0.5,"ay":0.5,"x":0,"y":0,"z":1,"scaleX":1.8,"scaleY":1.8,"blend":[1,1],"action":[]},
+  {"id":"kkk_4_0","type":"image","resPath":"effects/UIeffectsRes/kkk.png",
+     "ax":0.5,"ay":0.5,"x":0,"y":0,"z":2,"scaleX":2.2,"scaleY":2.2,"blend":[1,1],"r":90,"action":[]},
+ ]
+}

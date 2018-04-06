@@ -1,0 +1,8 @@
+{
+"allViews":[
+ {"id":"Particle_1_0","type":"particle","resPath":"particles/uiBeercupParti.json",
+     "x":0,"y":0,"z":1,"scaleX":0.7,"scaleY":0.7,"blend":[1,1],"action":[]},
+  {"id":"GF_472_1","type":"image","resPath":"effects/UIeffectsRes/GF_472.png",
+     "ax":0.5,"ay":0.5,"x":0,"y":0,"z":2,"scaleX":1.23,"scaleY":1.16,"blend":[1,1],"opacity":50,"color":[0,255,77],"action":[]},
+ ]
+}

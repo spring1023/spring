@@ -1,0 +1,10 @@
+{
+"allViews":[
+  {"id":"base_Sprite_2","type":"image","resPath":"effects/effectsRes/circle2.png",
+     "ax":0.5,"ay":0.5,"x":0,"y":0,"z":0,"scaleX":2.8,"scaleY":2.8,"blend":[1,1],"opacity":76,"color":[255,185,0],"action":[]},
+  {"id":"guangzhuan_1","type":"image","resPath":"effects/effectFireBall1.png",
+     "ax":0.4989,"ay":0.4944,"x":-4,"y":-5,"z":1,"scaleX":1.2,"scaleY":1.2,"blend":[772,1],"action":[]},
+  {"id":"Particle_1","type":"particle","resPath":"particles/uiAwakeUp.json",
+     "x":-3,"y":-3,"z":2,"scaleX":1.8,"scaleY":1.8,"blend":[770,1],"action":[]},
+ ]
+}

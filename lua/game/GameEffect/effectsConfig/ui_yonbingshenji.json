@@ -1,0 +1,22 @@
+{
+"allViews":[
+  {"id":"base_JiaoS_8","type":"image","resPath":"effects/UIeffectsRes/JiaoS.png",
+     "ax":0.5,"ay":0.5,"x":0,"y":0,"z":1,"scaleX":1.15,"scaleY":1.15,"blend":[1,1],"opacity":0,"color":[255,116,0],"action":[]},
+  {"id":"XianTiao_01_00002_2","type":"animate","frames":10,"time":0.833,"name":"XianTiao_","tab":{"beginNum":0,"plist":"effects/UIeffectsRes/XianTiao.plist","isRepeat":false},
+     "ax":0.5,"ay":0.5,"x":-3,"y":3,"z":2,"scaleX":2.0,"scaleY":2.0,"blend":[1,1],"action":[]},
+  {"id":"XianTiao_01_00002_2_0","type":"animate","frames":10,"time":0.833,"name":"XianTiao_","tab":{"beginNum":0,"plist":"effects/UIeffectsRes/XianTiao.plist","isRepeat":false},
+     "ax":0.5,"ay":0.5,"x":-3,"y":3,"z":3,"scaleX":2.0,"scaleY":2.0,"blend":[1,1],"color":[255,0,0],"action":[]},
+  {"id":"UP_00016_3","type":"image","resPath":"effects/UIeffectsRes/UP_00016.png",
+     "ax":0.5,"ay":0.5,"x":-1,"y":-20,"z":4,"scaleX":1.0,"scaleY":1.0,"blend":[1,771],"opacity":0,"color":[255,92,0],"action":[]},
+  {"id":"UP_00016_3_0","type":"image","resPath":"effects/UIeffectsRes/UP_00016.png",
+     "ax":0.5,"ay":0.5,"x":-1,"y":-20,"z":5,"scaleX":1.0,"scaleY":1.0,"blend":[1,1],"opacity":0,"action":[]},
+  {"id":"ish_kapailevelup_4","type":"image","resPath":"effects/UIeffectsRes/ish_kapailevelup.png",
+     "ax":0.5,"ay":0.5,"x":-5,"y":13,"z":6,"scaleX":0.5,"scaleY":0.5,"blend":[1,771],"opacity":0,"color":[255,102,0],"action":[]},
+  {"id":"ish_kapailevelup_4_0","type":"image","resPath":"effects/UIeffectsRes/ish_kapailevelup.png",
+     "ax":0.5,"ay":0.5,"x":-5,"y":13,"z":7,"scaleX":0.5,"scaleY":0.5,"blend":[1,1],"opacity":0,"action":[]},
+],
+"butViews":[
+  {"id":"JiaoS_9","type":"image","resPath":"effects/UIeffectsRes/JiaoS.png",
+     "ax":0.5,"ay":0.5,"x":0,"y":0,"z":8,"scaleX":1.7,"scaleY":0.65,"blend":[1,1],"opacity":0,"action":[]},
+ ]
+}

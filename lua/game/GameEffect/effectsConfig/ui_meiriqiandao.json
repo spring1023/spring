@@ -1,0 +1,51 @@
+{
+  "allViews1":[
+    {"id":"yuqisan_4","type":"image","resPath":"lightEdge1.png",
+      "ax":0.5,"ay":0.5,"x":123,"y":-11,"z":1,"scaleX":3.2,"scaleY":3.2,"blend":[1,771],"r":100,"opacity":127,"visible":false,
+      "action":["spawn", [
+        ["sequence", [["delay", 0.483], "show", ["delay", 0.267], "remove"]],
+        ["sequence", [["delay", 0.5], ["spawn", [
+          ["moveBy", 0.25, 94, 10],
+          ["scaleTo", 0.25, 6, 6],
+          ["fadeOut", 0.25],
+          ["rotateBy", 0.25, -16]
+        ]]]]
+    ]]},
+    {"id":"yuqisan_4_0","type":"image","resPath":"lightEdge1.png",
+      "ax":0.5,"ay":0.5,"x":-77,"y":-86,"z":2,"scaleX":3.2,"scaleY":3.2,"blend":[1,771],"r":208,"opacity":127,"visible":false,
+      "action":["spawn", [
+        ["sequence", [["delay", 0.483], "show", ["delay", 0.267], "remove"]],
+        ["sequence", [["delay", 0.5], ["spawn", [
+          ["moveBy", 0.25, -93, 16],
+          ["scaleTo", 0.25, 6, 6],
+          ["fadeOut", 0.25],
+          ["rotateBy", 0.25, 16]
+        ]]]]
+    ]]},
+    {
+      "id":"base_yinzhan_2","type":"image","resPath":"unionSelectionRedBack.png",
+      "ax":0.5,"ay":0.5,"x":0,"y":0,"z":3,"scaleX":3.0,"scaleY":3.0,"blend":[1,771],"r":-180,"opacity":0,
+      "action":["spawn", [
+        ["scaleTo", 0.5, 1, 1],
+        ["fadeIn", 0.5, 255],
+        ["rotateBy", 0.5, 180]
+    ]]},
+  ],
+  "allViews2":[
+    {"id":"guangquan1_1","type":"image","resPath":"lightCircle1.png",
+      "ax":0.5,"ay":0.5,"x":0,"y":0,"z":4,"scaleX":1.15,"scaleY":1.15,"blend":[772,1],
+      "action":["spawn", [
+        ["scaleTo",0.333,3.5,3.5],
+        ["sequence", [["fadeTo",0.333,0],"remove"]]
+    ]]},
+    {"id":"Sprite_4","type":"image","resPath":"lightEffect1.png",
+      "ax":0.5,"ay":0.5,"x":0,"y":0,"z":5,"scaleX":1.1,"scaleY":1.1,"blend":[1,1],
+      "action":["spawn", [
+        ["moveBy",0.333,11,-10],
+        ["scaleTo",0.333,4.0,4.0],
+        ["sequence", [["fadeTo",0.333,0], "remove"]]
+    ]]},
+    {"id":"qianquan000_6","type":"animate","frames":4,"time":0.3,"name":"quan_","tab":{"beginNum":0,"plist":"effects/UIeffectsRes/quan.plist","isRepeat":false},
+     "ax":0.5,"ay":0.5,"x":0,"y":0,"z":6,"scaleX":2.0,"scaleY":2.0,"blend":[1,771]},
+  ]
+}

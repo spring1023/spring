@@ -1,0 +1,12 @@
+{
+"allViews":[
+  {"id":"base_Quan01_3_0","type":"image","resPath":"effects/effectsRes/Quan01.png",
+     "ax":0.5,"ay":0.5,"x":0,"y":0,"z":2,"scaleX":3.0,"scaleY":3.0,"blend":[1,771],"opacity":0,"action":[]},
+  {"id":"Quan01_3","type":"image","resPath":"effects/effectsRes/Quan01.png",
+     "ax":0.5,"ay":0.5,"x":0,"y":0,"z":3,"scaleX":3.0,"scaleY":3.0,"blend":[1,771],"opacity":0,"action":[]},
+  {"id":"Sprite_5_0","type":"image","resPath":"effects/effectsRes/4Jian02.png",
+     "ax":0.5,"ay":0.5,"x":0,"y":0,"z":4,"scaleX":3.5,"scaleY":3.5,"blend":[1,1],"opacity":0,"color":[255,203,0],"action":[]},
+  {"id":"Sprite_5","type":"image","resPath":"effects/effectsRes/4Jian02.png",
+     "ax":0.5,"ay":0.5,"x":0,"y":0,"z":5,"scaleX":3.5,"scaleY":3.5,"blend":[1,771],"opacity":0,"action":[]}
+ ]
+}

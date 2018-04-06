@@ -1,0 +1,36 @@
+{
+"views1_delay29":[
+  {"id":"Glow_02_12","type":"image","resPath":"effects/effectsRes/Glow_02.png",
+     "ax":0.5,"ay":0.5,"x":0,"y":0,"z":1,"scaleX":0.5,"scaleY":0.5,"blend":[772,769],"opacity":0,"color":[255,0,0],"action":[]},
+  {"id":"Particle_1","type":"particle","resPath":"particles/battleEffectVampire1.json",
+     "x":0,"y":0,"z":4,"scaleX":1.0,"scaleY":1.0,"blend":[1,771],"action":[]},
+ ],
+"views1_delay46":[
+  {"id":"Sprite_1","type":"image","resPath":"effects/effectsRes/bloodsucker_0.png",
+     "ax":0.5,"ay":0.5,"x":0,"y":0,"z":2,"scaleX":0.5,"scaleY":0.5,"blend":[1,771],"opacity":0,"action":[]},
+ ],
+"views1_delay49":[
+  {"id":"Blood_00011_9","type":"animate","frames":5,"time":0.333,"name":"Blood_sucker_","tab":{"beginNum":0,"plist":"effects/effectsRes/Blood_sucker.plist","isRepeat":false},
+     "ax":0.5,"ay":0.5,"x":0,"y":0,"z":3,"scaleX":3.3,"scaleY":3.3,"blend":[1,771],"opacity":0,"action":[]},
+ ],
+"views1_delay59":[
+  {"id":"Particle_2","type":"particle","resPath":"particles/battleEffectLineUpYellow.json",
+     "x":0,"y":0,"z":5,"scaleX":1.0,"scaleY":1.0,"blend":[770,1],"action":[]},
+  {"id":"Particle_3","type":"particle","resPath":"particles/battleEffectColorPoints.json",
+     "x":0,"y":0,"z":6,"scaleX":0.8,"scaleY":0.8,"blend":[1,1],"action":[]},
+ ],
+  "views2_delay29":[
+  {"id":"Glow_02_12","type":"image","resPath":"effects/effectsRes/Glow_02.png",
+     "ax":0.5,"ay":0.5,"x":0,"y":0,"z":1,"scaleX":0.25,"scaleY":0.25,"blend":[772,769],"opacity":0,"color":[255,0,0],"action":[]},
+  {"id":"Particle_1","type":"particle","resPath":"particles/battleEffectVampire1.json",
+     "x":0,"y":0,"z":4,"scaleX":0.5,"scaleY":0.5,"blend":[1,771],"action":[]},
+ ],
+"views2_delay46":[
+  {"id":"Sprite_1","type":"image","resPath":"effects/effectsRes/bloodsucker_0.png",
+     "ax":0.5,"ay":0.5,"x":0,"y":0,"z":2,"scaleX":0.25,"scaleY":0.25,"blend":[1,771],"opacity":0,"action":[]},
+ ],
+"views2_delay49":[
+  {"id":"Blood_00011_9","type":"animate","frames":5,"time":0.333,"name":"Blood_sucker_","tab":{"beginNum":0,"plist":"effects/effectsRes/Blood_sucker.plist","isRepeat":false},
+     "ax":0.5,"ay":0.5,"x":0,"y":0,"z":3,"scaleX":0.5,"scaleY":0.5,"blend":[1,771],"opacity":0,"action":[]},
+ ]
+}

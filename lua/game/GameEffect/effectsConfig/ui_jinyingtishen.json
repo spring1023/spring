@@ -1,0 +1,12 @@
+{
+"allViews":[
+  {"id":"Particle_1_0","type":"particle","resPath":"particles/uiLevelUp2.json",
+     "x":0,"y":0,"z":1,"scaleX":2.0,"scaleY":2.0,"blend":[1,1],"action":[]},
+  {"id":"Particle_3","type":"particle","resPath":"particles/uiLevelUp.json",
+     "x":0,"y":0,"z":2,"scaleX":2.0,"scaleY":2.0,"blend":[770,771],"action":[]},
+  {"id":"base_jinyan_3","type":"image","resPath":"effects/UIeffectsRes/jinyan.png",
+     "ax":0.5,"ay":0.5,"x":0,"y":98,"z":3,"scaleX":3.0,"scaleY":3.0,"blend":[1,771],"opacity":0,"action":[]},
+  {"id":"jinyanguang_4_0","type":"image","resPath":"effects/UIeffectsRes/jinyanG.png",
+     "ax":0.5,"ay":0.5,"x":0,"y":0,"z":4,"scaleX":3.5,"scaleY":3.5,"blend":[1,1],"opacity":0,"action":[]},
+ ]
+}
